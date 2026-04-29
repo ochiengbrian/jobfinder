@@ -357,3 +357,60 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/senior-backend-engineer-hf-group
 - **Quality Assurance Engineer** at HF Group (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/quality-assurance-engineer-hf-group-1
+
+## 2026-04-29 21:15 UTC — 27 new job(s)
+
+- **AI Orchestration Engineer - Computer Science** at Zetech University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-orchestration-engineer-computer-science-zetech-university
+- **Computer Science Teacher** at Crawford International School (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/computer-science-teacher-crawford-international-school
+- **Executive Operations – Chaingers** at Henkel (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/executive-operations-chaingers-henkel/
+- **Junior AI Developer** at Nathan Digital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/junior-ai-developer-nathan-digital/
+- **Accounts Intern** at Plexus Energy Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/accounts-intern-plexus-energy-limited/
+- **Submit CVs – New Recruitment** at SBM Bank (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-sbm-bank-6/
+- **Submit CVs – Latest Recruitment** at Pavago (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-pavago/
+- **Compliance Officer** at Bank of Africa Kenya Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/compliance-officer-bank-africa-kenya-limited-2/
+- **Marketing Executive** at Bidii Credit Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/marketing-executive-bidii-credit-limited/
+- **Senior Specialist, MEAL** at Habitat for Humanity International (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-specialist-meal-habitat-humanity-international/
+- **Deputy Commissioner, Revenue Monitoring** at PKF firms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/deputy-commissioner-revenue-monitoring-pkf-firms/
+- **Business Development Manager – Strathmore Entrepreneurship Development and Innovation Centre (SEDIC)** at Strathmore University (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-manager-strathmore-entrepreneurship-development-innovation-centre-sedic-strathmore-university/
+- **Claims Officer** at Valley Hospital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/claims-officer-valley-hospital-2/
+- **Customer Relations Officer (Locum)** at Valley Hospital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/customer-relations-officer-locum-valley-hospital/
+- **Business Development Executives** at Valley Hospital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-executives-valley-hospital-2/
+- **Disability Etiquette Trainer Consultant** at inABLE (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/disability-etiquette-trainer-consultant-inable/
+- **Information Systems Officer, P3 at United Nations Office** at Nairobi (UNON) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-systems-officer-p3-united-nations-office-nairobi-unon-2/
+- **Submit CVs – New Recruitment** at Solvo Global (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-solvo-global/
+- **Project Development Lead, Maldives Project (GBFF12031) and Indonesia Policy Coherence Project (GEF12073)** at United Nations Environment Programme (UNEP) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/project-development-lead-maldives-project-gbff12031-indonesia-policy-coherence-project-gef12073-united-nations-environment-programme-unep/
+- **Debt Recovery assistant** at Glacier Products Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/debt-recovery-assistant-glacier-products-limited/
+- **Country Director – Kenya** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/country-director-kenya-international-rescue-committee/
+- **Country Director – Somalia** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/country-director-somalia-international-rescue-committee/
+- **Child Protection Specialist- Financing for Scale, P-4, Fixed Term Position, Global Programme Division, Child Protection & Migration COE** at UNICEF (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/child-protection-specialist-financing-scale-p-4-fixed-term-position-global-programme-division-child-protection-migration-coe-unicef/
+- **Business Development Advisor – Eldoret** at Inkomoko (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-advisor-eldoret-inkomoko-2/
+- **Elevator Mechanic** at Amentum (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/elevator-mechanic-amentum/
+- **Volunteer Liaison – Kenya** at CorpsAfrica (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/volunteer-liaison-kenya-corpsafrica/
+- **Procurement Assistant** at Micro Enterprises Support Programme Trust (MESPT) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/procurement-assistant-micro-enterprises-support-programme-trust-mespt/
