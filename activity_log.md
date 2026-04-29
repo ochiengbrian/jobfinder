@@ -414,3 +414,34 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/volunteer-liaison-kenya-corpsafrica/
 - **Procurement Assistant** at Micro Enterprises Support Programme Trust (MESPT) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/procurement-assistant-micro-enterprises-support-programme-trust-mespt/
+
+## 2026-04-29 23:19 UTC — 14 new job(s)
+
+- **Artificial Intelligence (AI) Project Manager - Colombia or Kenya** at Mercy Corps (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/artificial-intelligence-ai-project-manager-colombia-or-kenya-mercy-corps
+- **AI Orchestration Engineer - Computer Science** at Zetech University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-orchestration-engineer-computer-science-zetech-university
+- **Senior Frontend Engineer** at HF Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-frontend-engineer-hf-group
+- **Senior Backend Engineer** at HF Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-backend-engineer-hf-group
+- **Submit CVs – New Recruitment** at Solvo Global (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-solvo-global/
+- **Executive Operations – Chaingers** at Henkel (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/executive-operations-chaingers-henkel/
+- **Junior AI Developer** at Nathan Digital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/junior-ai-developer-nathan-digital/
+- **Submit CVs – New Recruitment** at SBM Bank (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-sbm-bank-6/
+- **Submit CVs – Latest Recruitment** at Pavago (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-latest-recruitment-pavago/
+- **Compliance Officer** at Bank of Africa Kenya Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/compliance-officer-bank-africa-kenya-limited-2/
+- **General Accountant** at Fairmont Hotels & Resorts (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/general-accountant-fairmont-hotels-resorts-4/
+- **Information Systems Officer, P3 at United Nations Office** at Nairobi (UNON) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-systems-officer-p3-united-nations-office-nairobi-unon-2/
+- **Claims Officer** at Valley Hospital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/claims-officer-valley-hospital-2/
+- **Customer Relations Officer (Locum)** at Valley Hospital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/customer-relations-officer-locum-valley-hospital/
