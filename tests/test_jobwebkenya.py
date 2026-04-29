@@ -3,7 +3,7 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 import pytest
 
-from scrapers.jobwebkenya import parse_jobs, parse_date, is_kenya
+from scrapers.jobwebkenya import parse_jobs, parse_date
 
 
 # --- parse_date ---
@@ -23,20 +23,6 @@ def test_parse_date_invalid_returns_none():
 def test_parse_date_empty_returns_none():
     assert parse_date("") is None
 
-
-# --- is_kenya ---
-
-def test_is_kenya_nairobi():
-    assert is_kenya("Nairobi") is True
-
-def test_is_kenya_kenya():
-    assert is_kenya("Kenya") is True
-
-def test_is_kenya_case_insensitive():
-    assert is_kenya("NAIROBI, KENYA") is True
-
-def test_is_kenya_other_country():
-    assert is_kenya("Lagos, Nigeria") is False
 
 
 # --- parse_jobs ---

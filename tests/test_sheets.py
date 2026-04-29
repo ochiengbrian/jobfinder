@@ -36,9 +36,10 @@ def test_save_jobs_writes_new_jobs(mock_get_sheet):
     mock_ws.get_all_records.return_value = []  # Sheet is empty
     mock_get_sheet.return_value = mock_ws
 
-    result = sheets_client.save_jobs(MOCK_JOBS)
+    count, new_jobs = sheets_client.save_jobs(MOCK_JOBS)
 
-    assert result == 2
+    assert count == 2
+    assert len(new_jobs) == 2
     mock_ws.append_rows.assert_called_once()
 
 
@@ -51,10 +52,11 @@ def test_save_jobs_skips_duplicates(mock_get_sheet):
     ]
     mock_get_sheet.return_value = mock_ws
 
-    result = sheets_client.save_jobs(MOCK_JOBS)
+    count, new_jobs = sheets_client.save_jobs(MOCK_JOBS)
 
     # Only 1 new job (the Fuzu one), the BrighterMonday one is a duplicate
-    assert result == 1
+    assert count == 1
+    assert len(new_jobs) == 1
 
 
 @patch("sheets_client.get_sheet")
@@ -67,9 +69,10 @@ def test_save_jobs_all_duplicates(mock_get_sheet):
     ]
     mock_get_sheet.return_value = mock_ws
 
-    result = sheets_client.save_jobs(MOCK_JOBS)
+    count, new_jobs = sheets_client.save_jobs(MOCK_JOBS)
 
-    assert result == 0
+    assert count == 0
+    assert new_jobs == []
     mock_ws.append_rows.assert_not_called()
 
 
@@ -79,7 +82,8 @@ def test_save_jobs_empty_list(mock_get_sheet):
     mock_ws = MagicMock()
     mock_get_sheet.return_value = mock_ws
 
-    result = sheets_client.save_jobs([])
+    count, new_jobs = sheets_client.save_jobs([])
 
-    assert result == 0
+    assert count == 0
+    assert new_jobs == []
     mock_ws.append_rows.assert_not_called()

@@ -15,24 +15,37 @@ logger = logging.getLogger(__name__)
 BASE_URL = "https://www.linkedin.com/jobs/search"
 
 SEARCH_QUERIES = [
-    ("data scientist",     "Data Science"),
-    ("data analyst",       "Data Science"),
-    ("machine learning",   "AI/ML"),
-    ("AI engineer",        "AI/ML"),
-    ("frontend developer", "Frontend"),
-    ("fullstack developer","Fullstack"),
-    ("full stack developer","Fullstack"),
-    ("software engineer",  "Software Engineering"),
-    ("backend developer",  "Backend"),
-    ("cloud engineer",     "Cloud/DevOps"),
-    ("DevOps",             "Cloud/DevOps"),
-    ("cybersecurity",      "Cybersecurity"),
-    ("ICT",                "ICT"),
-    ("ICT",                 "ICT"),
-    ("IT",                 "IT"),
-    ("Computer Science",                 "Computer Science"),
-    ("Computer",                 "Computet"),
-    ("Database",                 "Database"),
+    # Data / Analytics
+    ("data scientist",          "Data Science"),
+    ("data analyst",            "Data Science"),
+    ("data engineer",           "Data Science"),
+    # AI / ML
+    ("machine learning",        "AI/ML"),
+    ("artificial intelligence", "AI/ML"),
+    ("AI engineer",             "AI/ML"),
+    # Web / Software
+    ("frontend",                "Frontend"),
+    ("backend",                 "Backend"),
+    ("fullstack",               "Fullstack"),
+    ("full stack",              "Fullstack"),
+    ("software engineer",       "Software Engineering"),
+    ("software developer",      "Software Engineering"),
+    # Cloud / DevOps
+    ("DevOps",                  "Cloud/DevOps"),
+    ("cloud engineer",          "Cloud/DevOps"),
+    ("AWS",                     "Cloud/DevOps"),
+    ("Azure",                   "Cloud/DevOps"),
+    # Security
+    ("cybersecurity",           "Cybersecurity"),
+    ("information security",    "Cybersecurity"),
+    # ICT / IT
+    ("ICT officer",             "ICT"),
+    ("IT officer",              "IT"),
+    ("systems administrator",   "IT"),
+    ("network engineer",        "IT"),
+    # Database
+    ("database administrator",  "Database"),
+    ("database developer",      "Database"),
 ]
 
 # LinkedIn shows 25 jobs per page, scrape first 2 pages max

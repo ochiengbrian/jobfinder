@@ -40,23 +40,37 @@ def is_today(date_str: str | None) -> bool:
     return date_str == datetime.now().strftime("%Y-%m-%d")
 
 SEARCH_QUERIES = [
-    ("data scientist",      "Data Science"),
-    ("data analyst",        "Data Science"),
-    ("machine learning",    "AI/ML"),
-    ("AI engineer",         "AI/ML"),
-    ("frontend developer",  "Frontend"),
-    ("fullstack developer", "Fullstack"),
-    ("full stack developer","Fullstack"),
-    ("software engineer",   "Software Engineering"),
-    ("backend developer",   "Backend"),
-    ("cloud engineer",      "Cloud/DevOps"),
-    ("DevOps",              "Cloud/DevOps"),
-    ("cybersecurity",       "Cybersecurity"),
-    ("ICT",                 "ICT"),
-    ("IT",                 "IT"),
-    ("Computer Science",                 "Computer Science"),
-    ("Computer",                 "Computet"),
-    ("Database",                 "Database"),
+    # Data / Analytics
+    ("data scientist",          "Data Science"),
+    ("data analyst",            "Data Science"),
+    ("data engineer",           "Data Science"),
+    # AI / ML
+    ("machine learning",        "AI/ML"),
+    ("artificial intelligence", "AI/ML"),
+    ("AI engineer",             "AI/ML"),
+    # Web / Software
+    ("frontend",                "Frontend"),
+    ("backend",                 "Backend"),
+    ("fullstack",               "Fullstack"),
+    ("full stack",              "Fullstack"),
+    ("software engineer",       "Software Engineering"),
+    ("software developer",      "Software Engineering"),
+    # Cloud / DevOps
+    ("DevOps",                  "Cloud/DevOps"),
+    ("cloud engineer",          "Cloud/DevOps"),
+    ("AWS",                     "Cloud/DevOps"),
+    ("Azure",                   "Cloud/DevOps"),
+    # Security
+    ("cybersecurity",           "Cybersecurity"),
+    ("information security",    "Cybersecurity"),
+    # ICT / IT
+    ("ICT officer",             "ICT"),
+    ("IT officer",              "IT"),
+    ("systems administrator",   "IT"),
+    ("network engineer",        "IT"),
+    # Database
+    ("database administrator",  "Database"),
+    ("database developer",      "Database"),
 ]
 
 # Only scrape first N pages per query (most recent listings)

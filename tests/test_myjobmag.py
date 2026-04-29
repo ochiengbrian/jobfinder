@@ -91,10 +91,11 @@ def test_parse_jobs_source_is_myjobmag():
     jobs = parse_jobs(soup, "Data Science")
     assert all(j["Source"] == "MyJobMag" for j in jobs)
 
-def test_parse_jobs_location_is_nairobi():
+def test_parse_jobs_location_defaults_to_kenya():
+    """When no location element exists in HTML, location falls back to 'Kenya'."""
     soup = BeautifulSoup(MOCK_HTML, "html.parser")
     jobs = parse_jobs(soup, "Data Science")
-    assert all("Nairobi" in j["Location"] for j in jobs)
+    assert all(j["Location"] == "Kenya" for j in jobs)
 
 def test_parse_jobs_no_cards_returns_empty():
     soup = BeautifulSoup("<html><body><p>No jobs</p></body></html>", "html.parser")
