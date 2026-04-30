@@ -445,3 +445,22 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/claims-officer-valley-hospital-2/
 - **Customer Relations Officer (Locum)** at Valley Hospital (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/customer-relations-officer-locum-valley-hospital/
+
+## 2026-04-30 16:13 UTC — 8 new job(s)
+
+- **Data Analyst M/f** at AGL- Africa Global Logistics (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-m-f-agl-africa-global-logistics
+- **Full-Stack Platform Engineer** at Social Impact (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-platform-engineer-social-impact
+- **Banking Systems Administrator** at National Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/banking-systems-administrator-national-bank-of-kenya
+- **Sustainability Associate (Buildings & Infrastructure)** at Bureau Veritas Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/sustainability-associate-buildings-infrastructure-bureau-veritas-group/
+- **Automation QA Engineer** at Tana (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/automation-qa-engineer-tana/
+- **Submit CVs – New Recruitment** at Safaricom Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-new-recruitment-safaricom-kenya-6/
+- **Senior Manager Retail Digital Solution Analyst & innovation Lead** at NCBA Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-manager-retail-digital-solution-analyst-innovation-lead-ncba-group/
+- **Senior Procurement Officer** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-procurement-officer-victory-farms/
