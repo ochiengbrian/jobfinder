@@ -8,6 +8,7 @@ from datetime import datetime, timezone
 
 import sheets_client
 import whatsapp_notifier
+from config import is_tech_job
 from scrapers import brighter_monday, myjobmag, jobwebkenya, linkedin, jobrapido, alljobspo, cari
 
 # Configure logging
@@ -68,6 +69,14 @@ def run():
         except Exception as e:
             logger.error(f"{name} scraper failed: {e}", exc_info=True)
             results[name] = 0
+
+    # Title relevance filter — remove jobs whose title has no tech keyword.
+    # Job boards search full descriptions, so irrelevant jobs slip through.
+    tech_jobs = [j for j in all_jobs if is_tech_job(j.get("Job Title", ""))]
+    removed_irrelevant = len(all_jobs) - len(tech_jobs)
+    if removed_irrelevant:
+        logger.info(f"Title filter removed {removed_irrelevant} non-tech job(s).")
+    all_jobs = tech_jobs
 
     # Cross-source deduplication by title + company
     seen_title_company = set()
