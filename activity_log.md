@@ -483,3 +483,22 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/network-administrator-gm59mr
 - **Safety Specialist** at Amentum (Mombasa) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/safety-specialist-9k08d8
+
+## 2026-05-01 13:34 UTC — 8 new job(s)
+
+- **NGIS Accounting Technician** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ngis-accounting-technician-n95dq9
+- **Transient Line Technicians** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/transient-line-technicians-0kpwqe
+- **BCS Watchstander / DDC Technician** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/bcs-watchstander-ddc-technician-qzqdke
+- **Technician Microbiology- Locum** at Pwani University (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technician-microbiology-locum-n95dvv
+- **Boat Engineer** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/boat-engineer-r8dd7x
+- **Photocopier Technician** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/photocopier-technician-x8d2mm
+- **Network Administrator** at Gulf African Bank (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/network-administrator-gm59mr
+- **Safety Specialist** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/safety-specialist-9k08d8
