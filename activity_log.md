@@ -464,3 +464,162 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/senior-manager-retail-digital-solution-analyst-innovation-lead-ncba-group/
 - **Senior Procurement Officer** at Victory Farms (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-procurement-officer-victory-farms/
+
+## 2026-05-01 09:55 UTC — 8 new job(s)
+
+- **NGIS Accounting Technician** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ngis-accounting-technician-n95dq9
+- **Transient Line Technicians** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/transient-line-technicians-0kpwqe
+- **BCS Watchstander / DDC Technician** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/bcs-watchstander-ddc-technician-qzqdke
+- **Technician Microbiology- Locum** at Pwani University (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technician-microbiology-locum-n95dvv
+- **Boat Engineer** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/boat-engineer-r8dd7x
+- **Photocopier Technician** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/photocopier-technician-x8d2mm
+- **Network Administrator** at Gulf African Bank (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/network-administrator-gm59mr
+- **Safety Specialist** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/safety-specialist-9k08d8
+
+## 2026-05-01 13:34 UTC — 8 new job(s)
+
+- **NGIS Accounting Technician** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ngis-accounting-technician-n95dq9
+- **Transient Line Technicians** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/transient-line-technicians-0kpwqe
+- **BCS Watchstander / DDC Technician** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/bcs-watchstander-ddc-technician-qzqdke
+- **Technician Microbiology- Locum** at Pwani University (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technician-microbiology-locum-n95dvv
+- **Boat Engineer** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/boat-engineer-r8dd7x
+- **Photocopier Technician** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/photocopier-technician-x8d2mm
+- **Network Administrator** at Gulf African Bank (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/network-administrator-gm59mr
+- **Safety Specialist** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/safety-specialist-9k08d8
+
+## 2026-05-01 17:18 UTC — 8 new job(s)
+
+- **NGIS Accounting Technician** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ngis-accounting-technician-n95dq9
+- **Transient Line Technicians** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/transient-line-technicians-0kpwqe
+- **BCS Watchstander / DDC Technician** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/bcs-watchstander-ddc-technician-qzqdke
+- **Technician Microbiology- Locum** at Pwani University (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technician-microbiology-locum-n95dvv
+- **Boat Engineer** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/boat-engineer-r8dd7x
+- **Photocopier Technician** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/photocopier-technician-x8d2mm
+- **Network Administrator** at Gulf African Bank (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/network-administrator-gm59mr
+- **Safety Specialist** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/safety-specialist-9k08d8
+
+## 2026-05-01 19:29 UTC — 8 new job(s)
+
+- **NGIS Accounting Technician** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ngis-accounting-technician-n95dq9
+- **Transient Line Technicians** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/transient-line-technicians-0kpwqe
+- **BCS Watchstander / DDC Technician** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/bcs-watchstander-ddc-technician-qzqdke
+- **Technician Microbiology- Locum** at Pwani University (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technician-microbiology-locum-n95dvv
+- **Boat Engineer** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/boat-engineer-r8dd7x
+- **Photocopier Technician** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/photocopier-technician-x8d2mm
+- **Network Administrator** at Gulf African Bank (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/network-administrator-gm59mr
+- **Safety Specialist** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/safety-specialist-9k08d8
+
+## 2026-05-01 21:11 UTC — 8 new job(s)
+
+- **NGIS Accounting Technician** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ngis-accounting-technician-n95dq9
+- **Transient Line Technicians** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/transient-line-technicians-0kpwqe
+- **BCS Watchstander / DDC Technician** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/bcs-watchstander-ddc-technician-qzqdke
+- **Technician Microbiology- Locum** at Pwani University (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technician-microbiology-locum-n95dvv
+- **Boat Engineer** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/boat-engineer-r8dd7x
+- **Photocopier Technician** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/photocopier-technician-x8d2mm
+- **Network Administrator** at Gulf African Bank (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/network-administrator-gm59mr
+- **Safety Specialist** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/safety-specialist-9k08d8
+
+## 2026-05-01 23:10 UTC — 8 new job(s)
+
+- **NGIS Accounting Technician** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ngis-accounting-technician-n95dq9
+- **Transient Line Technicians** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/transient-line-technicians-0kpwqe
+- **BCS Watchstander / DDC Technician** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/bcs-watchstander-ddc-technician-qzqdke
+- **Technician Microbiology- Locum** at Pwani University (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/technician-microbiology-locum-n95dvv
+- **Boat Engineer** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/boat-engineer-r8dd7x
+- **Photocopier Technician** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/photocopier-technician-x8d2mm
+- **Network Administrator** at Gulf African Bank (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/network-administrator-gm59mr
+- **Safety Specialist** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/safety-specialist-9k08d8
+
+## 2026-05-02 06:30 UTC — 1 new job(s)
+
+- **Medical Records Technician BOSC Clinic** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/medical-records-technician-bosc-clinic-0kpk76
+
+## 2026-05-02 09:26 UTC — 1 new job(s)
+
+- **Medical Records Technician BOSC Clinic** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/medical-records-technician-bosc-clinic-0kpk76
+
+## 2026-05-02 13:23 UTC — 1 new job(s)
+
+- **Medical Records Technician BOSC Clinic** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/medical-records-technician-bosc-clinic-0kpk76
+
+## 2026-05-02 15:08 UTC — 1 new job(s)
+
+- **Medical Records Technician BOSC Clinic** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/medical-records-technician-bosc-clinic-0kpk76
+
+## 2026-05-02 17:06 UTC — 1 new job(s)
+
+- **Medical Records Technician BOSC Clinic** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/medical-records-technician-bosc-clinic-0kpk76
+
+## 2026-05-02 19:14 UTC — 1 new job(s)
+
+- **Medical Records Technician BOSC Clinic** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/medical-records-technician-bosc-clinic-0kpk76
+
+## 2026-05-02 21:01 UTC — 1 new job(s)
+
+- **Medical Records Technician BOSC Clinic** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/medical-records-technician-bosc-clinic-0kpk76
+
+## 2026-05-02 23:00 UTC — 1 new job(s)
+
+- **Medical Records Technician BOSC Clinic** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/medical-records-technician-bosc-clinic-0kpk76
+
+## 2026-05-03 02:52 UTC — 1 new job(s)
+
+- **Medical Records Technician BOSC Clinic** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/medical-records-technician-bosc-clinic-0kpk76
