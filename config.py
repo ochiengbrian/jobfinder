@@ -11,7 +11,7 @@ load_dotenv()
 
 # Default: Mombasa (Coast Province, Kenya)
 # Examples: "Nairobi", "Kisumu", "Nakuru", "Kenya" (for all of Kenya)
-JOB_LOCATION = os.environ.get("JOB_LOCATION", "Mombasa")
+JOB_LOCATION = os.environ.get("JOB_LOCATION", "Kenya")
 
 
 def matches_location(location_text: str) -> bool:
@@ -47,8 +47,8 @@ def matches_location(location_text: str) -> bool:
         return True
 
     # For Mombasa, also match Coast Province counties
-    if target == "mombasa":
-        coast_keywords = ["coast", "kilifi", "kwale", "lamu", "malindi", "tana river", "taita"]
+    if target == "kenya" or target == "mombasa":
+        coast_keywords = ["nairobi", "mombasa", "coast", "kilifi", "kwale", "lamu", "malindi", "tana river", "taita"]
         if any(kw in loc for kw in coast_keywords):
             return True
 
