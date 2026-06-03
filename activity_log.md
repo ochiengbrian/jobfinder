@@ -623,3 +623,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Medical Records Technician BOSC Clinic** at Amentum (Mombasa) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/medical-records-technician-bosc-clinic-0kpk76
+
+## 2026-06-03 09:18 UTC — 1 new job(s)
+
+- **DDC Technician (Water Systems)** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ddc-technician-water-systems-45jwe2
