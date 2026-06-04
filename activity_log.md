@@ -643,3 +643,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **DDC Technician (Water Systems)** at Amentum (Mombasa) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/ddc-technician-water-systems-45jwe2
+
+## 2026-06-04 03:56 UTC — 1 new job(s)
+
+- **DDC Technician (Water Systems)** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ddc-technician-water-systems-45jwe2
