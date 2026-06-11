@@ -668,3 +668,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Quality Assurance Analyst I | Teleperformance** at Teleperformance (Mombasa) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/quality-assurance-analyst-i-teleperformance-erdnkv-v1
+
+## 2026-06-11 23:45 UTC — 1 new job(s)
+
+- **Quality Assurance Analyst I | Teleperformance** at Teleperformance (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/quality-assurance-analyst-i-teleperformance-erdnkv-v1
