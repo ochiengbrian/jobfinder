@@ -694,3 +694,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.brightermonday.co.ke/listings/meteorological-technician-d9rnq8-v1
 - **MSC Riding Gang Administrative Specialist** at Amentum (Mombasa) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/msc-riding-gang-administrative-specialist-n95rxe
+
+## 2026-06-23 21:55 UTC — 2 new job(s)
+
+- **Meteorological Technician** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/meteorological-technician-d9rnq8-v1
+- **MSC Riding Gang Administrative Specialist** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/msc-riding-gang-administrative-specialist-n95rxe
