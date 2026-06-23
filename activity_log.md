@@ -623,3 +623,53 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Medical Records Technician BOSC Clinic** at Amentum (Mombasa) [BrighterMonday]  
   https://www.brightermonday.co.ke/listings/medical-records-technician-bosc-clinic-0kpk76
+
+## 2026-06-03 09:18 UTC — 1 new job(s)
+
+- **DDC Technician (Water Systems)** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ddc-technician-water-systems-45jwe2
+
+## 2026-06-03 14:49 UTC — 1 new job(s)
+
+- **DDC Technician (Water Systems)** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ddc-technician-water-systems-45jwe2
+
+## 2026-06-03 20:12 UTC — 1 new job(s)
+
+- **DDC Technician (Water Systems)** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ddc-technician-water-systems-45jwe2
+
+## 2026-06-03 22:54 UTC — 1 new job(s)
+
+- **DDC Technician (Water Systems)** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ddc-technician-water-systems-45jwe2
+
+## 2026-06-04 03:56 UTC — 1 new job(s)
+
+- **DDC Technician (Water Systems)** at Amentum (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/ddc-technician-water-systems-45jwe2
+
+## 2026-06-11 09:02 UTC — 1 new job(s)
+
+- **Quality Assurance Analyst I | Teleperformance** at Teleperformance (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/quality-assurance-analyst-i-teleperformance-erdnkv-v1
+
+## 2026-06-11 14:24 UTC — 1 new job(s)
+
+- **Quality Assurance Analyst I | Teleperformance** at Teleperformance (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/quality-assurance-analyst-i-teleperformance-erdnkv-v1
+
+## 2026-06-11 17:59 UTC — 1 new job(s)
+
+- **Quality Assurance Analyst I | Teleperformance** at Teleperformance (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/quality-assurance-analyst-i-teleperformance-erdnkv-v1
+
+## 2026-06-11 20:41 UTC — 1 new job(s)
+
+- **Quality Assurance Analyst I | Teleperformance** at Teleperformance (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/quality-assurance-analyst-i-teleperformance-erdnkv-v1
+
+## 2026-06-11 23:45 UTC — 1 new job(s)
+
+- **Quality Assurance Analyst I | Teleperformance** at Teleperformance (Mombasa) [BrighterMonday]  
+  https://www.brightermonday.co.ke/listings/quality-assurance-analyst-i-teleperformance-erdnkv-v1
