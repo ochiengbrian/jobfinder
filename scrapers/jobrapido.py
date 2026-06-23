@@ -49,6 +49,14 @@ SEARCH_QUERIES = [
     # Database
     ("database administrator",  "Database"),
     ("database developer",      "Database"),
+    # NGO / Development sector
+    ("program officer",         "NGO"),
+    ("project officer",         "NGO"),
+    ("field officer",           "NGO"),
+    ("monitoring evaluation",   "NGO"),
+    ("community development",   "NGO"),
+    ("humanitarian",            "NGO"),
+    ("NGO",                     "NGO"),
 ]
 
 MAX_PAGES = 2

@@ -46,6 +46,14 @@ SEARCH_QUERIES = [
     # Database
     ("database administrator",  "Database"),
     ("database developer",      "Database"),
+    # NGO / Development sector
+    ("program officer",         "NGO"),
+    ("project officer",         "NGO"),
+    ("field officer",           "NGO"),
+    ("monitoring evaluation",   "NGO"),
+    ("community development",   "NGO"),
+    ("humanitarian",            "NGO"),
+    ("NGO",                     "NGO"),
 ]
 
 # LinkedIn shows 25 jobs per page, scrape first 2 pages max

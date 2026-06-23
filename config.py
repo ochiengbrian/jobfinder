@@ -59,7 +59,7 @@ def matches_location(location_text: str) -> bool:
 # Title relevance filter — applied in main.py after scraping
 # ---------------------------------------------------------------------------
 
-_TECH_TITLE_KEYWORDS = [
+_RELEVANT_TITLE_KEYWORDS = [
     # Roles
     "engineer", "developer", "programmer", "architect", "scientist",
     "analyst", "administrator", "technician", "specialist",
@@ -76,14 +76,21 @@ _TECH_TITLE_KEYWORDS = [
     # Tech stacks / platforms
     "web", "mobile", "android", "ios", "react", "python", "java",
     "aws", "azure", "gcp", "linux", "computer",
+    # NGO / Development sector
+    "ngo", "program officer", "project officer", "field officer",
+    "monitoring", "evaluation", "community development",
+    "humanitarian", "grants", "fundraising", "development officer",
 ]
+
+# Keep the old name as an alias so existing imports and tests don't break
+_TECH_TITLE_KEYWORDS = _RELEVANT_TITLE_KEYWORDS
 
 
 def is_tech_job(job_title: str) -> bool:
     """
-    Returns True if the job title contains at least one tech keyword.
+    Returns True if the job title is relevant (tech or NGO/development sector).
     Used to filter out irrelevant jobs that slip through keyword searches
     because job boards match against full descriptions, not just titles.
     """
     title = job_title.lower()
-    return any(kw in title for kw in _TECH_TITLE_KEYWORDS)
+    return any(kw in title for kw in _RELEVANT_TITLE_KEYWORDS)
