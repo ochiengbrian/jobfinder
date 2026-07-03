@@ -2,15 +2,15 @@
 Shared configuration — imported by all scrapers.
 
 To change the target job location, set JOB_LOCATION in your .env file
-or as a GitHub Actions Secret. Default is Mombasa (Coast Province, Kenya).
+or as a GitHub Actions Secret. Default is Kenya (all of Kenya).
 """
 import os
 from dotenv import load_dotenv
 
 load_dotenv()
 
-# Default: Mombasa (Coast Province, Kenya)
-# Examples: "Nairobi", "Kisumu", "Nakuru", "Kenya" (for all of Kenya)
+# Default: Kenya (all of Kenya — no location filtering)
+# Examples: "Nairobi", "Mombasa", "Kisumu", "Nakuru" for city-specific results
 JOB_LOCATION = os.environ.get("JOB_LOCATION", "Kenya")
 
 
@@ -26,7 +26,7 @@ def matches_location(location_text: str) -> bool:
       These are almost always Nairobi-based jobs listed broadly — they are NOT
       nationwide opportunities. Set JOB_LOCATION=Kenya to include them.
     - Otherwise: only jobs whose location matches the target city/region.
-    - For Mombasa: also matches Coast Province counties (Kilifi, Kwale, Lamu…).
+    - If JOB_LOCATION is a city (e.g. "Mombasa"): also matches its region's counties.
     """
     if not location_text or not location_text.strip():
         return True  # Truly unspecified — could be anywhere
@@ -47,7 +47,7 @@ def matches_location(location_text: str) -> bool:
         return True
 
     # For Mombasa, also match Coast Province counties
-    if target == "kenya" or target == "mombasa":
+    if target == "mombasa":
         coast_keywords = ["nairobi", "mombasa", "coast", "kilifi", "kwale", "lamu", "malindi", "tana river", "taita"]
         if any(kw in loc for kw in coast_keywords):
             return True
