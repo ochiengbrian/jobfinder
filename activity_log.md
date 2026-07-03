@@ -749,3 +749,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/pre-sales-specialist-gcp-abacus/
 - **Grants And Compliance Officer** at Coalition on Violence Against Women (COVAW) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/grants-compliance-officer-coalition-violence-women-covaw/
+
+## 2026-07-03 23:02 UTC — 7 new job(s)
+
+- **Data Scientist II** at Innovations for Poverty Action (IPA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-scientist-ii-innovations-for-poverty-action-ipa
+- **Junior Software Support Engineer** at Tana (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/junior-software-support-engineer-tana
+- **Software Engineering Intern** at BURN (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineering-intern-burn
+- **Data Analyst-In-House And Contract Broiler Operations** at Kenchic Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-analyst-house-contract-broiler-operations-kenchic-limited/
+- **Analyst, Solutions** at Standard Bank Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/analyst-solutions-standard-bank-group/
+- **Pre Sales Specialist (GCP)** at Abacus (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/pre-sales-specialist-gcp-abacus/
+- **Grants And Compliance Officer** at Coalition on Violence Against Women (COVAW) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/grants-compliance-officer-coalition-violence-women-covaw/
