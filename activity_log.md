@@ -791,3 +791,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Data Analytics Engineer** at International Rescue Committee (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/data-analytics-engineer-international-rescue-committee-1
+
+## 2026-07-04 20:54 UTC — 1 new job(s)
+
+- **Data Analytics Engineer** at International Rescue Committee (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analytics-engineer-international-rescue-committee-1
