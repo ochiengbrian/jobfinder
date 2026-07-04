@@ -766,3 +766,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/pre-sales-specialist-gcp-abacus/
 - **Grants And Compliance Officer** at Coalition on Violence Against Women (COVAW) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/grants-compliance-officer-coalition-violence-women-covaw/
+
+## 2026-07-04 10:09 UTC — 1 new job(s)
+
+- **Data Analytics Engineer** at International Rescue Committee (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analytics-engineer-international-rescue-committee-1
