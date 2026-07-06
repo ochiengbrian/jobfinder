@@ -801,3 +801,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Data Analytics Engineer** at International Rescue Committee (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/data-analytics-engineer-international-rescue-committee-1
+
+## 2026-07-06 08:19 UTC — 1 new job(s)
+
+- **Software Engineer (Consultant)** at United Nations Environment Programme (UNEP) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-consultant-united-nations-environment-programme-unep
