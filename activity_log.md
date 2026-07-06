@@ -868,3 +868,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/manager-networks-safaricom-kenya/
 - **Submit CVs – Ongoing Recruitment** at Kwale County Government (100+ Positions) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-ongoing-recruitment-kwale-county-government-100-positions/
+
+## 2026-07-06 23:07 UTC — 7 new job(s)
+
+- **Data Scientist** at Educate! (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-scientist-educate-1
+- **Software Engineer (Consultant)** at United Nations Environment Programme (UNEP) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-consultant-united-nations-environment-programme-unep
+- **Network Engineer** at Zetech University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/network-engineer-zetech-university
+- **Data Analytics Engineer** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-analytics-engineer-international-rescue-committee/
+- **Applications Administrator** at Kenya Airways (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/applications-administrator-kenya-airways/
+- **Manager – IT Networks** at Safaricom Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/manager-networks-safaricom-kenya/
+- **Submit CVs – Ongoing Recruitment** at Kwale County Government (100+ Positions) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-ongoing-recruitment-kwale-county-government-100-positions/
