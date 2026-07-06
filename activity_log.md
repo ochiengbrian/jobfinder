@@ -806,3 +806,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Software Engineer (Consultant)** at United Nations Environment Programme (UNEP) (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/software-engineer-consultant-united-nations-environment-programme-unep
+
+## 2026-07-06 13:46 UTC — 4 new job(s)
+
+- **Data Scientist** at Educate! (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-scientist-educate-1
+- **Software Engineer (Consultant)** at United Nations Environment Programme (UNEP) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-consultant-united-nations-environment-programme-unep
+- **Data Analytics Engineer** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-analytics-engineer-international-rescue-committee/
+- **Submit CVs – Ongoing Recruitment** at Kwale County Government (100+ Positions) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-ongoing-recruitment-kwale-county-government-100-positions/
