@@ -885,3 +885,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/manager-networks-safaricom-kenya/
 - **Submit CVs – Ongoing Recruitment** at Kwale County Government (100+ Positions) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/submit-cvs-ongoing-recruitment-kwale-county-government-100-positions/
+
+## 2026-07-07 07:38 UTC — 3 new job(s)
+
+- **Full Stack Developer** at Unga Holding (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-developer-unga-holding
+- **Senior Cloud Platform Engineer** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-cloud-platform-engineer-solvo-global-1
+- **Program Officer, Digital Skilling Programs** at Power Learn Project (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/program-officer-digital-skilling-programs-power-learn-project
