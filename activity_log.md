@@ -894,3 +894,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/senior-cloud-platform-engineer-solvo-global-1
 - **Program Officer, Digital Skilling Programs** at Power Learn Project (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/program-officer-digital-skilling-programs-power-learn-project
+
+## 2026-07-07 10:55 UTC — 5 new job(s)
+
+- **Frappe Full Stack Engineer** at International Committee of the Red Cross (ICRC) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/frappe-full-stack-engineer-international-committee-of-the-red-cross-icrc
+- **Full Stack Developer** at Unga Holding (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-developer-unga-holding
+- **Software Quality Assurance Engineer** at Jubilee Insurance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-quality-assurance-engineer-jubilee-insurance
+- **Senior Cloud Platform Engineer** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-cloud-platform-engineer-solvo-global-1
+- **Program Officer, Digital Skilling Programs** at Power Learn Project (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/program-officer-digital-skilling-programs-power-learn-project
