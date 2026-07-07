@@ -978,3 +978,28 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/research-data-monitoring-consultant-wateraid/
 - **Business Development Officer-Bancassurance** at HF Group (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/business-development-officer-bancassurance-hf-group/
+
+## 2026-07-07 21:23 UTC — 11 new job(s)
+
+- **Frappe Full Stack Engineer** at International Committee of the Red Cross (ICRC) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/frappe-full-stack-engineer-international-committee-of-the-red-cross-icrc
+- **Full Stack Developer** at Unga Holding (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-developer-unga-holding
+- **Software Engineering Team Lead** at M-KOPA Solar (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineering-team-lead-m-kopa-solar-7
+- **Software Quality Assurance Engineer** at Jubilee Insurance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-quality-assurance-engineer-jubilee-insurance
+- **Senior Cloud Platform Engineer** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-cloud-platform-engineer-solvo-global-1
+- **Partner Technical Specialist - Azure** at Liquid Intelligent Technologies (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/partner-technical-specialist-azure-liquid-intelligent-technologies-1
+- **Program Officer, Digital Skilling Programs** at Power Learn Project (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/program-officer-digital-skilling-programs-power-learn-project
+- **Monitoring, Evaluation and Learning (MEL) Manager** at African Wildlife Foundation (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-evaluation-and-learning-mel-manager-african-wildlife-foundation
+- **Trainer - Social Work/Community Development** at Kenya Institute of Social Work and Community Development (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/trainer-social-work-community-development-kenya-institute-of-social-work-and-community-development
+- **Research and Data Monitoring Consultant** at WaterAid (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/research-data-monitoring-consultant-wateraid/
+- **Business Development Officer-Bancassurance** at HF Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-bancassurance-hf-group/
