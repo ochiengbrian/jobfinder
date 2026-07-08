@@ -1151,3 +1151,42 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/monitoring-evaluation-learning-mel-manager-african-wildlife-foundation/
 - **Investment Analyst** at iungo Capital (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/investment-analyst-iungo-capital/
+
+## 2026-07-08 19:21 UTC — 18 new job(s)
+
+- **Junior Application and Data Security Engineer** at Solutech Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/junior-application-and-data-security-engineer-solutech-limited
+- **Lecturer - Artificial Intelligence & Data Science** at Jaramogi Oginga Odinga University of Science and Technology (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/lecturer-artificial-intelligence-data-science-jaramogi-oginga-odinga-university-of-science-and-technology
+- **Lecturer - Software Engineering** at Jaramogi Oginga Odinga University of Science and Technology (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/lecturer-software-engineering-jaramogi-oginga-odinga-university-of-science-and-technology
+- **Manager – DevOps** at Jubilee Insurance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/manager-devops-jubilee-insurance
+- **Senior Manager, Information Security** at DIB Bank Kenya Limited (DIBBKE) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-manager-information-security-dubai-islamic-bank
+- **ServiceNow System Administrator** at International Rescue Committee (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/servicenow-system-administrator-international-rescue-committee
+- **Director Monitoring and Evaluation** at Meru County Public Service Board (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/director-monitoring-and-evaluation-meru-county-1
+- **Deputy Director Monitoring and Evaluation** at Meru County Public Service Board (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/deputy-director-monitoring-and-evaluation-meru-county
+- **Programme Adviser, Humanitarian Sexual and Reproductive Health and Rights, Programme Division (PD)** at International Civil Aviation Organization (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/programme-adviser-humanitarian-sexual-and-reproductive-health-and-rights-programme-division-pd-international-civil-aviation-organization
+- **Front End Engineer** at International Committee of the Red Cross (ICRC) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/front-end-engineer-international-committee-red-cross-icrc/
+- **Software Engineering Team Lead** at M-KOPA Solar (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-engineering-team-lead-m-kopa-solar-4/
+- **Information Systems Audit Manager** at Prime Bank Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-systems-audit-manager-prime-bank-kenya/
+- **Partner Technical Specialist – Azure** at Liquid Intelligent Technologies (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/partner-technical-specialist-azure-liquid-intelligent-technologies/
+- **Information Technology (IT) Manager** at Trees for the Future (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-technology-manager-trees-future/
+- **Learning and Development Officer** at Safal Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/learning-development-officer-safal-group/
+- **DREEM Grants Officer** at World University Service of Canada (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/dreem-grants-officer-world-university-service-canada/
+- **Monitoring, Evaluation and Learning (MEL) Manager** at African Wildlife Foundation (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/monitoring-evaluation-learning-mel-manager-african-wildlife-foundation/
+- **Investment Analyst** at iungo Capital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/investment-analyst-iungo-capital/
