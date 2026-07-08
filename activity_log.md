@@ -1028,3 +1028,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/research-data-monitoring-consultant-wateraid/
 - **Business Development Officer-Bancassurance** at HF Group (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/business-development-officer-bancassurance-hf-group/
+
+## 2026-07-08 06:29 UTC — 1 new job(s)
+
+- **Monitoring, Evaluation and Learning (MEL) Manager** at African Wildlife Foundation (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/monitoring-evaluation-learning-mel-manager-african-wildlife-foundation/
