@@ -1033,3 +1033,26 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Monitoring, Evaluation and Learning (MEL) Manager** at African Wildlife Foundation (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/monitoring-evaluation-learning-mel-manager-african-wildlife-foundation/
+
+## 2026-07-08 10:18 UTC — 10 new job(s)
+
+- **Junior Application and Data Security Engineer** at Solutech Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/junior-application-and-data-security-engineer-solutech-limited
+- **Senior Manager, Information Security** at DIB Bank Kenya Limited (DIBBKE) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-manager-information-security-dubai-islamic-bank
+- **ServiceNow System Administrator** at International Rescue Committee (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/servicenow-system-administrator-international-rescue-committee
+- **Director Monitoring and Evaluation** at Meru County Public Service Board (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/director-monitoring-and-evaluation-meru-county-1
+- **Deputy Director Monitoring and Evaluation** at Meru County Public Service Board (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/deputy-director-monitoring-and-evaluation-meru-county
+- **Software Engineering Team Lead** at M-KOPA Solar (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-engineering-team-lead-m-kopa-solar-4/
+- **Partner Technical Specialist – Azure** at Liquid Intelligent Technologies (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/partner-technical-specialist-azure-liquid-intelligent-technologies/
+- **Information Technology (IT) Manager** at Trees for the Future (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-technology-manager-trees-future/
+- **Monitoring, Evaluation and Learning (MEL) Manager** at African Wildlife Foundation (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/monitoring-evaluation-learning-mel-manager-african-wildlife-foundation/
+- **Investment Analyst** at iungo Capital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/investment-analyst-iungo-capital/
