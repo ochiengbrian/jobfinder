@@ -1289,3 +1289,30 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/audit-manager-central-functions-shared-services-national-bank-kenya/
 - **Business Development Officer** at Kenya Institute of Management (KIM) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/business-development-officer-kenya-institute-management-kim-3/
+
+## 2026-07-09 14:50 UTC — 12 new job(s)
+
+- **Associate Scientist – Data Analyst- ICRISAT** at World Agroforestry Centre (ICRAF) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/associate-scientist-data-analyst-icrisat-world-agroforestry-centre-icraf
+- **CRRD Data Analyst** at International Rescue Committee (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/crrd-data-analyst-international-rescue-committee
+- **DevOps Engineer** at HF Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/devops-engineer-hf-group
+- **Part-time Lectures - Cybersecurity Law and Ethics** at The Open University of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/part-time-lectures-cybersecurity-law-and-ethics-the-open-university-of-kenya
+- **Part Time Lecturers - School of Public Health & Community Development** at Maseno University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/part-time-lecturers-school-of-public-health-community-development-maseno-university
+- **Humanitarian Action MEAL Advisor** at SOS Children's Villages (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/humanitarian-action-meal-advisor-sos-children-s-villages
+- **Accounts Assistant (NGO) – Nairobi, Kenya** at Summit Recruitment and Search (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/accounts-assistant-ngo-nairobi-kenya-summit-recruitment-and-search
+- **Manager – DevOps** at Jubilee Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/manager-devops-jubilee-insurance/
+- **Head Commercial Functions and Branch Network Audits** at National Bank of Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-commercial-functions-branch-network-audits-national-bank-kenya/
+- **Audit Manager Commercial Functions & Branch Network – 2 Posts** at National Bank of Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/audit-manager-commercial-functions-branch-network-2-posts-national-bank-kenya/
+- **Audit Manager, Central Functions & Shared Services** at National Bank of Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/audit-manager-central-functions-shared-services-national-bank-kenya/
+- **Business Development Officer** at Kenya Institute of Management (KIM) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-kenya-institute-management-kim-3/
