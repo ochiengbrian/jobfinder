@@ -1424,3 +1424,22 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/audit-manager-central-functions-shared-services-national-bank-kenya/
 - **Business Development Officer** at Kenya Institute of Management (KIM) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/business-development-officer-kenya-institute-management-kim-3/
+
+## 2026-07-10 10:53 UTC — 8 new job(s)
+
+- **Software Engineer (Angular / Front-End Focus)** at Tropical Heat (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-angular-front-end-focus-tropical-heat
+- **Software Developer** at Medbook Kenya Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-developer-medbook-kenya-limited
+- **Community Liaison Assistant - Monitoring, Evaluation, Accountability and Learning (MEAL)** at DanChurchAid (DCA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/community-liaison-assistant-monitoring-evaluation-accountability-and-learning-meal-danchurchaid-dca
+- **Chief Engineer** at Accor (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/chief-engineer-accor-2/
+- **Information Systems Auditor** at Madison Group Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-systems-auditor-madison-group-limited/
+- **Facility Administrator** at Equity Afia (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/facility-administrator-equity-afia-6/
+- **Humanitarian Action MEAL Advisor** at SOS Children’s Villages (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/humanitarian-action-meal-advisor-sos-childrens-villages/
+- **Deputy Director for Grants and Accountability** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/deputy-director-grants-accountability-international-rescue-committee/
