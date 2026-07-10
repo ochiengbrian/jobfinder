@@ -1526,3 +1526,26 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/humanitarian-action-meal-advisor-sos-childrens-villages/
 - **Deputy Director for Grants and Accountability** at International Rescue Committee (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/deputy-director-grants-accountability-international-rescue-committee/
+
+## 2026-07-10 21:10 UTC — 10 new job(s)
+
+- **Data Analyst Intern - 1 Post** at Agile Business Solutions Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-intern-1-post-agile-business-solutions-limited
+- **Data Engineering Intern - 1 Post** at Agile Business Solutions Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineering-intern-1-post-agile-business-solutions-limited
+- **AI & Machine Learning Intern - 1 Post** at Agile Business Solutions Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-machine-learning-intern-1-post-agile-business-solutions-limited
+- **Software Engineer (Angular / Front-End Focus)** at Tropical Heat (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-angular-front-end-focus-tropical-heat
+- **Software Developer** at Medbook Kenya Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-developer-medbook-kenya-limited
+- **Community Liaison Assistant - Monitoring, Evaluation, Accountability and Learning (MEAL)** at DanChurchAid (DCA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/community-liaison-assistant-monitoring-evaluation-accountability-and-learning-meal-danchurchaid-dca
+- **Information Systems Auditor** at Madison Group Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-systems-auditor-madison-group-limited/
+- **Humanitarian Action MEAL Advisor** at SOS Children’s Villages (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/humanitarian-action-meal-advisor-sos-childrens-villages/
+- **Community Liaison Assistant – Monitoring, Evaluation, Accountability and Learning (MEAL)** at DanChurchAid (DCA) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/community-liaison-assistant-monitoring-evaluation-accountability-learning-meal-danchurchaid-dca/
+- **Deputy Director for Grants and Accountability** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/deputy-director-grants-accountability-international-rescue-committee/
