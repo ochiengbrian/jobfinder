@@ -1588,3 +1588,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Data Analyst** at The Digital Monkeys (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/data-analyst-the-digital-monkeys
+
+## 2026-07-11 16:55 UTC — 1 new job(s)
+
+- **Data Analyst** at The Digital Monkeys (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-the-digital-monkeys
