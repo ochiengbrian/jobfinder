@@ -1578,3 +1578,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/humanitarian-action-meal-advisor-sos-childrens-villages/
 - **Deputy Director for Grants and Accountability** at International Rescue Committee (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/deputy-director-grants-accountability-international-rescue-committee/
+
+## 2026-07-11 13:10 UTC — 1 new job(s)
+
+- **Data Analyst** at The Digital Monkeys (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-the-digital-monkeys
