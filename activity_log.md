@@ -1706,3 +1706,36 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/sytems-administrator-mybest-ltd/
 - **GSM Engineer – Western Region** at HCS Affiliates Group (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/gsm-engineer-western-region-hcs-affiliates-group/
+
+## 2026-07-13 19:22 UTC — 15 new job(s)
+
+- **Employee Engagement Data Analyst** at World Vision Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/employee-engagement-data-analyst-world-vision-kenya
+- **Frontend Developer** at She Code Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/frontend-developer-she-code-africa-1
+- **Backend Developer** at She Code Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/backend-developer-she-code-africa-1
+- **System Administrator** at NCBA Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/system-administrator-ncba-group
+- **Access Network Engineer** at Jamii Telecommunications (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/access-network-engineer-jamii-telecommunications
+- **Project Officer – Mount Elgon Livelihoods Project (Kenya)-Bungoma** at Vi Agroforestry (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officer-mount-elgon-livelihoods-project-kenya-bungoma-vi-agroforestry
+- **Project Officer – Mount Elgon Livelihoods Project (Kenya)-Trans Nzoia** at Vi Agroforestry (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officer-mount-elgon-livelihoods-project-kenya-trans-nzoia-vi-agroforestry
+- **(Senior) Director, Global Monitoring, Evaluation, and Learning** at Evidence Action (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-director-global-monitoring-evaluation-and-learning-evidence-action-2
+- **IT Application Analyst** at Valley Hospital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/application-analyst-valley-hospital/
+- **OpenShift Engineer** at Sybyl Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/openshift-engineer-sybyl-limited-2/
+- **HR Business Partner / LOA Specialist** at Solvo Global (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/hr-business-partner-loa-specialist-solvo-global/
+- **Application Security Support Specialist** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/application-security-support-specialist-international-rescue-committee/
+- **ICT Manager** at 67 Airport Hotel (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ict-manager-67-airport-hotel/
+- **IT Sytems Administrator** at Mybest Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/sytems-administrator-mybest-ltd/
+- **GSM Engineer – Western Region** at HCS Affiliates Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/gsm-engineer-western-region-hcs-affiliates-group/
