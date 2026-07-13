@@ -1608,3 +1608,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Data Analyst** at The Digital Monkeys (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/data-analyst-the-digital-monkeys
+
+## 2026-07-13 06:53 UTC — 3 new job(s)
+
+- **IT Application Analyst** at Valley Hospital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/application-analyst-valley-hospital/
+- **IT Sytems Administrator** at Mybest Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/sytems-administrator-mybest-ltd/
+- **GSM Engineer – Western Region** at HCS Affiliates Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/gsm-engineer-western-region-hcs-affiliates-group/
