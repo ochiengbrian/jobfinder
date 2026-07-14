@@ -1871,3 +1871,28 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/field-officer-morsan-hr-consulting
 - **System Administrator** at NCBA Group (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/system-administrator-ncba-group/
+
+## 2026-07-14 15:25 UTC — 11 new job(s)
+
+- **Students Supervisor - Master of Science in Artificial Intelligence** at The Open University of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/students-supervisor-master-of-science-in-artificial-intelligence-the-open-university-of-kenya
+- **Students Supervisor - Master of Science in Cybersecurity and Digital Forensics** at The Open University of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/students-supervisor-master-of-science-in-cybersecurity-and-digital-forensics-the-open-university-of-kenya
+- **ICT Officer** at Highlands Drinks Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-highlands-drinks-limited
+- **ICT Officer** at TARO Links (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-taro-links
+- **System Administrator** at Kenya Trade Network Agency (KenTrade) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/system-administrator-the-kenya-trade-network-agency-kentrade-1
+- **Infrastructure Engineer** at Kenya Trade Network Agency (KenTrade) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/infrastructure-engineer-the-kenya-trade-network-agency-kentrade-1
+- **Network Engineer** at Kenya Trade Network Agency (KenTrade) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/network-engineer-the-kenya-trade-network-agency-kentrade
+- **Field Officer** at Morsan HR Consulting (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officer-morsan-hr-consulting
+- **Monitoring & Evaluation Associate - Global Fund TB Project** at Amref Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-evaluation-associate-global-fund-tb-project-amref-kenya
+- **Global Automation & IT System Specialist** at Relief International (RI) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/global-automation-system-specialist-relief-international-ri/
+- **System Administrator** at NCBA Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/system-administrator-ncba-group/
