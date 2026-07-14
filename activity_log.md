@@ -1816,3 +1816,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/network-engineer-the-kenya-trade-network-agency-kentrade
 - **Field Officer** at Morsan HR Consulting (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/field-officer-morsan-hr-consulting
+
+## 2026-07-14 09:57 UTC — 6 new job(s)
+
+- **ICT Officer** at TARO Links (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-taro-links
+- **System Administrator** at Kenya Trade Network Agency (KenTrade) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/system-administrator-the-kenya-trade-network-agency-kentrade-1
+- **Infrastructure Engineer** at Kenya Trade Network Agency (KenTrade) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/infrastructure-engineer-the-kenya-trade-network-agency-kentrade-1
+- **Network Engineer** at Kenya Trade Network Agency (KenTrade) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/network-engineer-the-kenya-trade-network-agency-kentrade
+- **Field Officer** at Morsan HR Consulting (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officer-morsan-hr-consulting
+- **System Administrator** at NCBA Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/system-administrator-ncba-group/
