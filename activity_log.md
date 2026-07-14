@@ -1805,3 +1805,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/sytems-administrator-mybest-ltd/
 - **GSM Engineer – Western Region** at HCS Affiliates Group (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/gsm-engineer-western-region-hcs-affiliates-group/
+
+## 2026-07-14 07:57 UTC — 4 new job(s)
+
+- **System Administrator** at Kenya Trade Network Agency (KenTrade) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/system-administrator-the-kenya-trade-network-agency-kentrade-1
+- **Infrastructure Engineer** at Kenya Trade Network Agency (KenTrade) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/infrastructure-engineer-the-kenya-trade-network-agency-kentrade-1
+- **Network Engineer** at Kenya Trade Network Agency (KenTrade) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/network-engineer-the-kenya-trade-network-agency-kentrade
+- **Field Officer** at Morsan HR Consulting (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officer-morsan-hr-consulting
