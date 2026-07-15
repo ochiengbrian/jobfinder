@@ -1994,3 +1994,30 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/senior-specialist-internal-audit-liberty-life-2/
 - **Executive Secretary (Manufacturing) – Mlolongo, Kenya** at Summit Recruitment and Search (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/executive-secretary-manufacturing-mlolongo-kenya-summit-recruitment-search/
+
+## 2026-07-15 10:06 UTC — 12 new job(s)
+
+- **Data Engineer** at CrossBoundary (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineer-crossboundary-1
+- **Lecturer Artificial Intelligence and Data Science** at Rongo University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/lecturer-artificial-intelligence-and-data-science-rongo-university
+- **Full-Stack AI Engineer** at Pavago (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-ai-engineer-pavago
+- **Senior Full Stack Django & Flutter Developer** at Soliton Telmec Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-full-stack-django-flutter-developer-soliton-telmec
+- **Senior Full Stack Software Engineer - (Product & Infrastructure)** at Pavago (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-full-stack-software-engineer-product-infrastructure-pavago
+- **DevOps Engineer** at Pavago (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/devops-engineer-pavago
+- **System Administrator** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/system-administrator-solvo-global
+- **Senior RPA Developer** at Jubilee Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-rpa-developer-jubilee-insurance-2/
+- **Cyber Security Trainer** at Institute of Software Technologies Limited (IST) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/cyber-security-trainer-institute-software-technologies-limited-ist/
+- **Business Applications Developer** at Pavago (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-applications-developer-pavago-2/
+- **Senior Specialist, IT Internal Audit** at Liberty Life (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-specialist-internal-audit-liberty-life-2/
+- **Executive Secretary (Manufacturing) – Mlolongo, Kenya** at Summit Recruitment and Search (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/executive-secretary-manufacturing-mlolongo-kenya-summit-recruitment-search/
