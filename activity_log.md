@@ -2193,3 +2193,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/senior-specialist-internal-audit-liberty-life-2/
 - **Executive Secretary (Manufacturing) – Mlolongo, Kenya** at Summit Recruitment and Search (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/executive-secretary-manufacturing-mlolongo-kenya-summit-recruitment-search/
+
+## 2026-07-16 06:17 UTC — 2 new job(s)
+
+- **Employee Engagement Data Analyst** at World Vision Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/employee-engagement-data-analyst-world-vision-kenya-1
+- **Lead Engineer - AI Agents** at M-KOPA Solar (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/lead-engineer-ai-agents-m-kopa-solar
