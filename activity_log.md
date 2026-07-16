@@ -2221,3 +2221,34 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/administrator-momentum-credit-2/
 - **Administrator (Accounts & Stock)** at Summit Recruitment and Search (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/administrator-accounts-stock-summit-recruitment-search/
+
+## 2026-07-16 13:35 UTC — 14 new job(s)
+
+- **Employee Engagement Data Analyst** at World Vision Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/employee-engagement-data-analyst-world-vision-kenya-1
+- **Principal AI Engineer** at FinSense Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/principal-ai-engineer-finsense-africa
+- **Senior Manager, AI Engineering** at FinSense Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-manager-ai-engineering-finsense-africa
+- **AI Engineer** at FinSense Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-engineer-finsense-africa
+- **Lead Engineer - AI Agents** at M-KOPA Solar (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/lead-engineer-ai-agents-m-kopa-solar
+- **Sectional IP Network Engineer- Field - Central** at HCS Affiliates Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/sectional-ip-network-engineer-field-central-hcs-affiliates-group-1
+- **Lead Engineer – AI Agents** at M-KOPA Solar (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/lead-engineer-ai-agents-m-kopa-solar/
+- **Senior Software Engineer** at CIC Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-software-engineer-cic-insurance-2/
+- **Assistant Product Engineer** at Solar Panda (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/assistant-product-engineer-solar-panda/
+- **IT Disaster Recovery Specialist** at World Vision Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/disaster-recovery-specialist-world-vision-kenya/
+- **Collections Officer – Mobile Money** at Mwananchi Credit Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/collections-officer-mobile-money-mwananchi-credit-ltd/
+- **Application Security Support Specialist** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/application-security-support-specialist-international-rescue-committee-2/
+- **IT Administrator** at Momentum Credit (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/administrator-momentum-credit-2/
+- **Administrator (Accounts & Stock)** at Summit Recruitment and Search (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/administrator-accounts-stock-summit-recruitment-search/
