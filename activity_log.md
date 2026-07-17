@@ -2417,3 +2417,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/administrator-momentum-credit-2/
 - **Administrator (Accounts & Stock)** at Summit Recruitment and Search (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/administrator-accounts-stock-summit-recruitment-search/
+
+## 2026-07-17 09:56 UTC — 3 new job(s)
+
+- **ICT Officer** at Beachfront Vipingo (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-beachfront-vipingo
+- **Chief Engineer** at Accor (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/chief-engineer-accor-3/
+- **Biomedical Engineering & Facilities Services Supervisor** at AAR Hospital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/biomedical-engineering-facilities-services-supervisor-aar-hospital/
