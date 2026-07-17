@@ -2462,3 +2462,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/chief-engineer-accor-3/
 - **Biomedical Engineering & Facilities Services Supervisor** at AAR Hospital (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/biomedical-engineering-facilities-services-supervisor-aar-hospital/
+
+## 2026-07-17 19:04 UTC — 5 new job(s)
+
+- **ICT Officer** at Beachfront Vipingo (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-beachfront-vipingo
+- **Chief Engineer** at Accor (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/chief-engineer-accor-3/
+- **Biomedical Engineering & Facilities Services Supervisor** at AAR Hospital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/biomedical-engineering-facilities-services-supervisor-aar-hospital/
+- **Audit Officer** at Prime Bank Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/audit-officer-prime-bank-kenya/
+- **Technical Sales Engineer** at Amotech Africa (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/technical-sales-engineer-amotech-africa-3/
