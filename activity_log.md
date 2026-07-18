@@ -2535,3 +2535,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **ERT Humanitarian Access, Safety and Security Coordinator** at International Rescue Committee (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/ert-humanitarian-access-safety-and-security-coordinator-international-rescue-committee
+
+## 2026-07-18 18:59 UTC — 2 new job(s)
+
+- **ERT Humanitarian Access, Safety and Security Coordinator** at International Rescue Committee (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ert-humanitarian-access-safety-and-security-coordinator-international-rescue-committee
+- **Senior Specialist, Enterprise Analytics (Cost Optimization Initiative)** at Save the Children (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-specialist-enterprise-analytics-cost-optimization-initiative-save-children/
