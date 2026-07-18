@@ -2505,3 +2505,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/technical-sales-engineer-amotech-africa-3/
 - **Audit Officer** at Prime Bank Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/audit-officer-prime-bank-kenya/
+
+## 2026-07-18 07:45 UTC — 1 new job(s)
+
+- **ERT Humanitarian Access, Safety and Security Coordinator** at International Rescue Committee (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ert-humanitarian-access-safety-and-security-coordinator-international-rescue-committee
