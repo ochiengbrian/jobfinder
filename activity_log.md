@@ -2556,3 +2556,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/ert-humanitarian-access-safety-and-security-coordinator-international-rescue-committee
 - **Senior Specialist, Enterprise Analytics (Cost Optimization Initiative)** at Save the Children (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-specialist-enterprise-analytics-cost-optimization-initiative-save-children/
+
+## 2026-07-20 10:51 UTC — 1 new job(s)
+
+- **ERT Humanitarian Access, Safety and Security Coordinator** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ert-humanitarian-access-safety-security-coordinator-international-rescue-committee/
