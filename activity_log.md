@@ -2581,3 +2581,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **ERT Humanitarian Access, Safety and Security Coordinator** at International Rescue Committee (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/ert-humanitarian-access-safety-security-coordinator-international-rescue-committee/
+
+## 2026-07-20 21:11 UTC — 1 new job(s)
+
+- **ERT Humanitarian Access, Safety and Security Coordinator** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ert-humanitarian-access-safety-security-coordinator-international-rescue-committee/
