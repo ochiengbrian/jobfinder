@@ -2591,3 +2591,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **ERT Humanitarian Access, Safety and Security Coordinator** at International Rescue Committee (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/ert-humanitarian-access-safety-security-coordinator-international-rescue-committee/
+
+## 2026-07-21 10:26 UTC — 3 new job(s)
+
+- **Data Analyst** at Syngenta (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-syngenta-1
+- **ICT System Administrator and Support Officer** at Kenya Revenue Authority (KRA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-system-administrator-and-support-officer-kenya-revenue-authority-kra
+- **Sharepoint Platform Engineer** at World Vision Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/sharepoint-platform-engineer-world-vision-kenya/
