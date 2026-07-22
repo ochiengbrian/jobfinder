@@ -2663,3 +2663,26 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/associate-analyst-payroll-people-analytics-12-months-cellulant-corporation/
 - **Enterprise NOC Support Engineer** at Jamii Telecommunications (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/enterprise-noc-support-engineer-jamii-telecommunications/
+
+## 2026-07-22 13:35 UTC — 10 new job(s)
+
+- **Frontend Software Developer** at a Reputable Company (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/frontend-software-developer
+- **PHP Backend Software Developer** at a Reputable Company (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/php-backend-software-developer
+- **Cybersecurity Manager** at National Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/cybersecurity-manager-national-bank-of-kenya-2
+- **Field Officer** at Home Business Sacco (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officer-home-business-sacco
+- **Finance & Operations Specialist** at Flexi-Personnel (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/finance-operations-specialist-flexi-personnel/
+- **Associate Analyst: Payroll & People Analytics-(12 Months)** at Cellulant Corporation (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/associate-analyst-payroll-people-analytics-12-months-cellulant-corporation/
+- **IT Manager** at City Walk Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/manager-city-walk-ltd/
+- **JR IT Helpdesk Analyst** at Solvo Global (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/jr-helpdesk-analyst-solvo-global/
+- **Senior Associate, Portfolio Administrator** at ICEA Lion Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-associate-portfolio-administrator-icea-lion-group/
+- **Enterprise NOC Support Engineer** at Jamii Telecommunications (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/enterprise-noc-support-engineer-jamii-telecommunications/
