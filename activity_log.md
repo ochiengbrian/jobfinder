@@ -2652,3 +2652,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/ict-system-administrator-and-support-officer-kenya-revenue-authority-kra
 - **Sharepoint Platform Engineer** at World Vision Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/sharepoint-platform-engineer-world-vision-kenya/
+
+## 2026-07-22 10:26 UTC — 4 new job(s)
+
+- **Cybersecurity Manager** at National Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/cybersecurity-manager-national-bank-of-kenya-2
+- **Field Officer** at Home Business Sacco (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officer-home-business-sacco
+- **Associate Analyst: Payroll & People Analytics-(12 Months)** at Cellulant Corporation (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/associate-analyst-payroll-people-analytics-12-months-cellulant-corporation/
+- **Enterprise NOC Support Engineer** at Jamii Telecommunications (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/enterprise-noc-support-engineer-jamii-telecommunications/
