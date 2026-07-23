@@ -2801,3 +2801,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/senior-associate-portfolio-administrator-icea-lion-group/
 - **Enterprise NOC Support Engineer** at Jamii Telecommunications (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/enterprise-noc-support-engineer-jamii-telecommunications/
+
+## 2026-07-23 06:31 UTC — 2 new job(s)
+
+- **Customer Success Engineer (Finance)** at ABNO Softwares International (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/customer-success-engineer-finance-abno-softwares-international
+- **Senior Software Developer** at Flexi-Personnel (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-software-developer-flexi-personnel
