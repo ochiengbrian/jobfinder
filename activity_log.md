@@ -2808,3 +2808,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/customer-success-engineer-finance-abno-softwares-international
 - **Senior Software Developer** at Flexi-Personnel (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/senior-software-developer-flexi-personnel
+
+## 2026-07-23 10:20 UTC — 4 new job(s)
+
+- **Customer Success Engineer (Finance)** at ABNO Softwares International (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/customer-success-engineer-finance-abno-softwares-international
+- **Senior Software Developer** at Flexi-Personnel (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-software-developer-flexi-personnel
+- **Submit CVs – Fresh Ongoing Recruitment** at Trans Nzoia County Water & Sanitation Company Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-fresh-ongoing-recruitment-trans-nzoia-county-water-sanitation-company-ltd/
+- **Head Of Information Technology** at Flexi-Personnel (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-information-technology-flexi-personnel/
