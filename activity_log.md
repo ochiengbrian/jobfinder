@@ -2902,3 +2902,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/regional-digital-communication-specialist-international-committee-red-cross-icrc/
 - **Business Development Officer** at Jaza Capital Limited (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/business-development-officer-jaza-capital-limited/
+
+## 2026-07-24 10:17 UTC — 6 new job(s)
+
+- **Software Engineer** at Standard Bank Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-standard-bank-group-5
+- **Data Analyst** at TakaTaka Solutions (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-analyst-takataka-solutions/
+- **Regional Digital Communication Specialist** at International Committee of the Red Cross (ICRC) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/regional-digital-communication-specialist-international-committee-red-cross-icrc/
+- **Credit Officer** at Jijenge Credit (JCL) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/credit-officer-jijenge-credit-jcl-2/
+- **Grants and Compliance Officer** at Kakenya’s Dream (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/grants-compliance-officer-kakenyas-dream/
+- **Business Development Officer** at Jaza Capital Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-jaza-capital-limited/
