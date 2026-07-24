@@ -2895,3 +2895,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/submit-cvs-fresh-ongoing-recruitment-trans-nzoia-county-water-sanitation-company-ltd/
 - **Head Of Information Technology** at Flexi-Personnel (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/head-information-technology-flexi-personnel/
+
+## 2026-07-24 06:26 UTC — 2 new job(s)
+
+- **Regional Digital Communication Specialist** at International Committee of the Red Cross (ICRC) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/regional-digital-communication-specialist-international-committee-red-cross-icrc/
+- **Business Development Officer** at Jaza Capital Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-jaza-capital-limited/
