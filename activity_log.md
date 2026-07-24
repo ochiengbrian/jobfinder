@@ -2917,3 +2917,22 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/grants-compliance-officer-kakenyas-dream/
 - **Business Development Officer** at Jaza Capital Limited (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/business-development-officer-jaza-capital-limited/
+
+## 2026-07-24 13:30 UTC — 8 new job(s)
+
+- **Software Engineer, Associate, Salesforce Platform** at Aceli Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-associate-salesforce-platform-aceli-africa
+- **Software Engineer** at Standard Bank Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-standard-bank-group-5
+- **Cybersecurity Architect (Pre-Sales & Solutioning)** at Abacus (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/cybersecurity-architect-pre-sales-solutioning-abacus-1
+- **Data Analyst** at TakaTaka Solutions (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-analyst-takataka-solutions/
+- **Regional Digital Communication Specialist** at International Committee of the Red Cross (ICRC) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/regional-digital-communication-specialist-international-committee-red-cross-icrc/
+- **Credit Officer** at Jijenge Credit (JCL) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/credit-officer-jijenge-credit-jcl-2/
+- **Grants and Compliance Officer** at Kakenya’s Dream (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/grants-compliance-officer-kakenyas-dream/
+- **Business Development Officer** at Jaza Capital Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-jaza-capital-limited/
