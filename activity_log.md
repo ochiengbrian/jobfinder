@@ -3074,3 +3074,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/software-developer-analyst-international-rescue-committee/
 - **Cloud Solutions Developer – Integrations & Platforms** at PATH (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/cloud-solutions-developer-integrations-platforms-path/
+
+## 2026-07-25 09:48 UTC — 3 new job(s)
+
+- **Software Engineer, Associate, Salesforce Platform** at Aceli Africa (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-engineer-associate-salesforce-platform-aceli-africa/
+- **Software Developer/Analyst** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-developer-analyst-international-rescue-committee/
+- **Cloud Solutions Developer – Integrations & Platforms** at PATH (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/cloud-solutions-developer-integrations-platforms-path/
