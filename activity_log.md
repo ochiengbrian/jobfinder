@@ -3222,3 +3222,26 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/senior-specialist-erp-engineer-cellulant-corporation/
 - **Grants & Partnership Officer** at Britam (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/grants-partnership-officer-britam/
+
+## 2026-07-29 19:10 UTC — 10 new job(s)
+
+- **Senior Data Engineer** at CIC Insurance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-data-engineer-cic-insurance
+- **AI Platform Engineer** at International Rescue Committee (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-platform-engineer-international-rescue-committee-1
+- **Senior Full Stack Developer** at Jubilee Insurance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-full-stack-developer-jubilee-insurance
+- **Full Stack Developer** at Jubilee Insurance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-developer-jubilee-insurance-4
+- **Systems Administrator** at HF Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/systems-administrator-hf-group
+- **Mobile Education Program Officer** at AIC Kijabe Hospital (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/mobile-education-program-officer-aic-kijabe-hospital-1
+- **Regional Sr. Program Officer** at FHI360 NGO (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/regional-sr-program-officer-fhi360-ngo
+- **Project Officer- Livelihoods and Resilience** at World Vision Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officer-livelihoods-and-resilience-world-vision-kenya-1
+- **Senior Specialist: ERP Engineer** at Cellulant Corporation (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-specialist-erp-engineer-cellulant-corporation/
+- **Grants & Partnership Officer** at Britam (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/grants-partnership-officer-britam/
