@@ -3146,3 +3146,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/software-developer-analyst-international-rescue-committee/
 - **Cloud Solutions Developer – Integrations & Platforms** at PATH (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/cloud-solutions-developer-integrations-platforms-path/
+
+## 2026-07-29 10:39 UTC — 5 new job(s)
+
+- **Senior Data Engineer** at CIC Insurance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-data-engineer-cic-insurance
+- **Senior Full Stack Developer** at Jubilee Insurance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-full-stack-developer-jubilee-insurance
+- **Full Stack Developer** at Jubilee Insurance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-developer-jubilee-insurance-4
+- **Senior Specialist: ERP Engineer** at Cellulant Corporation (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-specialist-erp-engineer-cellulant-corporation/
+- **Grants & Partnership Officer** at Britam (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/grants-partnership-officer-britam/
