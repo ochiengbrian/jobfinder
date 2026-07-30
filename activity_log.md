@@ -3396,3 +3396,22 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/mobile-education-program-officer-aic-kijabe-hospital/
 - **Regional Sr. Program Officer** at FHI360 NGO (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/regional-sr-program-officer-fhi360-ngo/
+
+## 2026-07-30 21:07 UTC — 8 new job(s)
+
+- **Data & Reporting Analyst** at Victory Farms (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-reporting-analyst-victory-farms
+- **Senior Data Engineer** at CloudFactory (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-data-engineer-cloudfactory
+- **ICT Specialist - Software Development (Full Stack Developer - Node, Typescript, Express, React)** at United Nations Office for Project Services (UNOPS) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-specialist-software-development-full-stack-developer-node-typescript-express-react-united-nations-office-for-project-services-unops
+- **Instrumentation and Control Engineer** at Octavia Carbon (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/instrumentation-control-engineer-octavia-carbon/
+- **AI Platform Engineer** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ai-platform-engineer-international-rescue-committee/
+- **ICT Specialist – Software Development (Full Stack Developer – Node, Typescript, Express, React)** at United Nations Office for Project Services (UNOPS) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ict-specialist-software-development-full-stack-developer-node-typescript-express-react-united-nations-office-project-services-unops/
+- **Mobile Education Program Officer** at AIC Kijabe Hospital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/mobile-education-program-officer-aic-kijabe-hospital/
+- **Regional Sr. Program Officer** at FHI360 NGO (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/regional-sr-program-officer-fhi360-ngo/
