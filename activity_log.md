@@ -3291,3 +3291,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/senior-specialist-erp-engineer-cellulant-corporation/
 - **Grants & Partnership Officer** at Britam (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/grants-partnership-officer-britam/
+
+## 2026-07-30 04:59 UTC — 1 new job(s)
+
+- **Senior Data Engineer** at CloudFactory (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-data-engineer-cloudfactory
