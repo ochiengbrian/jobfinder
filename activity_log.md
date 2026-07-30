@@ -3296,3 +3296,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Senior Data Engineer** at CloudFactory (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/senior-data-engineer-cloudfactory
+
+## 2026-07-30 08:19 UTC — 5 new job(s)
+
+- **Senior Data Engineer** at CloudFactory (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-data-engineer-cloudfactory
+- **ICT Specialist - Software Development (Full Stack Developer - Node, Typescript, Express, React)** at United Nations Office for Project Services (UNOPS) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-specialist-software-development-full-stack-developer-node-typescript-express-react-united-nations-office-for-project-services-unops
+- **AI Platform Engineer** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ai-platform-engineer-international-rescue-committee/
+- **Mobile Education Program Officer** at AIC Kijabe Hospital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/mobile-education-program-officer-aic-kijabe-hospital/
+- **Regional Sr. Program Officer** at FHI360 NGO (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/regional-sr-program-officer-fhi360-ngo/
