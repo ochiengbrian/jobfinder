@@ -3434,3 +3434,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/mobile-education-program-officer-aic-kijabe-hospital/
 - **Regional Sr. Program Officer** at FHI360 NGO (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/regional-sr-program-officer-fhi360-ngo/
+
+## 2026-07-31 10:37 UTC — 2 new job(s)
+
+- **BI Data Analytics Engineer** at d.light (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/bi-data-analytics-engineer-d-light
+- **Fullstack Developer** at Britam (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/fullstack-developer-britam
