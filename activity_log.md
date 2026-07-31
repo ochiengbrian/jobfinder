@@ -3441,3 +3441,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/bi-data-analytics-engineer-d-light
 - **Fullstack Developer** at Britam (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/fullstack-developer-britam
+
+## 2026-07-31 13:56 UTC — 6 new job(s)
+
+- **Data Scientist (Fraud)** at Moniepoint (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-scientist-fraud-moniepoint
+- **BI Data Analytics Engineer** at d.light (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/bi-data-analytics-engineer-d-light
+- **Fullstack Developer** at Britam (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/fullstack-developer-britam
+- **Information Security GRC Officer** at Talent Safari (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/information-security-grc-officer-talent-safari
+- **Sectional IP Network Engineer- Field - Central** at HCS Affiliates Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/sectional-ip-network-engineer-field-central-hcs-affiliates-group-2
+- **Sectional IP Network Engineer- Field - Nairobi** at HCS Affiliates Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/sectional-ip-network-engineer-field-nairobi-hcs-affiliates-group
