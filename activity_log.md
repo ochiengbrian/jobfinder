@@ -3653,3 +3653,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/information-security-grc-officer-talent-safari/
 - **Call Centre Support Intern – National Shelters Network** at Center for Domestic Training and Development (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/call-centre-support-intern-national-shelters-network-center-domestic-training-development/
+
+## 2026-08-01 20:48 UTC — 7 new job(s)
+
+- **ICT Intern - Software Developer** at Amref Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-intern-software-developer-amref-kenya-1
+- **Data Scientist (Fraud)** at Moniepoint (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-scientist-fraud-moniepoint/
+- **ICT Intern – Software Developer** at Amref Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ict-intern-software-developer-amref-kenya/
+- **Engineer – Enterprise Customer Support** at Safaricom Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/engineer-enterprise-customer-support-safaricom-kenya/
+- **Unit Managers – Retail Business Healthcare Division** at Madison Group Limited – 3 Positions (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/unit-managers-retail-business-healthcare-division-at-madison-group-limited-3-positions/
+- **Information Security GRC Officer** at Talent Safari (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-security-grc-officer-talent-safari/
+- **Call Centre Support Intern – National Shelters Network** at Center for Domestic Training and Development (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/call-centre-support-intern-national-shelters-network-center-domestic-training-development/
