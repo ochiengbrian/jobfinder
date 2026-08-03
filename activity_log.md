@@ -3794,3 +3794,26 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/senior-engineer-security-operation-center-united-states-international-university-usiu-africa/
 - **Support Specialist(Fintech)** at pycs (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/support-specialistfintech-pycs/
+
+## 2026-08-03 23:00 UTC — 10 new job(s)
+
+- **Fraud Data Analyst** at NALA (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/fraud-data-analyst-nala
+- **Marine Spatial Data Analyst (Maternity Cover)** at Blue Ventures (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/marine-spatial-data-analyst-maternity-cover-blue-ventures
+- **Backend Developer** at Clovers Management & Training Consultants Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/backend-developer-clovers-management-amp-training-consultants-ltd
+- **Senior Backend Engineer** at HF Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-backend-engineer-hf-group-1
+- **Senior Lecturer, Computer Science/Software Engineering** at Kirinyaga University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-lecturer-computer-science-software-engineering-kirinyaga-university
+- **Senior DevOps Engineer** at Absa Bank Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-devops-engineer-absa-bank-limited
+- **Process Design Engineer** at Octavia Carbon (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/process-design-engineer-octavia-carbon/
+- **Lead Application Engineer** at Nairobi Hospital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/lead-application-engineer-nairobi-hospital/
+- **Senior Engineer – Security Operation Center** at United States International University – USIU Africa (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-engineer-security-operation-center-united-states-international-university-usiu-africa/
+- **Support Specialist(Fintech)** at pycs (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/support-specialistfintech-pycs/
