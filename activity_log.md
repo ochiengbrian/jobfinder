@@ -3691,3 +3691,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/information-security-grc-officer-talent-safari/
 - **Call Centre Support Intern – National Shelters Network** at Center for Domestic Training and Development (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/call-centre-support-intern-national-shelters-network-center-domestic-training-development/
+
+## 2026-08-03 11:22 UTC — 4 new job(s)
+
+- **Senior Backend Engineer** at HF Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-backend-engineer-hf-group-1
+- **Lead Application Engineer** at Nairobi Hospital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/lead-application-engineer-nairobi-hospital/
+- **Senior Engineer – Security Operation Center** at United States International University – USIU Africa (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-engineer-security-operation-center-united-states-international-university-usiu-africa/
+- **Support Specialist(Fintech)** at pycs (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/support-specialistfintech-pycs/
