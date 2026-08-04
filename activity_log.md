@@ -3817,3 +3817,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/senior-engineer-security-operation-center-united-states-international-university-usiu-africa/
 - **Support Specialist(Fintech)** at pycs (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/support-specialistfintech-pycs/
+
+## 2026-08-04 05:21 UTC — 2 new job(s)
+
+- **Statistics, Monitoring, Evaluation, and Learning (MEL) Intern (1 Position** at Frolics of Hope Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/statistics-monitoring-evaluation-and-learning-mel-intern-1-position-frolics-of-hope-africa
+- **Community Development Intern (1 Position)** at Frolics of Hope Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/community-development-intern-1-position-frolics-of-hope-africa
