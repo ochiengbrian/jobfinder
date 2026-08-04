@@ -4014,3 +4014,38 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/business-development-officer-marine-liability-travel-cic-insurance-2/
 - **ITOM Configuration Specialist** at Absa Bank Limited (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/itom-configuration-specialist-absa-bank-limited/
+
+## 2026-08-04 23:02 UTC — 16 new job(s)
+
+- **Data Engineer** at Abacus (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineer-abacus
+- **Senior AI/ML Engineer** at ALX (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-ai-ml-engineer-alx
+- **AI Engineer** at ALX (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-engineer-alx
+- **Cybersecurity, Governance and Assurance Officer** at International Livestock Research Institute (ILRI) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/cybersecurity-governance-and-assurance-officer-international-livestock-research-institute-ilri
+- **Principal ICT Officer** at Coast Water Works Development Agency (CWWDA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/principal-ict-officer-coast-water-works-development-agency-cwwda
+- **QSSK-IT & Zoho Systems Administrator** at Q-Sourcing Servtec Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/qssk-it-zoho-systems-administrator-q-sourcing-servtec-group
+- **Monitoring, Evaluation, Results and Learning (MERL) Officer** at Sustainable Business Consulting (SBC) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-evaluation-results-and-learning-merl-officer-sustainable-business-consulting-sbc
+- **Senior Regional Manager, Monitoring, Evaluation, Research and Learning (MERL)** at World University Service of Canada (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-regional-manager-monitoring-evaluation-research-and-learning-merl-world-university-service-of-canada-1
+- **Statistics, Monitoring, Evaluation, and Learning (MEL) Intern (1 Position** at Frolics of Hope Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/statistics-monitoring-evaluation-and-learning-mel-intern-1-position-frolics-of-hope-africa
+- **Community Development Intern (1 Position)** at Frolics of Hope Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/community-development-intern-1-position-frolics-of-hope-africa
+- **Marine Spatial Data Analyst (Maternity Cover)** at Blue Ventures (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/marine-spatial-data-analyst-maternity-cover-blue-ventures/
+- **Fraud Data Analyst** at NALA (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/fraud-data-analyst-nala/
+- **Senior DevOps Engineer** at Absa Bank Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-devops-engineer-absa-bank-limited/
+- **Senior Business Development Officer Pension** at Britam (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-business-development-officer-pension-britam/
+- **Business Development Officer – Marine, Liability and Travel** at CIC Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-marine-liability-travel-cic-insurance-2/
+- **ITOM Configuration Specialist** at Absa Bank Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/itom-configuration-specialist-absa-bank-limited/
