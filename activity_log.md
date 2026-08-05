@@ -4073,3 +4073,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/cybersecurity-governance-assurance-officer-international-livestock-research-institute-ilri/
 - **Chief Executive Officer / Fund Administrator** at National Lottery Board (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/chief-executive-officer-fund-administrator-national-lottery-board/
+
+## 2026-08-05 13:59 UTC — 6 new job(s)
+
+- **Data Analyst** at Tenwek Hospital (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-tenwek-hospital-1
+- **Full Stack Developer** at Unga Holding (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-developer-unga-holding-1
+- **Full Stack Developer** at Sheer Logic (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-developer-sheer-logistics
+- **Lead Infrastructure Engineer** at Ideon Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/lead-infrastructure-engineer-ideon-limited/
+- **Cybersecurity, Governance and Assurance Officer** at International Livestock Research Institute (ILRI) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/cybersecurity-governance-assurance-officer-international-livestock-research-institute-ilri/
+- **Chief Executive Officer / Fund Administrator** at National Lottery Board (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/chief-executive-officer-fund-administrator-national-lottery-board/
