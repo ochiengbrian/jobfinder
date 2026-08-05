@@ -4049,3 +4049,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/business-development-officer-marine-liability-travel-cic-insurance-2/
 - **ITOM Configuration Specialist** at Absa Bank Limited (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/itom-configuration-specialist-absa-bank-limited/
+
+## 2026-08-05 08:32 UTC — 3 new job(s)
+
+- **Data Analyst** at Tenwek Hospital (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-tenwek-hospital-1
+- **Lead Infrastructure Engineer** at Ideon Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/lead-infrastructure-engineer-ideon-limited/
+- **Cybersecurity, Governance and Assurance Officer** at International Livestock Research Institute (ILRI) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/cybersecurity-governance-assurance-officer-international-livestock-research-institute-ilri/
