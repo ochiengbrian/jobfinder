@@ -4325,3 +4325,44 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/business-development-officer-alternative-distribution-channel-saccos-mfis-aggregators-apa-life-assurance-company-ltd/
 - **Senior Program Officer- Higher Education Inclusion** at World University Service of Canada (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-program-officer-higher-education-inclusion-world-university-service-canada/
+
+## 2026-08-06 23:58 UTC — 19 new job(s)
+
+- **Data Engineering Lead Analyst** at Cigna (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineering-lead-analyst-cigna
+- **CRRD Data Analyst** at International Rescue Committee (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/crrd-data-analyst-international-rescue-committee-1
+- **Commercial Data Analyst** at M-Gas (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/commercial-data-analyst-m-gas
+- **Key expert 2: Data Science And Software Engineering** at Sustainet Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/key-expert-2-data-science-and-software-engineering-sustainet-group
+- **Full Stack Engineer** at Co-operative Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-engineer-co-operative-bank-of-kenya
+- **Senior Cybersecurity** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-cybersecurity-solvo-global
+- **ICT Officer – Physical Hardware Support** at Frank Management Consult Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-physical-hardware-support-frank-management-consult-ltd
+- **Community Development Facilitator** at Baraka Agriculture College (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/community-development-facilitator-baraka-agriculture-college
+- **Humanitarian Emergency Affairs Intern** at World Vision Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/humanitarian-emergency-affairs-intern-world-vision-kenya-4
+- **CRRD Data Analyst** at International Rescue Committee – Nairobi (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/crrd-data-analyst-international-rescue-committee-nairobi/
+- **E T Consultant (Regional Engagement Analyst)** at World Bank Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/e-t-consultant-regional-engagement-analyst-world-bank-group/
+- **IT Program Manager & Business Analyst (PM-BA)** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/program-manager-business-analyst-pm-ba-international-rescue-committee/
+- **Senior Investment Analyst** at Jubilee Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-investment-analyst-jubilee-insurance-3/
+- **Data Engineering Advisor** at Cigna (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-engineering-advisor-cigna/
+- **Full Stack Developer** at Sheer Logic (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/full-stack-developer-sheer-logic/
+- **Mobile Application Developer** at Sheer Logic (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/mobile-application-developer-sheer-logic/
+- **Business Development Officer, Corporate – First Assurance Kenya** at Absa Bank Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-corporate-first-assurance-kenya-absa-bank-limited-2/
+- **Business Development Officer– Alternative Distribution Channel (Saccos, MFIS & Aggregators)** at APA Life Assurance Company Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-alternative-distribution-channel-saccos-mfis-aggregators-apa-life-assurance-company-ltd/
+- **Senior Program Officer- Higher Education Inclusion** at World University Service of Canada (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-program-officer-higher-education-inclusion-world-university-service-canada/
