@@ -4189,3 +4189,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/business-development-officer-corporate-first-assurance-kenya-absa-bank-limited/
 - **Chief Executive Officer / Fund Administrator** at National Lottery Board (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/chief-executive-officer-fund-administrator-national-lottery-board/
+
+## 2026-08-06 06:29 UTC — 6 new job(s)
+
+- **Commercial Data Analyst** at M-Gas (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/commercial-data-analyst-m-gas
+- **Key expert 2: Data science and software engineering** at Sustainet Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/key-expert-2-data-science-and-software-engineering-sustainet-group
+- **Full Stack Engineer** at Co-operative Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-engineer-co-operative-bank-of-kenya
+- **Senior Cybersecurity** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-cybersecurity-solvo-global
+- **ICT Officer – Physical Hardware Support** at Frank Management Consult Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-physical-hardware-support-frank-management-consult-ltd
+- **Community Development Facilitator** at Baraka Agriculture College (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/community-development-facilitator-baraka-agriculture-college
