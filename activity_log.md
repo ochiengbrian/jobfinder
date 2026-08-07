@@ -4366,3 +4366,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/business-development-officer-alternative-distribution-channel-saccos-mfis-aggregators-apa-life-assurance-company-ltd/
 - **Senior Program Officer- Higher Education Inclusion** at World University Service of Canada (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-program-officer-higher-education-inclusion-world-university-service-canada/
+
+## 2026-08-07 08:57 UTC — 3 new job(s)
+
+- **Network Engineer- All Interested Applicants** at U.S. Embassy to Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/network-engineer-all-interested-applicants-u-s-embassy-to-kenya
+- **Monitoring & Evaluation Associate - Global Fund TB Project (Re-advertisement)** at Amref Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-evaluation-associate-global-fund-tb-project-re-advertisement-amref-kenya
+- **Humanitarian Emergency Affairs Intern** at World Vision Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/humanitarian-emergency-affairs-intern-world-vision-kenya-5
