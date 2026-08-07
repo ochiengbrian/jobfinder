@@ -4375,3 +4375,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/monitoring-evaluation-associate-global-fund-tb-project-re-advertisement-amref-kenya
 - **Humanitarian Emergency Affairs Intern** at World Vision Kenya (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/humanitarian-emergency-affairs-intern-world-vision-kenya-5
+
+## 2026-08-07 10:51 UTC — 5 new job(s)
+
+- **AI Orchestration Engineer - Computer Science** at Zetech University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-orchestration-engineer-computer-science-zetech-university-1
+- **Network Engineer- All Interested Applicants** at U.S. Embassy to Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/network-engineer-all-interested-applicants-u-s-embassy-to-kenya
+- **Field Officers – Sales, Marketing & Community Engagement (30 Positions)** at Girwa Radio (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officers-sales-marketing-community-engagement-30-positions-girwa-radio
+- **Monitoring & Evaluation Associate - Global Fund TB Project (Re-advertisement)** at Amref Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-evaluation-associate-global-fund-tb-project-re-advertisement-amref-kenya
+- **Humanitarian Emergency Affairs Intern** at World Vision Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/humanitarian-emergency-affairs-intern-world-vision-kenya-5
