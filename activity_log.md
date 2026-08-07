@@ -4502,3 +4502,34 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/support-officer-missions-hope-international-mohi/
 - **Monitoring & Evaluation Associate – Global Fund TB Project (Re-advertisement)** at Amref Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/monitoring-evaluation-associate-global-fund-tb-project-re-advertisement-amref-kenya/
+
+## 2026-08-07 20:40 UTC — 14 new job(s)
+
+- **AI Orchestration Engineer - Computer Science** at Zetech University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-orchestration-engineer-computer-science-zetech-university-1
+- **Network Engineer- All Interested Applicants** at U.S. Embassy to Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/network-engineer-all-interested-applicants-u-s-embassy-to-kenya
+- **Field Officers – Sales, Marketing & Community Engagement (30 Positions)** at Girwa Radio (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officers-sales-marketing-community-engagement-30-positions-girwa-radio
+- **Monitoring & Evaluation Associate - Global Fund TB Project (Re-advertisement)** at Amref Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-evaluation-associate-global-fund-tb-project-re-advertisement-amref-kenya
+- **Humanitarian Emergency Affairs Intern** at World Vision Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/humanitarian-emergency-affairs-intern-world-vision-kenya-5
+- **AI Orchestration Engineer – Computer Science** at Zetech University (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ai-orchestration-engineer-computer-science-zetech-university/
+- **Electrical Engineering Trainer** at Machakos Institute of Technology (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/electrical-engineering-trainer-machakos-institute-technology/
+- **Systems Developer** at Express Shipping & Logistics (EA) Limited (ESL) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/systems-developer-express-shipping-logistics-ea-limited-esl/
+- **School Administrator** at Narok County Academy (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/school-administrator-narok-county-academy/
+- **Solution Architect** at Ericsson (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/solution-architect-ericsson/
+- **Head of Cloud & Cyber Security** at Liquid Intelligent Technologies (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-cloud-cyber-security-liquid-intelligent-technologies/
+- **Institutional Grants Funding Officer** at Bible Translation and Literacy (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/institutional-grants-funding-officer-bible-translation-literacy/
+- **IT Support Officer** at Missions of Hope International (MOHI) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/support-officer-missions-hope-international-mohi/
+- **Monitoring & Evaluation Associate – Global Fund TB Project (Re-advertisement)** at Amref Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/monitoring-evaluation-associate-global-fund-tb-project-re-advertisement-amref-kenya/
