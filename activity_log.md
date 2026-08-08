@@ -4569,3 +4569,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Broadcast Engineer** at Mediamax Network Limited (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/broadcast-engineer-mediamax-network
+
+## 2026-08-08 08:38 UTC — 1 new job(s)
+
+- **Broadcast Engineer** at Mediamax Network Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/broadcast-engineer-mediamax-network
