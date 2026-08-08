@@ -4564,3 +4564,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/support-officer-missions-hope-international-mohi/
 - **Monitoring & Evaluation Associate – Global Fund TB Project (Re-advertisement)** at Amref Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/monitoring-evaluation-associate-global-fund-tb-project-re-advertisement-amref-kenya/
+
+## 2026-08-08 06:46 UTC — 1 new job(s)
+
+- **Broadcast Engineer** at Mediamax Network Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/broadcast-engineer-mediamax-network
