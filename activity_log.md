@@ -4651,3 +4651,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/broadcast-engineer-mediamax-network-limited/
 - **Experienced Beauty Therapist Along Ngong Road (Kshs 30k – 40k Starting Salary)** at Delicto Holdings (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/experienced-beauty-therapist-along-ngong-road-kshs-30k-40k-starting-salary-delicto-holdings/
+
+## 2026-08-10 14:58 UTC — 5 new job(s)
+
+- **Supply Chain Data and Planning Analyst** at African Coffee Roasters EPZ Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/supply-chain-data-and-planning-analyst-african-coffee-roasters-epz-limited
+- **Junior Software Engineer** at CIC Insurance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/junior-software-engineer-cic-insurance
+- **Research and Development Officer** at AA Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/research-development-officer-aa-kenya/
+- **Broadcast Engineer** at Mediamax Network Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/broadcast-engineer-mediamax-network-limited/
+- **Experienced Beauty Therapist Along Ngong Road (Kshs 30k – 40k Starting Salary)** at Delicto Holdings (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/experienced-beauty-therapist-along-ngong-road-kshs-30k-40k-starting-salary-delicto-holdings/
