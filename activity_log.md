@@ -4724,3 +4724,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/broadcast-engineer-mediamax-network-limited/
 - **Experienced Beauty Therapist Along Ngong Road (Kshs 30k – 40k Starting Salary)** at Delicto Holdings (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/experienced-beauty-therapist-along-ngong-road-kshs-30k-40k-starting-salary-delicto-holdings/
+
+## 2026-08-11 05:06 UTC — 3 new job(s)
+
+- **Senior Software Engineer** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-software-engineer-solvo-global
+- **Senior Software QA Engineer** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-software-qa-engineer-solvo-global
+- **Project Officer** at AGC Tenwek Cardiothoracic Centre (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officer-agc-tenwek-cardiothoracic-centre
