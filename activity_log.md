@@ -4838,3 +4838,34 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/agile-team-coach-senior-analyst-cigna/
 - **Tupande Automation Engineering Lead (Fixed-term)** at One Acre Fund (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/tupande-automation-engineering-lead-fixed-term-one-acre-fund/
+
+## 2026-08-11 16:58 UTC — 14 new job(s)
+
+- **Funded-MSc ICT (must have evidence of Artificial Intelligence Application)** at University of Embu (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/funded-msc-ict-must-have-evidence-of-artificial-intelligence-application-university-of-embu
+- **Senior AI Platform Engineer (Cloud) - KE** at Absa Bank Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-ai-platform-engineer-cloud-ke-absa-bank-limited
+- **AI Platform Engineer (Cloud) - KE** at Absa Bank Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-platform-engineer-cloud-ke-absa-bank-limited
+- **Senior Software Engineer** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-software-engineer-solvo-global
+- **Senior Software QA Engineer** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-software-qa-engineer-solvo-global
+- **Project Officer- CDO (Citizen and Leadership Integrity; access to justice)** at Transparency International - Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officer-cdo-citizen-and-leadership-integrity-access-to-justice-transparency-international-ndash-kenya
+- **Project Officer** at AGC Tenwek Cardiothoracic Centre (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officer-agc-tenwek-cardiothoracic-centre
+- **Enumerator / Field Officer (10 Positions)** at Insight Axis Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/enumerator-field-officer-10-positions-insight-axis-africa
+- **Monitoring, Evaluation, Research &Learning (MERL) Intern** at Transparency International - Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-evaluation-research-learning-merl-intern-transparency-international-ndash-kenya
+- **Community Tourism Development Specialist (CTDS), Africa** at Planeterra International Foundation (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/community-tourism-development-specialist-ctds-africa-planeterra-international-foundation
+- **Data Analyst** at HF Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-analyst-hf-group/
+- **Supply Chain Data and Planning Analyst** at African Coffee Roasters EPZ Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/supply-chain-data-planning-analyst-african-coffee-roasters-epz-limited/
+- **Agile Team Coach Senior Analyst** at Cigna (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/agile-team-coach-senior-analyst-cigna/
+- **Tupande Automation Engineering Lead (Fixed-term)** at One Acre Fund (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/tupande-automation-engineering-lead-fixed-term-one-acre-fund/
