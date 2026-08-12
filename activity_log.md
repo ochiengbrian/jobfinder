@@ -4971,3 +4971,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/ai-platform-engineer-cloud-ke-absa-bank-limited/
 - **Engineering Trainee – Factory Operations** at Sucafina (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/engineering-trainee-factory-operations-sucafina/
+
+## 2026-08-12 04:06 UTC — 3 new job(s)
+
+- **Senior AI Platform Engineer (Cloud) – KE** at Absa Bank Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-ai-platform-engineer-cloud-ke-absa-bank-limited/
+- **AI Platform Engineer (Cloud) – KE** at Absa Bank Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ai-platform-engineer-cloud-ke-absa-bank-limited/
+- **Engineering Trainee – Factory Operations** at Sucafina (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/engineering-trainee-factory-operations-sucafina/
