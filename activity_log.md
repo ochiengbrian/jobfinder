@@ -4962,3 +4962,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/agile-team-coach-senior-analyst-cigna/
 - **Tupande Automation Engineering Lead (Fixed-term)** at One Acre Fund (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/tupande-automation-engineering-lead-fixed-term-one-acre-fund/
+
+## 2026-08-12 01:27 UTC — 3 new job(s)
+
+- **Senior AI Platform Engineer (Cloud) – KE** at Absa Bank Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-ai-platform-engineer-cloud-ke-absa-bank-limited/
+- **AI Platform Engineer (Cloud) – KE** at Absa Bank Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ai-platform-engineer-cloud-ke-absa-bank-limited/
+- **Engineering Trainee – Factory Operations** at Sucafina (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/engineering-trainee-factory-operations-sucafina/
