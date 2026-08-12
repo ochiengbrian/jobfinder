@@ -4991,3 +4991,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/ai-platform-engineer-cloud-ke-absa-bank-limited/
 - **Engineering Trainee – Factory Operations** at Sucafina (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/engineering-trainee-factory-operations-sucafina/
+
+## 2026-08-12 09:12 UTC — 4 new job(s)
+
+- **Senior Program Officer, Polio Outbreaks (DRC & Francophone Africa Focus)** at Gates Foundation (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-program-officer-polio-outbreaks-drc-francophone-africa-focus-gates-foundation
+- **Senior AI Platform Engineer (Cloud) – KE** at Absa Bank Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-ai-platform-engineer-cloud-ke-absa-bank-limited/
+- **AI Platform Engineer (Cloud) – KE** at Absa Bank Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ai-platform-engineer-cloud-ke-absa-bank-limited/
+- **Engineering Trainee – Factory Operations** at Sucafina (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/engineering-trainee-factory-operations-sucafina/
