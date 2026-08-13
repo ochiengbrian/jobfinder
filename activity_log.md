@@ -5100,3 +5100,22 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/scientist-gender-social-inclusion-development-worldfish/
 - **Automation and PCD Engineer** at The Heineken (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/automation-pcd-engineer-heineken/
+
+## 2026-08-13 09:12 UTC — 8 new job(s)
+
+- **Senior Full Stack Developer Technical Lead** at East African Data Handlers (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-full-stack-developer-technical-lead-east-african-data-handlers
+- **Cloud Engineer** at CIC Insurance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/cloud-engineer-cic-insurance-2
+- **Network Security Engineer** at CIC Insurance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/network-security-engineer-cic-insurance-1
+- **Scientist (Gender, Social Inclusion and Development)** at WorldFish (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/scientist-gender-social-inclusion-development-worldfish/
+- **AI Data Solution Engineer** at Environmental Resources Management (ERM) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ai-data-solution-engineer-environmental-resources-management-erm/
+- **Senior Quality Engineer** at Airtel (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-quality-engineer-airtel/
+- **IT Specialist** at EIDU (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/it-specialist-at-eidu/
+- **Automation and PCD Engineer** at The Heineken (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/automation-pcd-engineer-heineken/
