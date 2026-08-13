@@ -5214,3 +5214,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/it-specialist-at-eidu/
 - **Automation and PCD Engineer** at The Heineken (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/automation-pcd-engineer-heineken/
+
+## 2026-08-13 20:56 UTC — 6 new job(s)
+
+- **Scientist (Gender, Social Inclusion and Development)** at WorldFish (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/scientist-gender-social-inclusion-development-worldfish/
+- **AI Data Solution Engineer** at Environmental Resources Management (ERM) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ai-data-solution-engineer-environmental-resources-management-erm/
+- **Manual Functional Test Engineer** at Tezza Business Solutions Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/manual-functional-test-engineer-tezza-business-solutions-ltd/
+- **Senior Quality Engineer** at Airtel (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-quality-engineer-airtel/
+- **IT Specialist** at EIDU (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/it-specialist-at-eidu/
+- **Automation and PCD Engineer** at The Heineken (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/automation-pcd-engineer-heineken/
