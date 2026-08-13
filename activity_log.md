@@ -5091,3 +5091,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/ai-platform-engineer-cloud-ke-absa-bank-limited/
 - **Engineering Trainee – Factory Operations** at Sucafina (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/engineering-trainee-factory-operations-sucafina/
+
+## 2026-08-13 07:23 UTC — 3 new job(s)
+
+- **Senior Full Stack Developer Technical Lead** at East African Data Handlers (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-full-stack-developer-technical-lead-east-african-data-handlers
+- **Scientist (Gender, Social Inclusion and Development)** at WorldFish (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/scientist-gender-social-inclusion-development-worldfish/
+- **Automation and PCD Engineer** at The Heineken (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/automation-pcd-engineer-heineken/
