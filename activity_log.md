@@ -5284,3 +5284,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/education-solutions-engineer-google/
 - **Business Support Assistant (GDS & Ticketing Specialist), SC4** at World Food Programme (WFP) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/business-support-assistant-gds-ticketing-specialist-sc4-world-food-programme-wfp/
+
+## 2026-08-14 16:54 UTC — 5 new job(s)
+
+- **Data Analyst and Coordinator Intern** at Harleys Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-and-coordinator-intern-harleys-limited
+- **SR Software Engineer** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/sr-software-engineer-solvo-global
+- **Database Administrator – MySQL & EDB PostgreSQL** at Sybyl Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/database-administrator-mysql-edb-postgresql-sybyl-limited
+- **Education Solutions Engineer** at Google (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/education-solutions-engineer-google/
+- **Business Support Assistant (GDS & Ticketing Specialist), SC4** at World Food Programme (WFP) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-support-assistant-gds-ticketing-specialist-sc4-world-food-programme-wfp/
