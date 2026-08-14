@@ -5254,3 +5254,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/it-specialist-at-eidu/
 - **Automation and PCD Engineer** at The Heineken (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/automation-pcd-engineer-heineken/
+
+## 2026-08-14 09:07 UTC — 1 new job(s)
+
+- **SR Software Engineer** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/sr-software-engineer-solvo-global
