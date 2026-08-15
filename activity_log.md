@@ -5336,3 +5336,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/education-solutions-engineer-google/
 - **Business Support Assistant (GDS & Ticketing Specialist), SC4** at World Food Programme (WFP) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/business-support-assistant-gds-ticketing-specialist-sc4-world-food-programme-wfp/
+
+## 2026-08-15 06:32 UTC — 1 new job(s)
+
+- **Monitoring and Evaluation Officer** at Maasai Mara Wildlife Conservancies Association (MMWCA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-and-evaluation-officer-maasai-mara-wildlife-conservancies-association-mmwca-2
