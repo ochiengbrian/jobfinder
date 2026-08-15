@@ -5375,3 +5375,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/business-analyst-da-mgmt-british-american-tobacco-bat/
 - **Contact Centre Engineer** at Andishi (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/contact-centre-engineer-andishi/
+
+## 2026-08-15 16:22 UTC — 3 new job(s)
+
+- **Monitoring and Evaluation Officer** at Maasai Mara Wildlife Conservancies Association (MMWCA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-and-evaluation-officer-maasai-mara-wildlife-conservancies-association-mmwca-2
+- **Business Analyst D&A, Mgmt.** at British American Tobacco (BAT) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-analyst-da-mgmt-british-american-tobacco-bat/
+- **Contact Centre Engineer** at Andishi (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/contact-centre-engineer-andishi/
