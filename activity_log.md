@@ -5439,3 +5439,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/head-of-design-monitoring-evaluation-accountability-and-learning-dmeal-the-maa-trust
 - **Operations Administrator** at ATL Global Business (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/operations-administrator-atl-global-business/
+
+## 2026-08-17 16:25 UTC — 4 new job(s)
+
+- **AI Engineering Trainer** at Mediacrest Training College (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-engineering-trainer-mediacrest-training-college
+- **Cybersecurity Trainer** at Mediacrest Training College (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/cybersecurity-trainer-mediacrest-training-college-3
+- **Head of Design, Monitoring, Evaluation, Accountability and Learning (DMEAL)** at The Maa Trust (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/head-of-design-monitoring-evaluation-accountability-and-learning-dmeal-the-maa-trust
+- **Operations Administrator** at ATL Global Business (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/operations-administrator-atl-global-business/
