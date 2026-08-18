@@ -5490,3 +5490,22 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/data-analyst-cloudfactory-2
 - **Data Engineer** at CloudFactory (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/data-engineer-cloudfactory-1
+
+## 2026-08-18 06:38 UTC — 8 new job(s)
+
+- **Data Analyst** at CloudFactory (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-cloudfactory-2
+- **Data Engineer** at CloudFactory (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineer-cloudfactory-1
+- **Software Engineer - 2 Posts** at Kenya Space Agency (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-2-posts-kenya-space-agency
+- **Manager, Projects Monitoring & Evaluation** at Kenya Electricity Generating Company PLC, KenGen (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/manager-projects-monitoring-evaluation-kenya-electricity-generating-company-kengen
+- **KE-Monitoring and Evaluation Officer (National)** at Church World Service (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ke-monitoring-and-evaluation-officer-national-church-world-service
+- **KE-Monitoring and Evaluation Supervisor (National)** at Church World Service (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ke-monitoring-and-evaluation-supervisor-national-church-world-service
+- **Senior Officer – Information Systems Audit** at Sidian Bank (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-officer-information-systems-audit-sidian-bank/
+- **Business Development Officer** at Co-operative Bank of Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-co-operative-bank-kenya/
