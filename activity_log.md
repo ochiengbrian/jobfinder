@@ -5483,3 +5483,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/head-of-design-monitoring-evaluation-accountability-and-learning-dmeal-the-maa-trust
 - **Operations Administrator** at ATL Global Business (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/operations-administrator-atl-global-business/
+
+## 2026-08-18 04:38 UTC — 2 new job(s)
+
+- **Data Analyst** at CloudFactory (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-cloudfactory-2
+- **Data Engineer** at CloudFactory (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineer-cloudfactory-1
