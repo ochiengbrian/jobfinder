@@ -5620,3 +5620,46 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/business-development-officer-co-operative-bank-kenya/
 - **Mid Level .Net Developer** at Tezza Business Solutions Ltd (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/mid-level-net-developer-tezza-business-solutions-ltd/
+
+## 2026-08-18 14:32 UTC — 20 new job(s)
+
+- **Assistant Data Analyst** at African Guarantee Fund (AGF) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/assistant-data-analyst-african-guarantee-fund-agf
+- **Data Analyst** at CloudFactory (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-cloudfactory-2
+- **Data Engineer** at CloudFactory (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineer-cloudfactory-1
+- **AI & Machine Learning Lecturer** at Africa Digital Media Institute (ADMI) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-machine-learning-lecturer-africa-digital-media-institute-admi
+- **Senior AI Engineer / AI Technical Lead** at Green Com Enterprise Solutions Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-ai-engineer-ai-technical-lead-green-com-enterprise-solutions-ltd
+- **Senior Software Engineer, Google Play** at Google (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-software-engineer-google-play-google-1
+- **Staff Software Engineer, Google Play** at Google (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/staff-software-engineer-google-play-google-3
+- **CS Engineer (Finance Intern)** at ABNO Softwares International (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/cs-engineer-finance-intern-abno-softwares-international
+- **Software Engineer - 2 Posts** at Kenya Space Agency (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-2-posts-kenya-space-agency
+- **Information Security (50) Posts** at ICT Authority (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/information-security-50-posts-ict-authority
+- **Field Officer (FO)** at Boma Projects (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officer-fo-boma-projects
+- **Monitoring, Evaluation, Research &Learning (MERL) Intern** at Transparency International - Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-evaluation-research-learning-merl-intern-transparency-international-ndash-kenya-1
+- **Manager, Projects Monitoring & Evaluation** at Kenya Electricity Generating Company PLC, KenGen (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/manager-projects-monitoring-evaluation-kenya-electricity-generating-company-kengen
+- **KE-Monitoring and Evaluation Officer (National)** at Church World Service (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ke-monitoring-and-evaluation-officer-national-church-world-service
+- **KE-Monitoring and Evaluation Supervisor (National)** at Church World Service (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ke-monitoring-and-evaluation-supervisor-national-church-world-service
+- **Senior Officer – Information Systems Audit** at Sidian Bank (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-officer-information-systems-audit-sidian-bank/
+- **Automation and PCD Engineer** at Kenya Wine Agencies Limited (KWAL) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/automation-pcd-engineer-kenya-wine-agencies-limited-kwal/
+- **Senior Specialist – Cyber Security Assurance** at Safaricom Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-specialist-cyber-security-assurance-safaricom-kenya/
+- **Business Development Officer** at Co-operative Bank of Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-co-operative-bank-kenya/
+- **Mid Level .Net Developer** at Tezza Business Solutions Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/mid-level-net-developer-tezza-business-solutions-ltd/
