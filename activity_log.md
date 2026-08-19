@@ -5890,3 +5890,24 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/field-officer-fo-boma-projects/
 - **Business Development Officer – Pensions** at Old Mutual Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/business-development-officer-pensions-old-mutual-kenya/
+
+## 2026-08-19 12:39 UTC — 9 new job(s)
+
+- **Senior Data Protection and Encryption Engineer** at Andishi (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-data-protection-and-encryption-engineer-andishi
+- **Generative AI Engineer** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/generative-ai-engineer-solvo-global
+- **Backend Developer - Go & PostgreSQL (Remote, Kenya)** at Two Max Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/backend-developer-go-postgresql-remote-kenya-two-max-group
+- **Senior Software Engineer** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-software-engineer-solvo-global-1
+- **Senior Program Officer, Novel Technologies – Regional & Transboundary Policy (Africa)** at Gates Foundation (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-program-officer-novel-technologies-regional-transboundary-policy-africa-gates-foundation
+- **Monitoring, Evaluation & Learning Manager (MEL)** at Greenpeace (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-evaluation-learning-manager-mel-greenpeace
+- **Head Chef (NGO) – Nairobi, Kenya** at Summit Recruitment and Search (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/head-chef-ngo-nairobi-kenya-summit-recruitment-and-search
+- **Network Engineer** at Zetech University (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/network-engineer-zetech-university/
+- **Manager – Group Systems, IT & Cybersecurity** at Victory Farms (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/manager-group-systems-cybersecurity-victory-farms/
