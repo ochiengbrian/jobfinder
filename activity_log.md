@@ -6116,3 +6116,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/field-technician-vsquared-networks/
 - **Monitoring, Evaluation & Learning Manager (MEL)** at Greenpeace (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/monitoring-evaluation-learning-manager-mel-greenpeace/
+
+## 2026-08-20 20:26 UTC — 7 new job(s)
+
+- **Data Capture Analyst - Entry Level** at Tezza Business Solutions Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-capture-analyst-entry-level-tezza-business-solutions-ltd
+- **Cybersecurity Consultant** at BQI Tech (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/cybersecurity-consultant-bqi-tech
+- **Senior Data Protection and Encryption Engineer** at Andishi (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-data-protection-encryption-engineer-andishi/
+- **Monitoring, Evaluation, Research and Learning Data Manager** at Equity Bank Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/monitoring-evaluation-research-learning-data-manager-equity-bank-kenya/
+- **ERP Web Portal Developer** at Kenya Red Cross Society (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/erp-web-portal-developer-kenya-red-cross-society/
+- **Field Technician** at VSquared Networks (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/field-technician-vsquared-networks/
+- **Monitoring, Evaluation & Learning Manager (MEL)** at Greenpeace (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/monitoring-evaluation-learning-manager-mel-greenpeace/
