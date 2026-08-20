@@ -6025,3 +6025,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/field-officer-fo-boma-projects/
 - **Business Development Officer – Pensions** at Old Mutual Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/business-development-officer-pensions-old-mutual-kenya/
+
+## 2026-08-20 06:41 UTC — 2 new job(s)
+
+- **ERP Web Portal Developer** at Kenya Red Cross Society (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/erp-web-portal-developer-kenya-red-cross-society/
+- **Monitoring, Evaluation & Learning Manager (MEL)** at Greenpeace (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/monitoring-evaluation-learning-manager-mel-greenpeace/
