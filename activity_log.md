@@ -6032,3 +6032,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/erp-web-portal-developer-kenya-red-cross-society/
 - **Monitoring, Evaluation & Learning Manager (MEL)** at Greenpeace (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/monitoring-evaluation-learning-manager-mel-greenpeace/
+
+## 2026-08-20 08:35 UTC — 3 new job(s)
+
+- **Cybersecurity Consultant** at BQI Tech (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/cybersecurity-consultant-bqi-tech
+- **ERP Web Portal Developer** at Kenya Red Cross Society (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/erp-web-portal-developer-kenya-red-cross-society/
+- **Monitoring, Evaluation & Learning Manager (MEL)** at Greenpeace (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/monitoring-evaluation-learning-manager-mel-greenpeace/
