@@ -6150,3 +6150,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/field-technician-vsquared-networks/
 - **Monitoring, Evaluation & Learning Manager (MEL)** at Greenpeace (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/monitoring-evaluation-learning-manager-mel-greenpeace/
+
+## 2026-08-21 08:38 UTC — 2 new job(s)
+
+- **Underwriting Credit Analyst-C11 (French Speaking)** at Citi (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/underwriting-credit-analyst-c11-french-speaking-citi/
+- **Information Technology Assistant, G6 at United Nations Office** at Nairobi (UNON) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-technology-assistant-g6-united-nations-office-nairobi-unon/
