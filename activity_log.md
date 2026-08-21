@@ -6216,3 +6216,28 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/technical-support-engineer-l2-ntt-ltd/
 - **Specialist – Application Development** at Aga Khan University Hospital (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/specialist-application-development-aga-khan-university-hospital/
+
+## 2026-08-21 16:31 UTC — 11 new job(s)
+
+- **Data Engineering Lead Analyst** at Cigna (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineering-lead-analyst-cigna-1
+- **Data Engineering Advisor** at Cigna (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineering-advisor-cigna-1
+- **Part Time Lecturer - Artificial Intelligence (AI) & Machine Learning - 2 Posts** at Kaimosi Friends University College (KAFUCO) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/part-time-lecturer-artificial-intelligence-ai-machine-learning-2-posts-kaimosi-friends-university-college-kafuco
+- **Part Time Lecturer - Software Engineering - 6 Posts** at Kaimosi Friends University College (KAFUCO) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/part-time-lecturer-software-engineering-6-posts-kaimosi-friends-university-college-kafuco
+- **SAP CI DevOps Engineer** at Deloitte Consulting (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/sap-ci-devops-engineer-deloitte-consulting
+- **Part Time Lecturer - Cybersecurity - 2 Posts** at Kaimosi Friends University College (KAFUCO) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/part-time-lecturer-cybersecurity-2-posts-kaimosi-friends-university-college-kafuco
+- **Underwriting Credit Analyst-C11 (French Speaking)** at Citi (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/underwriting-credit-analyst-c11-french-speaking-citi/
+- **Information Technology Assistant, G6 at United Nations Office** at Nairobi (UNON) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-technology-assistant-g6-united-nations-office-nairobi-unon/
+- **Salesforce Administrator (CPQ experience)** at Solvo Global (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/salesforce-administrator-cpq-experience-solvo-global/
+- **Technical Support Engineer L2** at NTT Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/technical-support-engineer-l2-ntt-ltd/
+- **Specialist – Application Development** at Aga Khan University Hospital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/specialist-application-development-aga-khan-university-hospital/
