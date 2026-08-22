@@ -6349,3 +6349,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/data-engineering-advisor-cigna-2/
 - **Dynamics 365 CRM Developer** at CDL Human Resource (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/dynamics-365-crm-developer-cdl-human-resource/
+
+## 2026-08-22 14:20 UTC — 3 new job(s)
+
+- **Data Engineering Lead Analyst** at Cigna (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-engineering-lead-analyst-cigna/
+- **Data Engineering Advisor** at Cigna (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-engineering-advisor-cigna-2/
+- **Dynamics 365 CRM Developer** at CDL Human Resource (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/dynamics-365-crm-developer-cdl-human-resource/
