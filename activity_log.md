@@ -6398,3 +6398,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/data-engineering-lead-analyst-cigna/
 - **Data Engineering Advisor** at Cigna (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/data-engineering-advisor-cigna-2/
+
+## 2026-08-24 08:45 UTC — 1 new job(s)
+
+- **Data Engineer (Azure Databricks)** at Execafrica Recruitment Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineer-azure-databricks-execafrica-recruitment-limited
