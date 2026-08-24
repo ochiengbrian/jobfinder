@@ -6437,3 +6437,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/software-engineer-ibm-9
 - **Data Analyst – Sales** at Tropical Heat (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/data-analyst-sales-tropical-heat-2/
+
+## 2026-08-24 18:37 UTC — 4 new job(s)
+
+- **Data Engineer (Azure Databricks)** at Execafrica Recruitment Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineer-azure-databricks-execafrica-recruitment-limited
+- **Software Engineer** at IBM (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-ibm-9
+- **Data Analyst – Sales** at Tropical Heat (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-analyst-sales-tropical-heat-2/
+- **Senior System Analyst** at Jubilee Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-system-analyst-jubilee-insurance/
