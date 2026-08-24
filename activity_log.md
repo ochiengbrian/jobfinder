@@ -6419,3 +6419,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/data-analyst-sales-tropical-heat-2/
 - **Senior System Analyst** at Jubilee Insurance (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-system-analyst-jubilee-insurance/
+
+## 2026-08-24 14:41 UTC — 3 new job(s)
+
+- **Data Engineer (Azure Databricks)** at Execafrica Recruitment Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineer-azure-databricks-execafrica-recruitment-limited
+- **Data Analyst – Sales** at Tropical Heat (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-analyst-sales-tropical-heat-2/
+- **Senior System Analyst** at Jubilee Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-system-analyst-jubilee-insurance/
