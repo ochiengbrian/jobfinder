@@ -6475,3 +6475,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **People and Culture Administrator** at Strathmore University (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/people-culture-administrator-strathmore-university/
+
+## 2026-08-25 08:40 UTC — 4 new job(s)
+
+- **Software Engineer** at IBM (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-engineer-ibm/
+- **Legal Specialist** at United Nations Office for Project Services (UNOPS) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/legal-specialist-united-nations-office-project-services-unops/
+- **People and Culture Administrator** at Strathmore University (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/people-culture-administrator-strathmore-university/
+- **Health Specialist (Vaccine Preventable Disease Control) – Francophone, P-4** at UNICEF (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/health-specialist-vaccine-preventable-disease-control-francophone-p-4-unicef/
