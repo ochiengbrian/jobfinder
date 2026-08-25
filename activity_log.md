@@ -6470,3 +6470,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/data-analyst-sales-tropical-heat-2/
 - **Senior System Analyst** at Jubilee Insurance (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-system-analyst-jubilee-insurance/
+
+## 2026-08-25 06:42 UTC — 1 new job(s)
+
+- **People and Culture Administrator** at Strathmore University (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/people-culture-administrator-strathmore-university/
