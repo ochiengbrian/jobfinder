@@ -6569,3 +6569,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/people-culture-administrator-strathmore-university/
 - **Health Specialist (Vaccine Preventable Disease Control) – Francophone, P-4** at UNICEF (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/health-specialist-vaccine-preventable-disease-control-francophone-p-4-unicef/
+
+## 2026-08-25 22:25 UTC — 7 new job(s)
+
+- **ICT Officer** at MGI Alekim LLP (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-mgi-alekim-llp-1
+- **Senior Associate, Database Administrator** at I&M Bank (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-associate-database-administrator-i-m-bank
+- **QSSK-Plant Engineer/ Engineering Manager/ Maintenance Manager** at Q-Sourcing Servtec Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/qssk-plant-engineer-engineering-manager-maintenance-manager-q-sourcing-servtec-group/
+- **Software Engineer** at IBM (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-engineer-ibm/
+- **Legal Specialist** at United Nations Office for Project Services (UNOPS) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/legal-specialist-united-nations-office-project-services-unops/
+- **People and Culture Administrator** at Strathmore University (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/people-culture-administrator-strathmore-university/
+- **Health Specialist (Vaccine Preventable Disease Control) – Francophone, P-4** at UNICEF (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/health-specialist-vaccine-preventable-disease-control-francophone-p-4-unicef/
