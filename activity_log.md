@@ -6698,3 +6698,26 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/financial-crime-systems-analyst-safaricom-kenya/
 - **Senior Associate, Database Administrator** at I&M Bank (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-associate-database-administrator-im-bank/
+
+## 2026-08-26 19:46 UTC — 10 new job(s)
+
+- **Data Scientist** at Gulf African Bank (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-scientist-gulf-african-bank
+- **Data Analyst- Operations (Modern Trade)** at Hotpoint Appliances Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-operations-modern-trade-hotpoint-appliances-ltd
+- **Backend Developer** at Savannah Informatics (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/backend-developer-savannah-informatics-5
+- **Sr Software Engineer** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/sr-software-engineer-solvo-global-1
+- **IT Officer - Ruiru** at BURN (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/it-officer-ruiru-burn
+- **Data Platform System Administrator** at Inkomoko (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-platform-system-administrator-inkomoko
+- **Part-Time Lecturers - Community Development - 22 Posts** at Chuka University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/part-time-lecturers-community-development-22-posts-chuka-university
+- **Senior Technical Advisor, Humanitarian and Business Development** at Pathfinder International (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-technical-advisor-humanitarian-and-business-development-pathfinder-international
+- **Financial Crime Systems Analyst** at Safaricom Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/financial-crime-systems-analyst-safaricom-kenya/
+- **Senior Associate, Database Administrator** at I&M Bank (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-associate-database-administrator-im-bank/
