@@ -6586,3 +6586,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/people-culture-administrator-strathmore-university/
 - **Health Specialist (Vaccine Preventable Disease Control) – Francophone, P-4** at UNICEF (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/health-specialist-vaccine-preventable-disease-control-francophone-p-4-unicef/
+
+## 2026-08-26 06:43 UTC — 2 new job(s)
+
+- **Backend Developer** at Savannah Informatics (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/backend-developer-savannah-informatics-5
+- **Senior Associate, Database Administrator** at I&M Bank (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-associate-database-administrator-im-bank/
