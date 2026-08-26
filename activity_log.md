@@ -6593,3 +6593,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/backend-developer-savannah-informatics-5
 - **Senior Associate, Database Administrator** at I&M Bank (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-associate-database-administrator-im-bank/
+
+## 2026-08-26 08:41 UTC — 6 new job(s)
+
+- **Backend Developer** at Savannah Informatics (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/backend-developer-savannah-informatics-5
+- **Sr Software Engineer** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/sr-software-engineer-solvo-global-1
+- **IT Officer - Ruiru** at BURN (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/it-officer-ruiru-burn
+- **Data Platform System Administrator** at Inkomoko (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-platform-system-administrator-inkomoko
+- **Part-Time Lecturers - Community Development - 22 Posts** at Chuka University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/part-time-lecturers-community-development-22-posts-chuka-university
+- **Senior Associate, Database Administrator** at I&M Bank (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-associate-database-administrator-im-bank/
