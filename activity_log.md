@@ -6751,3 +6751,30 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/data-analyst-intern-kepro-kenya-extended-producer-responsibility-organization
 - **Part-time Lecturer - Software Engineering and Programming - 2 Posts** at Chuka University (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/part-time-lecturer-software-engineering-and-programming-2-posts-chuka-university
+
+## 2026-08-27 18:50 UTC — 12 new job(s)
+
+- **Full Stack Data Scientist III/IV** at IDinsight (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-data-scientist-iii-iv-idinsight
+- **Data Analyst** at TakaTaka Solutions (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-takataka-solutions-1
+- **Data Analyst Intern** at KEPRO - Kenya Extended Producer Responsibility Organization (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-intern-kepro-kenya-extended-producer-responsibility-organization
+- **Data Engineer** at Inkomoko (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineer-inkomoko
+- **Fullstack Developer** at iTravel Holidays (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/fullstack-developer-itravel-holidays
+- **Part-time Lecturer - Software Engineering and Programming - 2 Posts** at Chuka University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/part-time-lecturer-software-engineering-and-programming-2-posts-chuka-university
+- **Licensed Engineer** at ALS Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/licensed-engineer-als-limited/
+- **Plant Engineer / Engineering Manager / Maintenance Manager** at MSVL Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/plant-engineer-engineering-manager-maintenance-manager-msvl-group/
+- **Emergency Medical Technician (EMT) – Ambulance Operator** at St John Ambulance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/emergency-medical-technician-emt-ambulance-operator-st-john-ambulance/
+- **Medical Specialist – Phychiatrist** at County Government of Kirinyaga (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/medical-specialist-phychiatrist-county-government-kirinyaga/
+- **Business Development Officer** at Juhudi Kilimo (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-juhudi-kilimo-2/
+- **Recruitment for Multiple (Senior) Analyst** at IMPACT Initiatives (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/recruitment-multiple-senior-analyst-impact-initiatives/
