@@ -6744,3 +6744,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/financial-crime-systems-analyst-safaricom-kenya/
 - **Senior Associate, Database Administrator** at I&M Bank (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-associate-database-administrator-im-bank/
+
+## 2026-08-27 06:48 UTC — 2 new job(s)
+
+- **Data Analyst Intern** at KEPRO - Kenya Extended Producer Responsibility Organization (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-intern-kepro-kenya-extended-producer-responsibility-organization
+- **Part-time Lecturer - Software Engineering and Programming - 2 Posts** at Chuka University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/part-time-lecturer-software-engineering-and-programming-2-posts-chuka-university
