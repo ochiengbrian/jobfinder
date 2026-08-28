@@ -6778,3 +6778,26 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/business-development-officer-juhudi-kilimo-2/
 - **Recruitment for Multiple (Senior) Analyst** at IMPACT Initiatives (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/recruitment-multiple-senior-analyst-impact-initiatives/
+
+## 2026-08-28 16:30 UTC — 10 new job(s)
+
+- **Regulatory Data & Reporting Analyst** at Cigna (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/regulatory-data-reporting-analyst-cigna-1
+- **CS Engineer (Tech Intern)** at ABNO Softwares International (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/cs-engineer-tech-intern-abno-softwares-international
+- **Program Officer** at United Disabled Person of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/program-officer-united-disabled-person-of-kenya
+- **Full Stack Data Scientist III/IV** at IDinsight (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/full-stack-data-scientist-iii-iv-idinsight/
+- **Data Analyst** at TakaTaka Solutions (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-analyst-takataka-solutions-2/
+- **Fullstack Developer** at iTravel Holidays (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/fullstack-developer-itravel-holidays/
+- **Mid-Level Developer** at Salix Data (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/mid-level-developer-salix-data/
+- **Network Operations Specialist** at Zeno (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/network-operations-specialist-zeno/
+- **A/V Engineering and Production Coordinator** at U.S. Embassy to Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/v-engineering-production-coordinator-u-s-embassy-kenya/
+- **Administrator, Maintenance and Transport** at Strathmore University (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/administrator-maintenance-transport-strathmore-university/
