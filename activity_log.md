@@ -6806,3 +6806,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Consulting Service Line, Cybersecurity Consultant, Kenya** at Ernst & Young (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/consulting-service-line-cybersecurity-consultant-kenya-ernst-amp-young
+
+## 2026-08-29 14:59 UTC — 3 new job(s)
+
+- **Technology Risk and Cybersecurity Manager** at CIC Insurance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/technology-risk-and-cybersecurity-manager-cic-insurance-1
+- **Consulting Service Line, Cybersecurity Consultant, Kenya** at Ernst & Young (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/consulting-service-line-cybersecurity-consultant-kenya-ernst-amp-young
+- **Senior Program Officer, Laboratory Systems Strengthening – Daraja Project** at Christian Health Association of Kenya (CHAK) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-program-officer-laboratory-systems-strengthening-daraja-project-christian-health-association-of-kenya-chak
