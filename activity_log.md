@@ -6801,3 +6801,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/v-engineering-production-coordinator-u-s-embassy-kenya/
 - **Administrator, Maintenance and Transport** at Strathmore University (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/administrator-maintenance-transport-strathmore-university/
+
+## 2026-08-29 08:37 UTC — 1 new job(s)
+
+- **Consulting Service Line, Cybersecurity Consultant, Kenya** at Ernst & Young (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/consulting-service-line-cybersecurity-consultant-kenya-ernst-amp-young
