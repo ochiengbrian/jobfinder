@@ -6833,3 +6833,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/consulting-service-line-cybersecurity-consultant-kenya-ernst-amp-young
 - **Senior Program Officer, Laboratory Systems Strengthening – Daraja Project** at Christian Health Association of Kenya (CHAK) (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/senior-program-officer-laboratory-systems-strengthening-daraja-project-christian-health-association-of-kenya-chak
+
+## 2026-08-31 10:30 UTC — 7 new job(s)
+
+- **Data Engineering Lead Analyst** at Cigna (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineering-lead-analyst-cigna-2
+- **Data Engineering Advisor** at Cigna (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineering-advisor-cigna-2
+- **ICT Officer Service Delivery – 2 Positions** at United States International University - USIU Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-service-delivery-2-positions-united-states-international-university-usiu-africa
+- **ICT Officer Multimedia – 3 Positions** at United States International University - USIU Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-multimedia-3-positions-united-states-international-university-usiu-africa
+- **Technology Risk and Cybersecurity Manager** at CIC Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/technology-risk-cybersecurity-manager-cic-insurance/
+- **Senior Program Officer, Laboratory Systems Strengthening – Daraja Project** at Christian Health Association of Kenya (CHAK) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-program-officer-laboratory-systems-strengthening-daraja-project-christian-health-association-kenya-chak/
+- **Social & Behavior Change Specialist (P-3)** at UNICEF (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/social-behavior-change-specialist-p-3-unicef/
