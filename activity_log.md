@@ -6903,3 +6903,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/assistant-program-officer-research-law-society-kenya/
 - **Information Systems Assistant, G5 at United Nations Office** at Nairobi (UNON) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/information-systems-assistant-g5-united-nations-office-nairobi-unon/
+
+## 2026-09-01 19:15 UTC — 6 new job(s)
+
+- **Regulatory Data & Reporting Analyst** at Cigna (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/regulatory-data-reporting-analyst-cigna-2
+- **Senior Platform Engineer** at Deimos (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-platform-engineer-deimos-2/
+- **ICT Manager** at Archdiocese of Nairobi (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ict-manager-archdiocese-nairobi/
+- **Assistant Program Officer – Research** at Law Society of Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/assistant-program-officer-research-law-society-kenya/
+- **Information Systems Assistant, G5 at United Nations Office** at Nairobi (UNON) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-systems-assistant-g5-united-nations-office-nairobi-unon/
+- **ServiceNow Developer** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/servicenow-developer-international-rescue-committee/
