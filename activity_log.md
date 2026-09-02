@@ -6933,3 +6933,50 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/information-systems-assistant-g5-united-nations-office-nairobi-unon/
 - **ServiceNow Developer** at International Rescue Committee (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/servicenow-developer-international-rescue-committee/
+
+## 2026-09-02 08:23 UTC — 22 new job(s)
+
+- **Software QA Engineer** at Tana (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-qa-engineer-tana
+- **Senior Project Officer-Child Development, Care, and Protection** at Catholic Relief (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-project-officer-child-development-care-and-protection-catholic-relief
+- **Project Officers-Mombasa & Kwale** at Human Rights Agenda (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officers-mombasa-kwale-human-rights-agenda
+- **Project Officers-Kilifi & Tana River** at Human Rights Agenda (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officers-kilifi-tana-river-human-rights-agenda
+- **Project Officers-Lamu** at Human Rights Agenda (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officers-lamu-human-rights-agenda
+- **Project Officers-Taita Taveta** at Human Rights Agenda (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officers-taita-taveta-human-rights-agenda
+- **Field Officers-Changamwe** at Tuishi Companion (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officers-changamwe-tuishi-companion
+- **Field Officers-Jomvu** at Tuishi Companion (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officers-jomvu-tuishi-companion
+- **Field Officers-Kisauni** at Tuishi Companion (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officers-kisauni-tuishi-companion
+- **Field Officers-Nyali** at Tuishi Companion (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officers-nyali-tuishi-companion
+- **Field Officers-Likoni** at Tuishi Companion (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officers-likoni-tuishi-companion
+- **Field Officers-Mvita** at Tuishi Companion (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officers-mvita-tuishi-companion
+- **Field Officers-Kilifi North** at Tuishi Companion (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officers-kilifi-north-tuishi-companion
+- **Field Officers-Kilifi South** at Tuishi Companion (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officers-kilifi-south-tuishi-companion
+- **Field Officers-Kaloleni** at Tuishi Companion (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officers-kaloleni-tuishi-companion
+- **Field Officers- Rabai** at Tuishi Companion (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officers-rabai-tuishi-companion
+- **Field Officers- Ganze** at Tuishi Companion (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officers-ganze-tuishi-companion
+- **Field Officers-Magarini** at Tuishi Companion (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officers-magarini-tuishi-companion
+- **Field Officers-Matuga** at Tuishi Companion (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officers-matuga-tuishi-companion
+- **Field Officers-Msambweni** at Tuishi Companion (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officers-msambweni-tuishi-companion
+- **Field Officers-Kinango** at Tuishi Companion (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officers-kinango-tuishi-companion
+- **Field Officers-Lunga Lunga** at Tuishi Companion (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officers-lunga-lunga-tuishi-companion
