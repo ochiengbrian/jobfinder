@@ -7145,3 +7145,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/field-officers-tuishi-companion-17-positions/
 - **Marketing, Communications & Fundraising Officer** at Sucafina (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/marketing-communications-fundraising-officer-sucafina/
+
+## 2026-09-03 19:08 UTC — 3 new job(s)
+
+- **ICT Officer- Business Systems** at Priority Activator Consulting (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-business-systems-priority-activator-consulting
+- **Sacco ICT Officer** at Co-operative Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/sacco-ict-officer-co-operative-bank-of-kenya-2
+- **Monitoring, Evaluation, Accountability and Learning (MEAL)Coordinator** at Trocaire (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-evaluation-accountability-and-learning-meal-coordinator-trocaire-1
