@@ -7172,3 +7172,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/development-officer-girls-not-brides/
 - **Sales Executive – Stickers & Labels-Mlolongo** at Ramco Group (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/sales-executive-stickers-labels-mlolongo-ramco-group/
+
+## 2026-09-04 20:14 UTC — 6 new job(s)
+
+- **Principal Engineer Cybersecurity Assurance** at NCBA Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/principal-engineer-cybersecurity-assurance-ncba-group
+- **Project Officer – THRIVE (Kenya)** at Hivos East Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officer-thrive-kenya-hivos-east-africa
+- **IT Security and Systems Developer** at Plan International (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/security-systems-developer-plan-international/
+- **Development Officer** at Girls Not Brides (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/development-officer-girls-not-brides/
+- **Business Development Officer (Agents)** at Pioneer Assurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-agents-pioneer-assurance/
+- **Sales Executive – Stickers & Labels-Mlolongo** at Ramco Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/sales-executive-stickers-labels-mlolongo-ramco-group/
