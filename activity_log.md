@@ -7163,3 +7163,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/sacco-ict-officer-co-operative-bank-of-kenya-2
 - **Monitoring, Evaluation, Accountability and Learning (MEAL)Coordinator** at Trocaire (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/monitoring-evaluation-accountability-and-learning-meal-coordinator-trocaire-1
+
+## 2026-09-04 14:01 UTC — 3 new job(s)
+
+- **Project Officer – THRIVE (Kenya)** at Hivos East Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officer-thrive-kenya-hivos-east-africa
+- **Development Officer** at Girls Not Brides (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/development-officer-girls-not-brides/
+- **Sales Executive – Stickers & Labels-Mlolongo** at Ramco Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/sales-executive-stickers-labels-mlolongo-ramco-group/
