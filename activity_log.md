@@ -7202,3 +7202,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/business-development-officer-agents-pioneer-assurance/
 - **Sales Executive – Stickers & Labels-Mlolongo** at Ramco Group (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/sales-executive-stickers-labels-mlolongo-ramco-group/
+
+## 2026-09-07 08:55 UTC — 2 new job(s)
+
+- **Software Engineer** at International Scholars Program (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-international-scholars-program
+- **Principal Engineer Cybersecurity Assurance** at NCBA Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/principal-engineer-cybersecurity-assurance-ncba-group/
