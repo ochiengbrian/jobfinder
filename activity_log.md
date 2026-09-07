@@ -7209,3 +7209,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/software-engineer-international-scholars-program
 - **Principal Engineer Cybersecurity Assurance** at NCBA Group (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/principal-engineer-cybersecurity-assurance-ncba-group/
+
+## 2026-09-07 19:38 UTC — 4 new job(s)
+
+- **Data Engineering Lead Analyst** at Cigna (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineering-lead-analyst-cigna-3
+- **Full-stack Software Engineer** at Kebarick Ventures (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-software-engineer-kebarick-ventures
+- **Software Engineer** at International Scholars Program (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-international-scholars-program
+- **Principal Engineer Cybersecurity Assurance** at NCBA Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/principal-engineer-cybersecurity-assurance-ncba-group/
