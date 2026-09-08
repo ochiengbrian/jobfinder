@@ -7220,3 +7220,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/software-engineer-international-scholars-program
 - **Principal Engineer Cybersecurity Assurance** at NCBA Group (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/principal-engineer-cybersecurity-assurance-ncba-group/
+
+## 2026-09-08 08:36 UTC — 6 new job(s)
+
+- **ICT Officer I** at Bandari Maritime Academy (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-i-bandari-maritime-academy
+- **Full-stack Software Engineer** at Kebarick Ventures (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/full-stack-software-engineer-kebarick-ventures/
+- **Internal Audit Officer** at GA Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/internal-audit-officer-ga-insurance-3/
+- **Business Development Officers (BDOs)** at The Monarch Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officers-bdos-monarch-insurance-2/
+- **Business Development Officer** at Kebarick Ventures (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-kebarick-ventures/
+- **Urban Finance & Economy Specialist** at UN-Habitat (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/urban-finance-economy-specialist-un-habitat-2/
