@@ -7256,3 +7256,26 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/business-development-officer-kebarick-ventures/
 - **Urban Finance & Economy Specialist** at UN-Habitat (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/urban-finance-economy-specialist-un-habitat-2/
+
+## 2026-09-08 19:18 UTC — 10 new job(s)
+
+- **Data Scientist** at Kasha Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-scientist-kasha-kenya-1
+- **ICT Officer I** at Bandari Maritime Academy (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-i-bandari-maritime-academy
+- **Assistant Project Officer (Clerk of Works)-Water and Construction** at World Vision Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/assistant-project-officer-clerk-of-works-water-and-construction-world-vision-kenya
+- **Monitoring, Evaluation & Learning Associate-Garissa** at Inkomoko (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-evaluation-learning-associate-garissa-inkomoko
+- **Monitoring, Evaluation & Learning Associate-Dadaab** at Inkomoko (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-evaluation-learning-associate-dadaab-inkomoko-2
+- **Full-stack Software Engineer** at Kebarick Ventures (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/full-stack-software-engineer-kebarick-ventures/
+- **Internal Audit Officer** at GA Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/internal-audit-officer-ga-insurance-3/
+- **Business Development Officers (BDOs)** at The Monarch Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officers-bdos-monarch-insurance-2/
+- **Business Development Officer** at Kebarick Ventures (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-kebarick-ventures/
+- **Urban Finance & Economy Specialist** at UN-Habitat (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/urban-finance-economy-specialist-un-habitat-2/
