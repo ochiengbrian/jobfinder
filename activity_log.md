@@ -7315,3 +7315,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/senior-analyst-quantitative-risk-sun-king-formerly-greenlight-planet/
 - **Assistant Project Officer (Clerk of Works)-Water and Construction** at World Vision Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/assistant-project-officer-clerk-works-water-construction-world-vision-kenya/
+
+## 2026-09-09 14:12 UTC — 7 new job(s)
+
+- **Principal Software Engineer** at MasterCard (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/principal-software-engineer-mastercard
+- **Webmaster & Software Developer** at University of Eastern Africa, Baraton (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/webmaster-software-developer-university-of-eastern-africa-baraton
+- **Software Developer/Analyst** at International Rescue Committee (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-developer-analyst-international-rescue-committee-1
+- **Planning, Monitoring and Evaluation.** at Eldoret Water and Sanitation Company Limited (ELDOWAS) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/planning-monitoring-and-evaluation-eldoret-water-and-sanitation-company-limited-eldowas-1
+- **Data Scientist** at Kasha Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-scientist-kasha-kenya-3/
+- **Senior Analyst- Quantitative Risk** at Sun King (Formerly Greenlight Planet) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-analyst-quantitative-risk-sun-king-formerly-greenlight-planet/
+- **Assistant Project Officer (Clerk of Works)-Water and Construction** at World Vision Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/assistant-project-officer-clerk-works-water-construction-world-vision-kenya/
