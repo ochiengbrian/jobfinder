@@ -7332,3 +7332,32 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/senior-analyst-quantitative-risk-sun-king-formerly-greenlight-planet/
 - **Assistant Project Officer (Clerk of Works)-Water and Construction** at World Vision Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/assistant-project-officer-clerk-works-water-construction-world-vision-kenya/
+
+## 2026-09-09 19:06 UTC — 13 new job(s)
+
+- **Principal Software Engineer** at MasterCard (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/principal-software-engineer-mastercard
+- **Webmaster & Software Developer** at University of Eastern Africa, Baraton (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/webmaster-software-developer-university-of-eastern-africa-baraton
+- **Software Developer/Analyst** at International Rescue Committee (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-developer-analyst-international-rescue-committee-1
+- **Planning, Monitoring and Evaluation.** at Eldoret Water and Sanitation Company Limited (ELDOWAS) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/planning-monitoring-and-evaluation-eldoret-water-and-sanitation-company-limited-eldowas-1
+- **Data Scientist** at Kasha Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-scientist-kasha-kenya-3/
+- **Senior Analyst- Quantitative Risk** at Sun King (Formerly Greenlight Planet) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-analyst-quantitative-risk-sun-king-formerly-greenlight-planet/
+- **Head of Engineering, POS Application Platform** at Moniepoint (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-engineering-pos-application-platform-moniepoint/
+- **Facility Administrator** at Equity Afia (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/facility-administrator-equity-afia-7/
+- **Insurance Specialist** at Standard Chartered Bank Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/insurance-specialist-standard-chartered-bank-kenya-4/
+- **Credit Analyst – Business Banking** at HFCB Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/credit-analyst-business-banking-hfcb-kenya/
+- **NOC Engineer/MSP Experience** at Solvo Global (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/noc-engineer-msp-experience-solvo-global/
+- **Business Development Officers** at SMEP Microfinance Bank (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officers-smep-microfinance-bank-4/
+- **Assistant Project Officer (Clerk of Works)-Water and Construction** at World Vision Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/assistant-project-officer-clerk-works-water-construction-world-vision-kenya/
