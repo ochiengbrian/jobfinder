@@ -7302,3 +7302,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/business-development-officer-kebarick-ventures/
 - **Urban Finance & Economy Specialist** at UN-Habitat (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/urban-finance-economy-specialist-un-habitat-2/
+
+## 2026-09-09 08:38 UTC — 5 new job(s)
+
+- **Principal Software Engineer** at MasterCard (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/principal-software-engineer-mastercard
+- **Software Developer/Analyst** at International Rescue Committee (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-developer-analyst-international-rescue-committee-1
+- **Planning, Monitoring and Evaluation.** at Eldoret Water and Sanitation Company Limited (ELDOWAS) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/planning-monitoring-and-evaluation-eldoret-water-and-sanitation-company-limited-eldowas-1
+- **Senior Analyst- Quantitative Risk** at Sun King (Formerly Greenlight Planet) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-analyst-quantitative-risk-sun-king-formerly-greenlight-planet/
+- **Assistant Project Officer (Clerk of Works)-Water and Construction** at World Vision Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/assistant-project-officer-clerk-works-water-construction-world-vision-kenya/
