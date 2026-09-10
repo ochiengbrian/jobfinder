@@ -7433,3 +7433,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/assistant-chief-engineer-marriott/
 - **Managed Services Specialist** at Solvo Global (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/managed-services-specialist-solvo-global/
+
+## 2026-09-10 20:26 UTC — 7 new job(s)
+
+- **Data Scientist** at Kenya Airways (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-scientist-kenya-airways-1
+- **Data Analyst** at Kenya Airways (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-kenya-airways-1
+- **Data Engineer** at Kenya Airways (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineer-kenya-airways-1
+- **Database Administrator** at Central Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/database-administrator-central-bank-of-kenya
+- **ARMO Maintenance Engineer – Wireline** at Baker Hughes (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/armo-maintenance-engineer-wireline-baker-hughes/
+- **Assistant Chief Engineer** at Marriott (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/assistant-chief-engineer-marriott/
+- **Managed Services Specialist** at Solvo Global (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/managed-services-specialist-solvo-global/
