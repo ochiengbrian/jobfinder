@@ -7390,3 +7390,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/business-development-officers-smep-microfinance-bank-4/
 - **Assistant Project Officer (Clerk of Works)-Water and Construction** at World Vision Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/assistant-project-officer-clerk-works-water-construction-world-vision-kenya/
+
+## 2026-09-10 08:39 UTC — 3 new job(s)
+
+- **Data Scientist** at Kenya Airways (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-scientist-kenya-airways-1
+- **Data Analyst** at Kenya Airways (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-kenya-airways-1
+- **Data Engineer** at Kenya Airways (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineer-kenya-airways-1
