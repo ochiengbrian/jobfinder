@@ -7532,3 +7532,30 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/credit-officer-nairobi-kingdom-sacco/
 - **Corporate Alliances Specialist, P-3** at UNICEF (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/corporate-alliances-specialist-p-3-unicef/
+
+## 2026-09-11 20:26 UTC — 12 new job(s)
+
+- **Senior Data Scientist** at CIC Insurance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-data-scientist-cic-insurance-1
+- **Senior Data Scientist** at Natural State (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-data-scientist-natural-state
+- **Analyst Master Data** at The Coca-Cola Company (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/analyst-master-data-the-coca-cola-company
+- **Full Stack Engineer** at WAW Technology Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-engineer-waw-technology-ltd
+- **Software Developer** at Optiven Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-developer-optiven-limited-3
+- **National Monitoring and Evaluation Officer** at International Organization for Migration (IOM) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/national-monitoring-and-evaluation-officer-international-organization-for-migration-iom
+- **Head of Engineering, Supply Chain** at Moniepoint (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-engineering-supply-chain-moniepoint/
+- **Head of Engineering, Payment Gateway** at Moniepoint (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-engineering-payment-gateway-moniepoint/
+- **Head of Engineering, Sales & Marketing Tools** at Moniepoint (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-engineering-sales-marketing-tools-moniepoint/
+- **HR Systems Analyst (Security & Integrations)** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/hr-systems-analyst-security-integrations-international-rescue-committee/
+- **Credit Officer (Nairobi)** at Kingdom Sacco (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/credit-officer-nairobi-kingdom-sacco/
+- **Corporate Alliances Specialist, P-3** at UNICEF (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/corporate-alliances-specialist-p-3-unicef/
