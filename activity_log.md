@@ -7586,3 +7586,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/credit-officer-nairobi-kingdom-sacco/
 - **Corporate Alliances Specialist, P-3** at UNICEF (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/corporate-alliances-specialist-p-3-unicef/
+
+## 2026-09-12 13:24 UTC — 6 new job(s)
+
+- **Program Officer** at Tenwek Hospital (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/program-officer-tenwek-hospital
+- **Senior Data Scientist** at CIC Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-data-scientist-cic-insurance/
+- **Senior Data Scientist** at Natural State (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-data-scientist-natural-state/
+- **Software Developer** at Optiven Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-developer-optiven-limited-2/
+- **National Monitoring and Evaluation Officer** at International Organization for Migration (IOM) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/national-monitoring-evaluation-officer-international-organization-migration-iom/
+- **Business Development Officer – Mombasa** at Kingdom Sacco (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-mombasa-kingdom-sacco/
