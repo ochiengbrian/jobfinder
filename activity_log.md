@@ -7653,3 +7653,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/frontend-software-developer-riset-software-systems-ltd
 - **Backend Software Developer** at Riset Software & Systems LTD (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/backend-software-developer-riset-software-systems-ltd
+
+## 2026-09-13 22:06 UTC — 2 new job(s)
+
+- **Frontend Software Developer** at Riset Software & Systems LTD (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/frontend-software-developer-riset-software-systems-ltd
+- **Backend Software Developer** at Riset Software & Systems LTD (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/backend-software-developer-riset-software-systems-ltd
