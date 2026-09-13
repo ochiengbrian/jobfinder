@@ -7646,3 +7646,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/national-monitoring-evaluation-officer-international-organization-migration-iom/
 - **Business Development Officer – Mombasa** at Kingdom Sacco (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/business-development-officer-mombasa-kingdom-sacco/
+
+## 2026-09-13 18:35 UTC — 2 new job(s)
+
+- **Frontend Software Developer** at Riset Software & Systems LTD (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/frontend-software-developer-riset-software-systems-ltd
+- **Backend Software Developer** at Riset Software & Systems LTD (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/backend-software-developer-riset-software-systems-ltd
