@@ -7665,3 +7665,24 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Network Engineer** at Co-operative Bank of Kenya (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/network-engineer-co-operative-bank-of-kenya-6
+
+## 2026-09-14 16:12 UTC — 9 new job(s)
+
+- **Solution Engineer** at Digital Divide Data (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/solution-engineer-digital-divide-data
+- **Solution Engineer** at Digital Divide Data (DDD Kenya) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/solution-engineer-digital-divide-data-ddd-kenya
+- **Customer Success Engineer (Finance and Accounts)** at ABNO Softwares International (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/customer-success-engineer-finance-and-accounts-abno-softwares-international
+- **System Administrator** at Reeds Africa Consult (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/system-administrator-reeds-africa-consult-1
+- **Network Engineer** at Co-operative Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/network-engineer-co-operative-bank-of-kenya-6
+- **CPD Program Officer (Grade 7)** at Institute of Certified Public Accountants of Kenya (ICPAK) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/cpd-program-officer-grade-7-institute-of-certified-public-accountants-of-kenya-icpak
+- **Business Development Lead / Manager – NGO & Institutional Partnerships** at CDL Human Resource (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/business-development-lead-manager-ngo-institutional-partnerships-cdl-human-resouce
+- **Frontend Software Developer** at Riset Software & Systems LTD (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/frontend-software-developer-riset-software-systems-ltd/
+- **Backend Software Developer** at Riset Software & Systems LTD (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/backend-software-developer-riset-software-systems-ltd/
