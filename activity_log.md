@@ -7763,3 +7763,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/manager-adept-systems-2/
 - **Manager, Database Administration** at SBM Bank (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/manager-database-administration-sbm-bank-2/
+
+## 2026-09-15 23:59 UTC — 7 new job(s)
+
+- **IT & Systems Engineer (Frontend Developer)** at West Indian Ocean Cable Company (WIOCC) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/it-systems-engineer-frontend-developer-west-indian-ocean-cable-company-wiocc-1
+- **Senior Backend Engineer** at M-KOPA Solar (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-backend-engineer-m-kopa-solar-7
+- **Senior Infrastructure & Cybersecurity Engineer** at Green Com Enterprise Solutions Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-infrastructure-cybersecurity-engineer-green-com-enterprise-solutions-ltd
+- **Information Security Analyst** at IDinsight (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/information-security-analyst-idinsight
+- **Information Security and Systems Lead, (Associate) Director** at IDinsight (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/information-security-and-systems-lead-associate-director-idinsight
+- **IT Manager** at Adept Systems (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/manager-adept-systems-2/
+- **Manager, Database Administration** at SBM Bank (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/manager-database-administration-sbm-bank-2/
