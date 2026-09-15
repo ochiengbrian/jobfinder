@@ -7707,3 +7707,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/frontend-software-developer-riset-software-systems-ltd/
 - **Backend Software Developer** at Riset Software & Systems LTD (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/backend-software-developer-riset-software-systems-ltd/
+
+## 2026-09-15 07:09 UTC — 1 new job(s)
+
+- **Senior Backend Engineer** at M-KOPA Solar (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-backend-engineer-m-kopa-solar-7
