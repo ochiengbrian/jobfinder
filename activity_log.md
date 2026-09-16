@@ -7824,3 +7824,30 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/corporate-sponsorship-acquisition-specialist-medecins-sans-frontieres-msf/
 - **Head of Network Development** at Help Age International (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/head-network-development-help-age-international/
+
+## 2026-09-16 19:24 UTC — 12 new job(s)
+
+- **Senior Data Scientist** at Natural State (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-data-scientist-natural-state-1
+- **ICT Data Scientist & AI Developer** at Britam (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-data-scientist-ai-developer-britam
+- **Data Center Structural / Civil Work Service Delivery Engineer** at Platinum Outsourcing and Logistics (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-center-structural-civil-work-service-delivery-engineer-platinum-outsourcing-and-logistics
+- **Head of AI & Program Technology Engineering** at International Rescue Committee (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/head-of-ai-program-technology-engineering-international-rescue-committee-1
+- **Information Communication Technology Officer I (Software Developer) - 2 Posts** at County Government of Elgeyo Marakwet (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/information-communication-technology-officer-i-software-developer-2-posts-county-government-of-elgeyo-marakwet
+- **Network and Service Operations Centre Engineer** at NTT Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/network-and-service-operations-centre-engineer-ntt-ltd-1
+- **Submit CVs – Ongoing Recruitment** at Summit Human Resource & Marketing Consultant (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-ongoing-recruitment-summit-human-resource-marketing-consultant/
+- **Information Security Analyst** at IDinsight (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-security-analyst-idinsight/
+- **Information Security and Systems Lead, (Associate) Director** at IDinsight (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-security-systems-lead-associate-director-idinsight/
+- **Integrated Solutions Well Engineer** at Baker Hughes (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/integrated-solutions-well-engineer-baker-hughes/
+- **Corporate Sponsorship Acquisition Specialist** at Medecins Sans Frontieres (MSF) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/corporate-sponsorship-acquisition-specialist-medecins-sans-frontieres-msf/
+- **Head of Network Development** at Help Age International (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-network-development-help-age-international/
