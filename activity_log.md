@@ -7780,3 +7780,22 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/manager-adept-systems-2/
 - **Manager, Database Administration** at SBM Bank (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/manager-database-administration-sbm-bank-2/
+
+## 2026-09-16 09:07 UTC — 8 new job(s)
+
+- **ICT Data Scientist & AI Developer** at Britam (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-data-scientist-ai-developer-britam
+- **Information Communication Technology Officer I (Software Developer) - 2 Posts** at County Government of Elgeyo Marakwet (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/information-communication-technology-officer-i-software-developer-2-posts-county-government-of-elgeyo-marakwet
+- **Network and Service Operations Centre Engineer** at NTT Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/network-and-service-operations-centre-engineer-ntt-ltd-1
+- **Submit CVs – Ongoing Recruitment** at Summit Human Resource & Marketing Consultant (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/submit-cvs-ongoing-recruitment-summit-human-resource-marketing-consultant/
+- **Information Security Analyst** at IDinsight (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-security-analyst-idinsight/
+- **Information Security and Systems Lead, (Associate) Director** at IDinsight (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-security-systems-lead-associate-director-idinsight/
+- **Corporate Sponsorship Acquisition Specialist** at Medecins Sans Frontieres (MSF) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/corporate-sponsorship-acquisition-specialist-medecins-sans-frontieres-msf/
+- **Head of Network Development** at Help Age International (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-network-development-help-age-international/
