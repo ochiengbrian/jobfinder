@@ -7908,3 +7908,26 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/head-ai-program-technology-engineering-international-rescue-committee-2/
 - **Information Technology Risk Officer** at Access Bank Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/information-technology-risk-officer-access-bank-kenya/
+
+## 2026-09-17 19:34 UTC — 10 new job(s)
+
+- **Sr Software Engineer** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/sr-software-engineer-solvo-global-2
+- **DevOps Engineer (SAS AML Platform)** at Andela (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/devops-engineer-sas-aml-platform-andela
+- **IT Officer** at Orchid HR Outsourcing (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/it-officer-orchid-hr-outsourcing
+- **Sacco Information Systems Administrator** at Co-operative Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/sacco-information-systems-administrator-co-operative-bank-of-kenya-3
+- **IT & Systems Engineer (Network Automation)** at West Indian Ocean Cable Company (WIOCC) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/it-systems-engineer-network-automation-west-indian-ocean-cable-company-wiocc-1
+- **Program Officer – Education, Research and Advocacy** at Christian Health Association of Kenya (CHAK) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/program-officer-education-research-and-advocacy-christian-health-association-of-kenya-chak-1
+- **Monitoring and Evaluation Manager** at I&M Bank (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-and-evaluation-manager-i-m-bank
+- **Senior Data Scientist** at Natural State (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-data-scientist-natural-state-2/
+- **Head of AI & Program Technology Engineering** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-ai-program-technology-engineering-international-rescue-committee-2/
+- **Information Technology Risk Officer** at Access Bank Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-technology-risk-officer-access-bank-kenya/
