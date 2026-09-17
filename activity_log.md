@@ -7878,3 +7878,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/corporate-sponsorship-acquisition-specialist-medecins-sans-frontieres-msf/
 - **Head of Network Development** at Help Age International (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/head-network-development-help-age-international/
+
+## 2026-09-17 09:11 UTC — 2 new job(s)
+
+- **Sr Software Engineer** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/sr-software-engineer-solvo-global-2
+- **Monitoring and Evaluation Manager** at I&M Bank (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-and-evaluation-manager-i-m-bank
