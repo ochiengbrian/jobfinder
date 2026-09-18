@@ -7979,3 +7979,34 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/team-leader-sales-engineer-nexus-staffing-solutions/
 - **Monitoring and Evaluation Manager** at I&M Bank (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/monitoring-evaluation-manager-im-bank/
+
+## 2026-09-18 14:08 UTC — 14 new job(s)
+
+- **Data Engineering Lead Analyst** at Cigna (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineering-lead-analyst-cigna-4
+- **Project Officer - NYOTA Refugee Business Development Services Mentor** at Danish Refugee Council (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officer-nyota-refugee-business-development-services-mentor-danish-refugee-council
+- **Assistant Director Monitoring & Evaluation** at County Government of Marsabit (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/assistant-director-monitoring-evaluation-county-government-of-marsabit
+- **DevOps Engineer (SAS AML Platform)** at Andela (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/devops-engineer-sas-aml-platform-andela/
+- **IT & Systems Engineer (Network Automation)** at West Indian Ocean Cable Company (WIOCC) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/systems-engineer-network-automation-west-indian-ocean-cable-company-wiocc/
+- **Research Assistant – Pearls Project – Dept of Architecture** at University of Nairobi (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/research-assistant-pearls-project-dept-architecture-university-nairobi/
+- **Tupande Export Logistics Senior Specialist** at One Acre Fund (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/tupande-export-logistics-senior-specialist-one-acre-fund-2/
+- **Senior Lead, Institutional Finance and Grants Management** at Masakhane Research Foundation (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-lead-institutional-finance-grants-management-masakhane-research-foundation/
+- **Sacco Information Systems Administrator** at Co-operative Bank of Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/sacco-information-systems-administrator-co-operative-bank-kenya-2/
+- **Platform Architect – Security (IC5)** at Equity Bank Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/platform-architect-security-ic5-equity-bank-kenya/
+- **Finance and Grants Officer** at Masakhane Research Foundation (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/finance-grants-officer-masakhane-research-foundation/
+- **Program Officer – Education, Research and Advocacy** at Christian Health Association of Kenya (CHAK) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/program-officer-education-research-advocacy-christian-health-association-kenya-chak-2/
+- **Team Leader – Sales Engineer** at Nexus Staffing Solutions (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/team-leader-sales-engineer-nexus-staffing-solutions/
+- **Monitoring and Evaluation Manager** at I&M Bank (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/monitoring-evaluation-manager-im-bank/
