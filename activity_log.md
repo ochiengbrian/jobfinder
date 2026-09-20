@@ -8102,3 +8102,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Information Systems Auditor** at Gertrude’s Children’s Hospital (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/information-systems-auditor-gertrudes-childrens-hospital/
+
+## 2026-09-20 17:19 UTC — 1 new job(s)
+
+- **Information Systems Auditor** at Gertrude’s Children’s Hospital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-systems-auditor-gertrudes-childrens-hospital/
