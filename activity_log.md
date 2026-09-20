@@ -8092,3 +8092,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/monitoring-evaluation-manager-im-bank/
 - **Program Specialist – Master Trainer, NYOTA Refugee Business Development Service Specialist** at Danish Refugee Council (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/program-specialist-master-trainer-nyota-refugee-business-development-service-specialist-danish-refugee-council/
+
+## 2026-09-20 09:04 UTC — 1 new job(s)
+
+- **Information Systems Auditor** at Gertrude’s Children’s Hospital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-systems-auditor-gertrudes-childrens-hospital/
