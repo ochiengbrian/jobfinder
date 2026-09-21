@@ -8117,3 +8117,26 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Information Systems Auditor** at Gertrude’s Children’s Hospital (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/information-systems-auditor-gertrudes-childrens-hospital/
+
+## 2026-09-21 09:36 UTC — 10 new job(s)
+
+- **Software Engineer** at JKUAT Enterprises Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-jkuat-enterprises-limited
+- **Foundation Project Officer** at Kimisitu Sacco (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/foundation-project-officer-kimisitu-sacco
+- **Group Administrator** at CBRE Excellerate (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/group-administrator-cbre-excellerate/
+- **Sales Engineer – Ethiopia (Nairobi based)** at The Timken Company (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/sales-engineer-ethiopia-nairobi-based-timken-company/
+- **WSO2 Implementation Engineer – CIAM / API Management / Ballerina** at Sybyl Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/wso2-implementation-engineer-ciam-api-management-ballerina-sybyl-limited/
+- **Biomedical Engineer – IVF** at Fertility Point (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/biomedical-engineer-ivf-fertility-point/
+- **Laboratory Specialist Trainee** at SLB (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/laboratory-specialist-trainee-slb/
+- **Manager, Information Technology** at Digital Divide Data (DDD Kenya) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/manager-information-technology-digital-divide-data-ddd-kenya/
+- **Senior Monitoring, Reporting, Evaluation, Learning and Adaptation (MRELA) Officer** at Mercy Corps (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-monitoring-reporting-evaluation-learning-adaptation-mrela-officer-mercy-corps/
+- **P&C Design and Change Management Specialist** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/pc-design-change-management-specialist-international-rescue-committee/
