@@ -8188,3 +8188,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/senior-monitoring-reporting-evaluation-learning-adaptation-mrela-officer-mercy-corps/
 - **P&C Design and Change Management Specialist** at International Rescue Committee (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/pc-design-change-management-specialist-international-rescue-committee/
+
+## 2026-09-22 07:16 UTC — 1 new job(s)
+
+- **Senior Software Engineer, Google Play** at Google (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-software-engineer-google-play-google-2
