@@ -8235,3 +8235,26 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/senior-network-engineer-tatu-city-limited-1
 - **NOC Engineer/MSP Experience** at Solvo Global (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/noc-engineer-msp-experience-solvo-global-2/
+
+## 2026-09-23 09:06 UTC — 10 new job(s)
+
+- **Frontend Developer** at Ideon Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/frontend-developer-ideon-limited
+- **Backend Developer** at Ideon Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/backend-developer-ideon-limited
+- **Network & Security Engineer (1 Year Contract)** at Zamara Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/network-security-engineer-1-year-contract-zamara-kenya
+- **Community Development, Intern** at Water Mission (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/community-development-intern-water-mission
+- **Unit Manager (Mombasa Branch)** at Madison Group Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/unit-manager-mombasa-branch-madison-group-limited/
+- **Infrastructure And Applications Specialist** at Serena Hotels (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/infrastructure-applications-specialist-serena-hotels/
+- **Business Development Officer-Meru** at LOLC Kenya Microfinance Bank PLC (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-meru-lolc-kenya-microfinance-bank-plc/
+- **Business Development Officer-Nairobi** at LOLC Kenya Microfinance Bank PLC (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-nairobi-lolc-kenya-microfinance-bank-plc/
+- **Growth Administrator** at Africa Fleet Management Solution (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/growth-administrator-africa-fleet-management-solution/
+- **IT Support Engineer** at Sheer Logic (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/support-engineer-sheer-logic/
