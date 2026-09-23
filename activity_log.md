@@ -8258,3 +8258,36 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/growth-administrator-africa-fleet-management-solution/
 - **IT Support Engineer** at Sheer Logic (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/support-engineer-sheer-logic/
+
+## 2026-09-23 14:42 UTC — 15 new job(s)
+
+- **Data Engineering Advisor** at Cigna (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineering-advisor-cigna-3
+- **Frontend Developer** at Ideon Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/frontend-developer-ideon-limited
+- **Backend Engineer, Mid-Level (AWS, Python & Node.js and/or SpringBoot)** at Zeno (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/backend-engineer-mid-level-aws-python-node-js-and-or-springboot-zeno-1
+- **Backend Developer** at Ideon Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/backend-developer-ideon-limited
+- **Principal Software Developer** at Britam (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/principal-software-developer-britam
+- **SAP CI DevOps Engineer** at Deloitte Consulting (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/sap-ci-devops-engineer-deloitte-consulting-1
+- **Network & Security Engineer (1 Year Contract)** at Zamara Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/network-security-engineer-1-year-contract-zamara-kenya
+- **Monitoring & Evaluation** at Pwani Teknowgalz (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-evaluation-pwani-teknowgalz
+- **Community Development, Intern** at Water Mission (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/community-development-intern-water-mission
+- **Unit Manager (Mombasa Branch)** at Madison Group Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/unit-manager-mombasa-branch-madison-group-limited/
+- **Infrastructure And Applications Specialist** at Serena Hotels (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/infrastructure-applications-specialist-serena-hotels/
+- **Business Development Officer-Meru** at LOLC Kenya Microfinance Bank PLC (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-meru-lolc-kenya-microfinance-bank-plc/
+- **Business Development Officer-Nairobi** at LOLC Kenya Microfinance Bank PLC (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-nairobi-lolc-kenya-microfinance-bank-plc/
+- **Growth Administrator** at Africa Fleet Management Solution (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/growth-administrator-africa-fleet-management-solution/
+- **IT Support Engineer** at Sheer Logic (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/support-engineer-sheer-logic/
