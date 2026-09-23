@@ -8224,3 +8224,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/senior-network-engineer-tatu-city-limited-1
 - **NOC Engineer/MSP Experience** at Solvo Global (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/noc-engineer-msp-experience-solvo-global-2/
+
+## 2026-09-23 00:03 UTC — 4 new job(s)
+
+- **Senior Data Scientist — Clean Cooking (PAYG LPG)** at Sun King (Formerly Greenlight Planet) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-data-scientist-clean-cooking-payg-lpg-greenlight-planet
+- **Senior Software Engineer, Google Play** at Google (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-software-engineer-google-play-google-2
+- **Senior Network Engineer** at Tatu City Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-network-engineer-tatu-city-limited-1
+- **NOC Engineer/MSP Experience** at Solvo Global (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/noc-engineer-msp-experience-solvo-global-2/
