@@ -8361,3 +8361,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/growth-administrator-africa-fleet-management-solution/
 - **IT Support Engineer** at Sheer Logic (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/support-engineer-sheer-logic/
+
+## 2026-09-24 09:01 UTC — 5 new job(s)
+
+- **Data Analyst** at MSVL Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-msvl-group
+- **Server & Systems Security Administrator** at Mawingu (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/server-systems-security-administrator-mawingu
+- **Head of Platform & Architecture** at Turnkey Africa Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-platform-architecture-turnkey-africa-kenya/
+- **ICT & Database Intern** at Urgent Action Fund-Africa (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ict-database-intern-urgent-action-fund-africa/
+- **Monitoring & Evaluation** at Pwani Teknowgalz (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/monitoring-evaluation-pwani-teknowgalz/
