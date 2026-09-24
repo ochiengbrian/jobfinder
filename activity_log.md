@@ -8440,3 +8440,36 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/ict-database-intern-urgent-action-fund-africa/
 - **Monitoring & Evaluation** at Pwani Teknowgalz (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/monitoring-evaluation-pwani-teknowgalz/
+
+## 2026-09-24 23:01 UTC — 15 new job(s)
+
+- **Data Analyst** at MSVL Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-msvl-group
+- **Senior Full Stack Engineer** at Distro (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-full-stack-engineer-distro
+- **Software Engineer — Node.js / Angular** at Distro (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-node-js-angular-distro
+- **Staff Software Engineer — .NET / Webforms (Copy) (Copy)** at Distro (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/staff-software-engineer-net-webforms-copy-copy-distro
+- **Principal Software Engineer (Copy)** at Distro (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/principal-software-engineer-copy-distro
+- **Senior Software Developer (Copy)** at Distro (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-software-developer-copy-distro
+- **Senior Devops Engineer (Copy)** at Distro (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-devops-engineer-copy-distro
+- **Cybersecurity Analyst** at Distro (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/cybersecurity-analyst-distro
+- **Server & Systems Security Administrator** at Mawingu (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/server-systems-security-administrator-mawingu
+- **Monitoring, Evaluation Accountability and Learning (MEAL) Officer** at Sexual Reproductive Health and Rights (SRHR) Alliance Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-evaluation-accountability-and-learning-meal-officer-sexual-reproductive-health-and-rights-srhr-alliance-kenya
+- **Head of Platform & Architecture** at Turnkey Africa Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-platform-architecture-turnkey-africa-kenya/
+- **SD-WAN NOC Engineer – L1** at Zaneta Techbiz Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/sd-wan-noc-engineer-l1-zaneta-techbiz-limited/
+- **SD-WAN L2 Engineer** at Zaneta Techbiz Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/sd-wan-l2-engineer-zaneta-techbiz-limited/
+- **ICT & Database Intern** at Urgent Action Fund-Africa (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ict-database-intern-urgent-action-fund-africa/
+- **Monitoring & Evaluation** at Pwani Teknowgalz (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/monitoring-evaluation-pwani-teknowgalz/
