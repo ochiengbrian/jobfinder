@@ -8473,3 +8473,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/ict-database-intern-urgent-action-fund-africa/
 - **Monitoring & Evaluation** at Pwani Teknowgalz (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/monitoring-evaluation-pwani-teknowgalz/
+
+## 2026-09-25 09:22 UTC — 2 new job(s)
+
+- **Software Developer (Intern)** at Green Com Enterprise Solutions Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-developer-intern-green-com-enterprise-solutions-ltd-1
+- **AI Specialist** at Farsight Africa Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ai-specialist-farsight-africa-group/
