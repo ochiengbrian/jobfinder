@@ -8493,3 +8493,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/ai-specialist-farsight-africa-group/
 - **Monitoring, Evaluation Accountability and Learning (MEAL) Officer** at Sexual Reproductive Health and Rights (SRHR) Alliance Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/monitoring-evaluation-accountability-learning-meal-officer-sexual-reproductive-health-rights-srhr-alliance-kenya/
+
+## 2026-09-25 19:51 UTC — 5 new job(s)
+
+- **Junior Data Scientist** at Pezesha (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/junior-data-scientist-pezesha-2
+- **Software Developer (Intern)** at Green Com Enterprise Solutions Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-developer-intern-green-com-enterprise-solutions-ltd-1
+- **System Administrator - Infrastructure** at Unga Holding (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/system-administrator-infrastructure-unga-holding
+- **AI Specialist** at Farsight Africa Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ai-specialist-farsight-africa-group/
+- **Monitoring, Evaluation Accountability and Learning (MEAL) Officer** at Sexual Reproductive Health and Rights (SRHR) Alliance Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/monitoring-evaluation-accountability-learning-meal-officer-sexual-reproductive-health-rights-srhr-alliance-kenya/
