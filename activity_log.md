@@ -8519,3 +8519,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/ai-specialist-farsight-africa-group/
 - **Monitoring, Evaluation Accountability and Learning (MEAL) Officer** at Sexual Reproductive Health and Rights (SRHR) Alliance Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/monitoring-evaluation-accountability-learning-meal-officer-sexual-reproductive-health-rights-srhr-alliance-kenya/
+
+## 2026-09-26 09:05 UTC — 2 new job(s)
+
+- **Junior Data Scientist** at African Centre for Data Science & Analytics Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/junior-data-scientist-african-centre-for-data-science-analytics-ltd
+- **Data Engineer** at Watu Credit Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineer-watu-credit-limited
