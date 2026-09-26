@@ -8526,3 +8526,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/junior-data-scientist-african-centre-for-data-science-analytics-ltd
 - **Data Engineer** at Watu Credit Limited (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/data-engineer-watu-credit-limited
+
+## 2026-09-26 14:05 UTC — 4 new job(s)
+
+- **Junior Data Scientist** at African Centre for Data Science & Analytics Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/junior-data-scientist-african-centre-for-data-science-analytics-ltd
+- **Data Engineer** at Watu Credit Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineer-watu-credit-limited
+- **Program Officer, Partnerships** at CARE (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/program-officer-partnerships-care-international
+- **Senior Data & Information Governance Specialist** at CDL Human Resource (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-data-information-governance-specialist-cdl-human-resource/
