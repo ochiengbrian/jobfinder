@@ -8571,3 +8571,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/senior-data-information-governance-specialist-cdl-human-resource/
 - **System Administrator – Infrastructure** at Unga Holding (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/system-administrator-infrastructure-unga-holding/
+
+## 2026-09-28 19:12 UTC — 3 new job(s)
+
+- **Senior Frontend Engineer** at HFCB Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-frontend-engineer-hf-group-1
+- **Principal Software Engineer** at MasterCard (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/principal-software-engineer-mastercard-1
+- **Monitoring & Evaluation Officer** at The Nairobi Women's Hospital (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-evaluation-officer-the-nairobi-women-s-hospital
