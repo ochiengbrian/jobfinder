@@ -8580,3 +8580,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/principal-software-engineer-mastercard-1
 - **Monitoring & Evaluation Officer** at The Nairobi Women's Hospital (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/monitoring-evaluation-officer-the-nairobi-women-s-hospital
+
+## 2026-09-29 07:52 UTC — 2 new job(s)
+
+- **Information Security & Investigations Analyst | TP Kenya** at Teleperformance Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/information-security-investigations-analyst-tp-kenya-teleperformance
+- **Database Administrator** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/database-administrator-solvo-global
