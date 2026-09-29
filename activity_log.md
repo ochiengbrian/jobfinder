@@ -8612,3 +8612,28 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/mobile-security-technician-sun-king-formerly-greenlight-planet-2/
 - **Monitoring & Evaluation Officer** at The Nairobi Women’s Hospital (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/monitoring-evaluation-officer-nairobi-womens-hospital/
+
+## 2026-09-29 20:30 UTC — 11 new job(s)
+
+- **Full Stack Developer** at Brookfox Technologies Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-developer-19
+- **Information Security & Investigations Analyst | TP Kenya** at Teleperformance Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/information-security-investigations-analyst-tp-kenya-teleperformance
+- **ICT Officer II** at Jomo Kenyatta University of Agriculture Technology (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-ii-jomo-kenyatta-university-of-agriculture-technology
+- **Database Administrator** at Solvo Global (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/database-administrator-solvo-global
+- **Project Officer -MCH** at Center for Peace and Nationhood (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officer-mch-center-for-peace-and-nationhood
+- **Chief Engineer** at Enashipai Resort & Spa (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/chief-engineer-enashipai-resort-spa/
+- **Principal Software Engineer** at MasterCard (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/principal-software-engineer-mastercard-2/
+- **Senior Frontend Engineer** at HFCB Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-frontend-engineer-hfcb-kenya/
+- **Solutions Architect** at NCBA Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/solutions-architect-ncba-group-3/
+- **Mobile Security Technician** at Sun King (Formerly Greenlight Planet) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/mobile-security-technician-sun-king-formerly-greenlight-planet-2/
+- **Monitoring & Evaluation Officer** at The Nairobi Women’s Hospital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/monitoring-evaluation-officer-nairobi-womens-hospital/
