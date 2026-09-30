@@ -8637,3 +8637,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/mobile-security-technician-sun-king-formerly-greenlight-planet-2/
 - **Monitoring & Evaluation Officer** at The Nairobi Women’s Hospital (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/monitoring-evaluation-officer-nairobi-womens-hospital/
+
+## 2026-09-30 14:37 UTC — 4 new job(s)
+
+- **Software Engineer - Environmental Data Capacity (EDC) Toolkit** at United Nations Environment Programme (UNEP) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-environmental-data-capacity-edc-toolkit-united-nations-environment-programme-unep
+- **Program Lead-Humanitarian Response** at Verde Edge Consulting Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/program-lead-humanitarian-response-verde-edge-consulting-ltd
+- **Principal Infrastructure Engineer** at Solvo Global (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/principal-infrastructure-engineer-solvo-global/
+- **ICT Senior Analyst** at United Nations Office for Project Services (UNOPS) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ict-senior-analyst-united-nations-office-project-services-unops-2/
