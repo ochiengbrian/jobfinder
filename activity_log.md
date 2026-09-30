@@ -8648,3 +8648,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/principal-infrastructure-engineer-solvo-global/
 - **ICT Senior Analyst** at United Nations Office for Project Services (UNOPS) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/ict-senior-analyst-united-nations-office-project-services-unops-2/
+
+## 2026-09-30 20:38 UTC — 7 new job(s)
+
+- **Data & Analytics Engineer** at Food For Education (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analytics-engineer-food-for-education
+- **Software Engineer - Environmental Data Capacity (EDC) Toolkit** at United Nations Environment Programme (UNEP) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-environmental-data-capacity-edc-toolkit-united-nations-environment-programme-unep
+- **Program Lead-Humanitarian Response** at Verde Edge Consulting Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/program-lead-humanitarian-response-verde-edge-consulting-ltd
+- **Research Scientist** at Strathmore University (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/research-scientist-strathmore-university/
+- **Software Engineer – Environmental Data Capacity (EDC) Toolkit** at United Nations Environment Programme (UNEP) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-engineer-environmental-data-capacity-edc-toolkit-united-nations-environment-programme-unep/
+- **Principal Infrastructure Engineer** at Solvo Global (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/principal-infrastructure-engineer-solvo-global/
+- **ICT Senior Analyst** at United Nations Office for Project Services (UNOPS) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ict-senior-analyst-united-nations-office-project-services-unops-2/
