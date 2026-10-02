@@ -8704,3 +8704,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/crm-systems-data-specialist-medecins-sans-frontieres-msf/
 - **Subject Matter Expert – Networking & Infrastructure** at Abacus (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/subject-matter-expert-networking-infrastructure-abacus/
+
+## 2026-10-02 10:19 UTC — 4 new job(s)
+
+- **Drone Data Analyst** at Victory Farms (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/drone-data-analyst-victory-farms
+- **Software Developer Analyst** at International Rescue Committee (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-developer-analyst-international-rescue-committee-2
+- **Head of Cybersecurity and Information Systems** at Jambojet (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/head-of-cybersecurity-and-information-systems-jambojet
+- **Project Officer** at Zetech University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officer-zetech-university
