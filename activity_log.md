@@ -8715,3 +8715,36 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/head-of-cybersecurity-and-information-systems-jambojet
 - **Project Officer** at Zetech University (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/project-officer-zetech-university
+
+## 2026-10-02 17:21 UTC — 15 new job(s)
+
+- **Drone Data Analyst** at Victory Farms (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/drone-data-analyst-victory-farms
+- **AI Platform Engineer** at International Rescue Committee (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-platform-engineer-international-rescue-committee-2
+- **Software Developer Analyst** at International Rescue Committee (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-developer-analyst-international-rescue-committee-2
+- **Learner - Cybersecurity** at NTT Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/learner-cybersecurity-ntt-ltd-2
+- **Head of Cybersecurity and Information Systems** at Jambojet (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/head-of-cybersecurity-and-information-systems-jambojet
+- **Junior IT Officer** at Stratostaff (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/junior-it-officer-stratostaff
+- **Program Officer, Imarisha Msichana Scholarship Program** at Forum for African Women Educationalists (FAWE) Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/program-officer-imarisha-msichana-scholarship-program-forum-for-african-women-educationalists-fawe-kenya
+- **Program Officer - Disaster Management** at World Vision Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/program-officer-disaster-management-world-vision-kenya-1
+- **Monitoring, Evaluation and Impact Senior Officer** at United Nations Office for Project Services (UNOPS) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-evaluation-and-impact-senior-officer-united-nations-office-for-project-services-unops
+- **Project Officer (NYOTA) Kenya Dadaab** at Norwegian Refugee Council (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officer-nyota-kenya-dadaab-norwegian-refugee-council
+- **Project Officer (NYOTA) Kenya Kakuma** at Norwegian Refugee Council (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officer-nyota-kenya-kakuma-norwegian-refugee-council
+- **Project Officer** at Zetech University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officer-zetech-university
+- **Grant Monitoring and Evaluation Officer** at World Vision Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/grant-monitoring-and-evaluation-officer-world-vision-kenya
+- **Software Architect** at Solvo Global (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-architect-solvo-global/
+- **System Engineer** at Computech Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/system-engineer-computech-limited-2/
