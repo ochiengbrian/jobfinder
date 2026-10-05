@@ -8781,3 +8781,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/software-architect-solvo-global/
 - **System Engineer** at Computech Limited (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/system-engineer-computech-limited-2/
+
+## 2026-10-05 19:06 UTC — 3 new job(s)
+
+- **Data Engineer** at Moringa School (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineer-moringa-school
+- **Database Administrator Manager** at HFCB Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/database-administrator-manager-hf-group-1
+- **Monitoring & Evaluation Officer** at Kenya Development Corporation (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-evaluation-officer-kenya-development-corporation
