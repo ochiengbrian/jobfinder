@@ -8795,3 +8795,22 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **STRIDES QA Program Officer I** at FHI360 NGO (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/strides-qa-program-officer-i-fhi360-ngo
+
+## 2026-10-06 16:32 UTC — 8 new job(s)
+
+- **Engineer - Information Security** at MAL Consultancy (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/engineer-information-security-mal-consultancy
+- **Senior Program Officer** at World Vision Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-program-officer-world-vision-kenya-1
+- **STRIDES QA Program Officer I** at FHI360 NGO (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/strides-qa-program-officer-i-fhi360-ngo
+- **Project Officers (2 Positions)-Kakuma** at Girl Child Network (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officers-2-positions-kakuma-girl-child-network
+- **Project Officers (2 Positions)- Dadaab** at Girl Child Network (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officers-2-positions-dadaab-girl-child-network
+- **Planning Engineer** at Tai Talent Matters (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/planning-engineer-tai-talent-matters/
+- **Genesys Cloud CX Developer** at Andishi (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/genesys-cloud-cx-developer-andishi/
+- **Senior Grants and Finance Officer** at InSupply Health (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-grants-finance-officer-insupply-health/
