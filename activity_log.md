@@ -8790,3 +8790,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/database-administrator-manager-hf-group-1
 - **Monitoring & Evaluation Officer** at Kenya Development Corporation (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/monitoring-evaluation-officer-kenya-development-corporation
+
+## 2026-10-06 08:32 UTC — 1 new job(s)
+
+- **STRIDES QA Program Officer I** at FHI360 NGO (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/strides-qa-program-officer-i-fhi360-ngo
