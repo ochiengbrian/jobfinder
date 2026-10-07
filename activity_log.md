@@ -8833,3 +8833,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/genesys-cloud-cx-developer-andishi/
 - **Senior Grants and Finance Officer** at InSupply Health (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-grants-finance-officer-insupply-health/
+
+## 2026-10-07 03:54 UTC — 1 new job(s)
+
+- **Senior Program Officer** at World Vision Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-program-officer-world-vision-kenya/
