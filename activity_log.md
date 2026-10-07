@@ -8859,3 +8859,24 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/solutions-architect-presales-engineer-readvertised-jamii-telecommunications/
 - **ISP Technician- Mombasa** at Fireside Engineering Group (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/isp-technician-mombasa-fireside-engineering-group-2/
+
+## 2026-10-07 18:24 UTC — 9 new job(s)
+
+- **Data Engineer** at Standard Bank Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineer-standard-bank-group-4
+- **Specialist – Monitoring Evaluation Reporting and Learning( Fixed Term Contract)** at Safaricom Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/specialist-monitoring-evaluation-reporting-and-learning-fixed-term-contract-safaricom-kenya
+- **ISP Technician-Nairobi** at Fireside Engineering Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/isp-technician-nairobi-fireside-engineering-group/
+- **Engineer – Information Security** at MAL Consultancy (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/engineer-information-security-mal-consultancy/
+- **Business Development Officer** at Human Capital Outsourcing Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-human-capital-outsourcing-limited/
+- **Senior Program Officer** at World Vision Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-program-officer-world-vision-kenya/
+- **Agricultural Implements Sales Engineer** at Excelon Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/agricultural-implements-sales-engineer-excelon-limited/
+- **Solutions Architect & Presales Engineer – Readvertised** at Jamii Telecommunications (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/solutions-architect-presales-engineer-readvertised-jamii-telecommunications/
+- **ISP Technician- Mombasa** at Fireside Engineering Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/isp-technician-mombasa-fireside-engineering-group-2/
