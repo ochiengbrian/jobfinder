@@ -8894,3 +8894,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/grants-program-finance-officer-this-ability
 - **Program Officer, Food & Cash Assistance** at World Vision Kenya (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/program-officer-food-cash-assistance-world-vision-kenya
+
+## 2026-10-08 12:45 UTC — 4 new job(s)
+
+- **IT & Cybersecurity Specialist** at Miale Solar Inventions Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/it-cybersecurity-specialist-miale-solar-inventions-ltd
+- **Grants & Program Finance Officer** at This Ability (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/grants-program-finance-officer-this-ability
+- **Program Officer, Food & Cash Assistance** at World Vision Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/program-officer-food-cash-assistance-world-vision-kenya
+- **Human Resources & Organisational Development Officer** at This Ability (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/human-resources-organisational-development-officer-ability/
