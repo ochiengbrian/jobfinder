@@ -8880,3 +8880,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/solutions-architect-presales-engineer-readvertised-jamii-telecommunications/
 - **ISP Technician- Mombasa** at Fireside Engineering Group (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/isp-technician-mombasa-fireside-engineering-group-2/
+
+## 2026-10-08 00:04 UTC — 2 new job(s)
+
+- **Data Engineer** at Standard Bank Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineer-standard-bank-group-4
+- **Specialist – Monitoring Evaluation Reporting and Learning( Fixed Term Contract)** at Safaricom Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/specialist-monitoring-evaluation-reporting-and-learning-fixed-term-contract-safaricom-kenya
