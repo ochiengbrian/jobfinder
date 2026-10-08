@@ -8887,3 +8887,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/data-engineer-standard-bank-group-4
 - **Specialist – Monitoring Evaluation Reporting and Learning( Fixed Term Contract)** at Safaricom Kenya (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/specialist-monitoring-evaluation-reporting-and-learning-fixed-term-contract-safaricom-kenya
+
+## 2026-10-08 05:17 UTC — 2 new job(s)
+
+- **Grants & Program Finance Officer** at This Ability (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/grants-program-finance-officer-this-ability
+- **Program Officer, Food & Cash Assistance** at World Vision Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/program-officer-food-cash-assistance-world-vision-kenya
