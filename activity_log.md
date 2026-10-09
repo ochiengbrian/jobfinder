@@ -8920,3 +8920,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/office-administrator-property-real-estate-cdl-human-resource/
 - **Assistant Stocks and Credit Manager** at Kinangop Dairy Limited (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/assistant-stocks-credit-manager-kinangop-dairy-limited/
+
+## 2026-10-09 08:27 UTC — 6 new job(s)
+
+- **Information Security Expert** at Peoplelink Consultants Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/information-security-expert-peoplelink-consultants-ltd
+- **Network Engineer** at Peoplelink Consultants Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/network-engineer-peoplelink-consultants-ltd
+- **AI Solutions Architect** at Code for Africa (CfA) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ai-solutions-architect-code-africa-cfa-2/
+- **Head of Platform & Architecture** at Caava Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-platform-architecture-caava-group/
+- **Business Development Officer** at Miotronics (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-miotronics/
+- **Engineer Service Delivery** at HCS Affiliates Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/engineer-service-delivery-hcs-affiliates-group/
