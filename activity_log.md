@@ -8960,3 +8960,28 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/business-development-officer-miotronics/
 - **Engineer Service Delivery** at HCS Affiliates Group (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/engineer-service-delivery-hcs-affiliates-group/
+
+## 2026-10-09 22:15 UTC — 11 new job(s)
+
+- **Data Analyst** at Bollard Consulting Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-bollard-consulting-limited-1
+- **DevOps & Machine Learning Expert** at Intergovernmental Authority on Development (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/devops-machine-learning-expert-intergovernmental-authority-on-development
+- **Junior Full Stack Developer** at Bollard Consulting Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/junior-full-stack-developer-bollard-consulting-limited
+- **Information Security Expert** at Peoplelink Consultants Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/information-security-expert-peoplelink-consultants-ltd
+- **Network Engineer** at Peoplelink Consultants Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/network-engineer-peoplelink-consultants-ltd
+- **Chief Program Officer** at Living Goods (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/chief-program-officer-living-goods
+- **Regional Thematic Specialist (Humanitarian Response and Recovery) (P)** at International Organization for Migration (IOM) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/regional-thematic-specialist-humanitarian-response-and-recovery-p-international-organization-for-migration-iom
+- **AI Solutions Architect** at Code for Africa (CfA) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ai-solutions-architect-code-africa-cfa-2/
+- **Head of Platform & Architecture** at Caava Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-platform-architecture-caava-group/
+- **Business Development Officer** at Miotronics (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-miotronics/
+- **Engineer Service Delivery** at HCS Affiliates Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/engineer-service-delivery-hcs-affiliates-group/
