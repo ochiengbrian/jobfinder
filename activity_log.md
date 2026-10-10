@@ -8994,3 +8994,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/customer-engagement-solutions-specialist-pawa-solutions/
 - **Chief Program Officer** at Living Goods (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/chief-program-officer-living-goods/
+
+## 2026-10-10 16:53 UTC — 3 new job(s)
+
+- **Senior Backend Engineer - Mobility (12 month FTC)** at M-KOPA Solar (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-backend-engineer-mobility-12-month-ftc-m-kopa-solar
+- **Customer Engagement & Solutions Specialist** at Pawa IT Solutions (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/customer-engagement-solutions-specialist-pawa-solutions/
+- **Chief Program Officer** at Living Goods (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/chief-program-officer-living-goods/
