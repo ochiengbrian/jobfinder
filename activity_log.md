@@ -9012,3 +9012,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/customer-engagement-solutions-specialist-pawa-solutions/
 - **Chief Program Officer** at Living Goods (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/chief-program-officer-living-goods/
+
+## 2026-10-12 08:31 UTC — 2 new job(s)
+
+- **Software Tester / QA Engineer** at Vellmont Advisory Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-tester-qa-engineer
+- **Senior Backend Engineer – Mobility (12 month FTC)** at M-KOPA Solar (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-backend-engineer-mobility-12-month-ftc-m-kopa-solar/
