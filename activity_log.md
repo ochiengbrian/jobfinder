@@ -9019,3 +9019,26 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/software-tester-qa-engineer
 - **Senior Backend Engineer – Mobility (12 month FTC)** at M-KOPA Solar (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-backend-engineer-mobility-12-month-ftc-m-kopa-solar/
+
+## 2026-10-12 19:39 UTC — 10 new job(s)
+
+- **Software Tester / QA Engineer** at Vellmont Advisory Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-tester-qa-engineer
+- **Software Developer** at Doshi Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-developer-doshi-group
+- **DevOps Engineer – Cloud Infrastructure & Automation** at CDL Human Resource (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/devops-engineer-cloud-infrastructure-automation-cdl-human-resouce
+- **International Humanitarian Law and Data Protection Officer** at Kenya Red Cross Society (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/international-humanitarian-law-and-data-protection-officer-kenya-red-cross-society
+- **Senior Backend Engineer – Mobility (12 month FTC)** at M-KOPA Solar (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-backend-engineer-mobility-12-month-ftc-m-kopa-solar/
+- **Graphic Design And Multimedia Specialist** at Mwananchi Credit Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/graphic-design-multimedia-specialist-mwananchi-credit-ltd/
+- **Solutions and Business Architecture Area Chapter Lead** at Safaricom Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/solutions-business-architecture-area-chapter-lead-safaricom-kenya/
+- **Team Leader – Sales Engineer** at Nexus Staffing Solutions (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/team-leader-sales-engineer-nexus-staffing-solutions-2/
+- **Salesforce Administrator** at TheJitu.com (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/salesforce-administrator-thejitu-com-2/
+- **Pharmaceutical Technologist – Mlolongo** at CDL Human Resource (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/pharmaceutical-technologist-mlolongo-cdl-human-resource/
