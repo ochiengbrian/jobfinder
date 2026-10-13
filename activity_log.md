@@ -9042,3 +9042,24 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/salesforce-administrator-thejitu-com-2/
 - **Pharmaceutical Technologist – Mlolongo** at CDL Human Resource (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/pharmaceutical-technologist-mlolongo-cdl-human-resource/
+
+## 2026-10-13 08:55 UTC — 9 new job(s)
+
+- **Lecturer -  Artificial Intelligence and Intelligent Systems** at Technical University of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/lecturer-artificial-intelligence-and-intelligent-systems-technical-university-of-kenya
+- **Senior Lecturer - Artificial Intelligence and Intelligent Systems** at Technical University of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-lecturer-artificial-intelligence-and-intelligent-systems-technical-university-of-kenya
+- **Lecturer - Software Engineering and Systems Design** at Technical University of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/lecturer-software-engineering-and-systems-design-technical-university-of-kenya
+- **ICT Officer Intern** at Kipsinende Technical Training Institute-KSTTI (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-intern-kipsinende-technical-training-institute-kstti
+- **Information, Technology - IT Officer** at Refugee-Led Organization Network of Kenya (RELON-Kenya) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/information-technology-it-officer-refugee-led-organization-network-of-kenya-relon-kenya
+- **Program Officer – Mombasa** at Refugee-Led Organization Network of Kenya (RELON-Kenya) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/program-officer-mombasa-refugee-led-organization-network-of-kenya-relon-kenya
+- **Program Officer – Kakuma** at Refugee-Led Organization Network of Kenya (RELON-Kenya) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/program-officer-kakuma-refugee-led-organization-network-of-kenya-relon-kenya
+- **Program Officer – Dadaab** at Refugee-Led Organization Network of Kenya (RELON-Kenya) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/program-officer-dadaab-refugee-led-organization-network-of-kenya-relon-kenya
+- **Project Officer – Enterprise Development** at RefuSHE (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officer-enterprise-development-refushe
