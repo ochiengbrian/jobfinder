@@ -9135,3 +9135,24 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/project-officer-nutrition-world-vision-kenya-3
 - **Business Conservation Analyst** at Madison Group Limited (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/business-conservation-analyst-madison-group-limited/
+
+## 2026-10-14 20:01 UTC — 9 new job(s)
+
+- **HR Data & Digital Transformation Analyst M/F** at AGL- Africa Global Logistics (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/hr-data-digital-transformation-analyst-m-f-agl-africa-global-logistics
+- **Data Analyst-Real Estate&Revenue** at CDL Human Resource (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-real-estate-revenue-cdl-human-resouce
+- **Senior Data Engineer( DataBricks & Snowflake)** at Andishi (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-data-engineer-databricks-snowflake-andishi
+- **Project Officer - Sanitation & Hygiene** at World Vision Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officer-sanitation-hygiene-world-vision-kenya-3
+- **Project Officer - Cash & Markets** at World Vision Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officer-cash-markets-world-vision-kenya-1
+- **Project Officer - Nutrition** at World Vision Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officer-nutrition-world-vision-kenya-3
+- **Business Conservation Analyst** at Madison Group Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-conservation-analyst-madison-group-limited/
+- **Learning and Development Officer** at Safal Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/learning-development-officer-safal-group-2/
+- **Deployable Child Protection in Emergencies Specialist – Roster Recruitment** at Plan International (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/deployable-child-protection-emergencies-specialist-roster-recruitment-plan-international/
