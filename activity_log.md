@@ -9109,3 +9109,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/project-officer-enterprise-development-refushe
 - **Monitoring Evaluation, Accountability and Learning (MEAL) Coordinator** at Forum for African Women Educationalists (FAWE) Kenya (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/monitoring-evaluation-accountability-and-learning-meal-coordinator-forum-for-african-women-educationalists-fawe-kenya
+
+## 2026-10-14 09:18 UTC — 3 new job(s)
+
+- **HR Data & Digital Transformation Analyst M/F** at AGL- Africa Global Logistics (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/hr-data-digital-transformation-analyst-m-f-agl-africa-global-logistics
+- **Data Analyst-Real Estate&Revenue** at CDL Human Resource (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-real-estate-revenue-cdl-human-resouce
+- **Business Conservation Analyst** at Madison Group Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-conservation-analyst-madison-group-limited/
