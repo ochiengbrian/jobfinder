@@ -9210,3 +9210,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/senior-data-engineer-databricks-snowflake-andishi/
 - **Watsan Mobile Support Specialist (MSS)** at Medecins Sans Frontieres (MSF) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/watsan-mobile-support-specialist-mss-medecins-sans-frontieres-msf/
+
+## 2026-10-15 22:56 UTC — 5 new job(s)
+
+- **Lead Analyst - Data Operations** at Sun King (Formerly Greenlight Planet) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/lead-analyst-data-operations-greenlight-planet-1
+- **Information Security Lead** at BURN (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/information-security-lead-burn
+- **Monitoring, Evaluation and Learning (MEL) Consultant** at Population Council (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-evaluation-and-learning-mel-consultant-population-council
+- **Senior Data Engineer( DataBricks & Snowflake)** at Andishi (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-data-engineer-databricks-snowflake-andishi/
+- **Watsan Mobile Support Specialist (MSS)** at Medecins Sans Frontieres (MSF) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/watsan-mobile-support-specialist-mss-medecins-sans-frontieres-msf/
