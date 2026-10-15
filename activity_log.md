@@ -9177,3 +9177,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/learning-development-officer-safal-group-2/
 - **Deployable Child Protection in Emergencies Specialist – Roster Recruitment** at Plan International (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/deployable-child-protection-emergencies-specialist-roster-recruitment-plan-international/
+
+## 2026-10-15 08:51 UTC — 2 new job(s)
+
+- **Information Security Lead** at BURN (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/information-security-lead-burn
+- **Senior Data Engineer( DataBricks & Snowflake)** at Andishi (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-data-engineer-databricks-snowflake-andishi/
