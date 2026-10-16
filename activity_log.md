@@ -9223,3 +9223,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/senior-data-engineer-databricks-snowflake-andishi/
 - **Watsan Mobile Support Specialist (MSS)** at Medecins Sans Frontieres (MSF) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/watsan-mobile-support-specialist-mss-medecins-sans-frontieres-msf/
+
+## 2026-10-16 08:48 UTC — 3 new job(s)
+
+- **Lead Analyst – Data Operations** at Sun King (Formerly Greenlight Planet) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/lead-analyst-data-operations-sun-king-formerly-greenlight-planet-2/
+- **SSA KE – IT Support Specialist** at DHL (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ssa-ke-support-specialist-dhl/
+- **Business Development Officer (IELTS)** at IDP Education Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-ielts-idp-education-ltd/
