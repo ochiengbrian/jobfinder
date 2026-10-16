@@ -9262,3 +9262,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/business-development-officer-ielts-idp-education-ltd/
 - **Monitoring, Evaluation and Learning (MEL) Consultant** at Population Council (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/monitoring-evaluation-learning-mel-consultant-population-council/
+
+## 2026-10-16 22:30 UTC — 6 new job(s)
+
+- **Head of Artificial Intelligence** at Co-operative Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/head-of-artificial-intelligence-co-operative-bank-of-kenya
+- **Programme Officer (Monitoring and Evaluation (M&E)** at International Organization for Migration (IOM) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/programme-officer-monitoring-and-evaluation-m-e-international-organization-for-migration-iom
+- **Lead Analyst – Data Operations** at Sun King (Formerly Greenlight Planet) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/lead-analyst-data-operations-sun-king-formerly-greenlight-planet-2/
+- **SSA KE – IT Support Specialist** at DHL (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ssa-ke-support-specialist-dhl/
+- **Business Development Officer (IELTS)** at IDP Education Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-ielts-idp-education-ltd/
+- **Monitoring, Evaluation and Learning (MEL) Consultant** at Population Council (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/monitoring-evaluation-learning-mel-consultant-population-council/
