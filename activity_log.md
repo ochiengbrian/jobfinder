@@ -9319,3 +9319,24 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/business-development-officer-eldoret-kingdom-sacco/
 - **Senior Manager, Programme – Congo Basin & Francophone Nature Markets** at FSD Africa (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-manager-programme-congo-basin-francophone-nature-markets-fsd-africa/
+
+## 2026-10-17 16:53 UTC — 9 new job(s)
+
+- **Data Engineer** at Accelera Digital Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineer-accelera-digital-group
+- **Ai/Ml Engineer** at Accelera Digital Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-ml-engineer-accelera-digital-group
+- **Full Stack Software Engineer** at Accelera Digital Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-software-engineer-accelera-digital-group
+- **Scientist – Livestock GHG MRV and Circular Bioeconomy** at International Livestock Research Institute (ILRI) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/scientist-livestock-ghg-mrv-circular-bioeconomy-international-livestock-research-institute-ilri/
+- **Head of Artificial Intelligence** at Co-operative Bank of Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-artificial-intelligence-co-operative-bank-kenya/
+- **Enterprise Development Officer** at Equity Bank Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/enterprise-development-officer-equity-bank-kenya/
+- **Programme Officer (Monitoring and Evaluation (M&E)** at International Organization for Migration (IOM) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/programme-officer-monitoring-evaluation-international-organization-migration-iom/
+- **Business Development Officer – Eldoret** at Kingdom Sacco (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-eldoret-kingdom-sacco/
+- **Senior Manager, Programme – Congo Basin & Francophone Nature Markets** at FSD Africa (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-manager-programme-congo-basin-francophone-nature-markets-fsd-africa/
