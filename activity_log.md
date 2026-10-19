@@ -9403,3 +9403,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/business-development-officer-eldoret-kingdom-sacco/
 - **Senior Manager, Programme – Congo Basin & Francophone Nature Markets** at FSD Africa (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-manager-programme-congo-basin-francophone-nature-markets-fsd-africa/
+
+## 2026-10-19 09:35 UTC — 3 new job(s)
+
+- **Full-Stack Software Engineer (Python/Django + AI)** at Kutuma Kenya Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-software-engineer-python-django-ai-kutuma-kenya-limited
+- **Information Security Expert** at Peoplelink Consultants Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/information-security-expert-peoplelink-consultants-ltd-1
+- **P&C Operations Training Specialist** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/pc-operations-training-specialist-international-rescue-committee/
