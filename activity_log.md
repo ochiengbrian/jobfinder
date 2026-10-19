@@ -9427,3 +9427,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/humanitarian-access-safety-and-security-advisor-international-rescue-committee-1
 - **P&C Operations Training Specialist** at International Rescue Committee (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/pc-operations-training-specialist-international-rescue-committee/
+
+## 2026-10-19 22:02 UTC — 7 new job(s)
+
+- **Forensic Data Analyst** at Britam (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/forensic-data-analyst-britam
+- **Full-Stack Software Engineer (Python/Django + AI)** at Kutuma Kenya Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/full-stack-software-engineer-python-django-ai-kutuma-kenya-limited
+- **Senior Full Stack Engineer - Computer Science** at Zetech University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-full-stack-engineer-computer-science-zetech-university-1
+- **Information Security Expert** at Peoplelink Consultants Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/information-security-expert-peoplelink-consultants-ltd-1
+- **Humanitarian Access, Safety and Security Advisor** at International Rescue Committee (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/humanitarian-access-safety-and-security-advisor-international-rescue-committee-1
+- **Senior Full Stack Engineer – Computer Science** at Zetech University (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-full-stack-engineer-computer-science-zetech-university/
+- **P&C Operations Training Specialist** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/pc-operations-training-specialist-international-rescue-committee/
