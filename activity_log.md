@@ -9444,3 +9444,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/senior-full-stack-engineer-computer-science-zetech-university/
 - **P&C Operations Training Specialist** at International Rescue Committee (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/pc-operations-training-specialist-international-rescue-committee/
+
+## 2026-10-20 07:05 UTC — 3 new job(s)
+
+- **Data Science and/or Artificial Intelligence Intern - 50 Posts** at Public Service Commission Kenya (PSCK) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-science-and-or-artificial-intelligence-intern-50-posts-public-service-commission-kenya-psck
+- **Systems, Network and Security Administrator II** at Independent Policing Oversight Authority (IPOA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/systems-network-and-security-administrator-ii-independent-policing-oversight-authority-ipoa
+- **Database and Applications Administrator II** at Independent Policing Oversight Authority (IPOA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/database-and-applications-administrator-ii-independent-policing-oversight-authority-ipoa
