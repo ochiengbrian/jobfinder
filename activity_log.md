@@ -9479,3 +9479,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/business-development-officer-optimum-hospital/
 - **Health Specialist – Adolescent Health, P-4** at UNICEF (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/health-specialist-adolescent-health-p-4-unicef/
+
+## 2026-10-20 22:58 UTC — 3 new job(s)
+
+- **Humanitarian Access, Safety and Security Advisor** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/humanitarian-access-safety-security-advisor-international-rescue-committee-2/
+- **Business Development Officer** at Optimum Hospital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-optimum-hospital/
+- **Health Specialist – Adolescent Health, P-4** at UNICEF (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/health-specialist-adolescent-health-p-4-unicef/
