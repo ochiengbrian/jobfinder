@@ -9488,3 +9488,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/business-development-officer-optimum-hospital/
 - **Health Specialist – Adolescent Health, P-4** at UNICEF (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/health-specialist-adolescent-health-p-4-unicef/
+
+## 2026-10-21 09:09 UTC — 5 new job(s)
+
+- **Graduate Trainee: Software Engineering – Kenya** at Cellulant Corporation (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/graduate-trainee-software-engineering-kenya-cellulant-corporation/
+- **Data Engineer( DataBricks & Snowflake)** at Andishi (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-engineer-databricks-snowflake-andishi/
+- **EHS Specialist** at Kerry (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ehs-specialist-kerry/
+- **Switch Engineer** at Kenswitch (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/switch-engineer-kenswitch/
+- **Head & Neck /Otolaryngology (OHNS) Consultant** at AIC Kijabe Hospital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-neck-otolaryngology-ohns-consultant-aic-kijabe-hospital/
