@@ -9516,3 +9516,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/switch-engineer-kenswitch/
 - **Head & Neck /Otolaryngology (OHNS) Consultant** at AIC Kijabe Hospital (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/head-neck-otolaryngology-ohns-consultant-aic-kijabe-hospital/
+
+## 2026-10-21 19:58 UTC — 6 new job(s)
+
+- **Data Engineer( DataBricks & Snowflake)** at Andishi (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-engineer-databricks-snowflake-andishi/
+- **Graduate Trainee: Software Engineering – Kenya** at Cellulant Corporation (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/graduate-trainee-software-engineering-kenya-cellulant-corporation/
+- **Piping Design Engineer** at Octavia Carbon (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/piping-design-engineer-octavia-carbon/
+- **EHS Specialist** at Kerry (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ehs-specialist-kerry/
+- **Switch Engineer** at Kenswitch (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/switch-engineer-kenswitch/
+- **Head & Neck /Otolaryngology (OHNS) Consultant** at AIC Kijabe Hospital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-neck-otolaryngology-ohns-consultant-aic-kijabe-hospital/
