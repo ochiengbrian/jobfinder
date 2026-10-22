@@ -9569,3 +9569,24 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/fixed-network-projects-engineer-sheer-logic/
 - **Implementation Engineer** at Savannah Informatics (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/implementation-engineer-savannah-informatics/
+
+## 2026-10-22 19:46 UTC — 9 new job(s)
+
+- **Senior Software Engineer** at Zeraki (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-software-engineer-zeraki/
+- **Senior Product Engineer – Payments Risk** at WeTravel (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-product-engineer-payments-risk-wetravel/
+- **DevOps Engineer** at Savannah Informatics (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/devops-engineer-savannah-informatics-4/
+- **Tax Systems Integration Developer** at Davis & Shirtliff Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/tax-systems-integration-developer-davis-shirtliff-group-2/
+- **Information Technology Help Desk Technician** at Solvo Global (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-technology-help-desk-technician-solvo-global/
+- **Customer Performance Field Officer – Mombasa** at M-KOPA Solar (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/customer-performance-field-officer-mombasa-m-kopa-solar/
+- **Customer Performance Field Officer – Nairobi** at M-KOPA Solar (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/customer-performance-field-officer-nairobi-m-kopa-solar/
+- **Fixed Network Projects Engineer** at Sheer Logic (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/fixed-network-projects-engineer-sheer-logic/
+- **Implementation Engineer** at Savannah Informatics (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/implementation-engineer-savannah-informatics/
