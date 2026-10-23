@@ -9611,3 +9611,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/fixed-network-projects-engineer-sheer-logic/
 - **Implementation Engineer** at Savannah Informatics (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/implementation-engineer-savannah-informatics/
+
+## 2026-10-23 09:05 UTC — 3 new job(s)
+
+- **Forward-Deployed Engineer** at Accelera Digital Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/forward-deployed-engineer-accelera-digital-group/
+- **Assistant Manager, Information Security** at DIB Bank Kenya Limited (DIBBKE) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/assistant-manager-information-security-dib-bank-kenya-limited-dibbke/
+- **Monitoring & Evaluation Officers** at Dencyah Events (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/monitoring-evaluation-officers-dencyah-events/
