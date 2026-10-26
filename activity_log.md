@@ -9647,3 +9647,28 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/assistant-manager-information-security-dib-bank-kenya-limited-dibbke/
 - **Monitoring & Evaluation Officers** at Dencyah Events (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/monitoring-evaluation-officers-dencyah-events/
+
+## 2026-10-26 09:40 UTC — 11 new job(s)
+
+- **Data Analyst** at Transsion (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-transsion
+- **Artificial Intelligence Specialist** at Transsion (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/artificial-intelligence-specialist-transsion
+- **Senior Software Developer** at CDL Human Resource (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-software-developer-cdl-human-resouce-1
+- **NET C# and Business Central AL Developer** at Software Dynamics (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/net-c-and-business-central-al-developer-software-dynamics
+- **Dynamics 365 Commerce / POS Developer** at Software Dynamics (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/dynamics-365-commerce-pos-developer-software-dynamics
+- **Dynamics 365 F&O Developer** at Software Dynamics (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/dynamics-365-f-o-developer-software-dynamics
+- **Head Chef (NGO)** at Summit Recruitment and Search (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/head-chef-ngo-summit-recruitment-and-search
+- **Maintenance Engineer** at Farmers Choice Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/maintenance-engineer-farmers-choice-limited/
+- **Technical Architect End User Services** at NTT Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/technical-architect-end-user-services-ntt-ltd-2/
+- **Systems Engineer- End User Services (L1)** at NTT Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/systems-engineer-end-user-services-l1-ntt-ltd/
+- **Network Engineer** at Estream East Africa Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/network-engineer-estream-east-africa-ltd/
