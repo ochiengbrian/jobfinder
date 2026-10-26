@@ -9672,3 +9672,44 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/systems-engineer-end-user-services-l1-ntt-ltd/
 - **Network Engineer** at Estream East Africa Ltd (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/network-engineer-estream-east-africa-ltd/
+
+## 2026-10-26 16:31 UTC — 19 new job(s)
+
+- **Data Analyst** at Transsion (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-transsion
+- **Artificial Intelligence Specialist** at Transsion (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/artificial-intelligence-specialist-transsion
+- **Senior Software Engineer** at Living Goods (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-software-engineer-living-goods-1
+- **Junior Software Developer** at CDL Human Resource (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/junior-software-developer-cdl-human-resouce
+- **Senior Software Developer** at Gap Recruitment Services Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-software-developer-gap-recruitment-services-limited
+- **Junior Software Developer** at Gap Recruitment Services Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/junior-software-developer-gap-recruitment-services-limited
+- **Senior Software Developer** at CDL Human Resource (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-software-developer-cdl-human-resouce-1
+- **NET C# and Business Central AL Developer** at Software Dynamics (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/net-c-and-business-central-al-developer-software-dynamics
+- **Dynamics 365 Commerce / POS Developer** at Software Dynamics (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/dynamics-365-commerce-pos-developer-software-dynamics
+- **Dynamics 365 F&O Developer** at Software Dynamics (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/dynamics-365-f-o-developer-software-dynamics
+- **Network Engineer** at Zetech University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/network-engineer-zetech-university-2
+- **Head Chef (NGO)** at Summit Recruitment and Search (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/head-chef-ngo-summit-recruitment-and-search
+- **Maintenance Engineer** at Farmers Choice Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/maintenance-engineer-farmers-choice-limited/
+- **ICT Automation Engineer** at Tatu City Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ict-automation-engineer-tatu-city-limited/
+- **Technical Architect End User Services** at NTT Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/technical-architect-end-user-services-ntt-ltd-2/
+- **Systems Engineer- End User Services (L1)** at NTT Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/systems-engineer-end-user-services-l1-ntt-ltd/
+- **Network Engineer** at Estream East Africa Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/network-engineer-estream-east-africa-ltd/
+- **Business Development Officer** at icipe – International Centre of Insect Physiology and Ecology (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-icipe-international-centre-insect-physiology-ecology/
+- **Communication Infrastructure Support (CIS) Engineer** at U.S. Embassy to Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/communication-infrastructure-support-cis-engineer-u-s-embassy-kenya/
