@@ -9787,3 +9787,40 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/support-associate-food-education/
 - **Business Development Officer** at Octagon Africa (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/business-development-officer-octagon-africa/
+
+## 2026-10-27 15:45 UTC — 17 new job(s)
+
+- **Data Scientist** at Co-operative Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-scientist-co-operative-bank-of-kenya-8
+- **Junior Data Analyst (Internship)** at Moko Home + Living (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/junior-data-analyst-internship-moko-home-living
+- **Data Protection Analyst** at Family Bank Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-protection-analyst-family-bank-ltd
+- **Data Engineer** at Co-operative Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineer-co-operative-bank-of-kenya-8
+- **AI – QA Automation Engineer** at Co-operative Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-qa-automation-engineer-co-operative-bank-of-kenya
+- **AI Integration Engineer** at Co-operative Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-integration-engineer-co-operative-bank-of-kenya
+- **AI Application Engineer** at Co-operative Bank of Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-application-engineer-co-operative-bank-of-kenya
+- **Information Security Manager** at Middle East Bank Kenya Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/information-security-manager-middle-east-bank-kenya-ltd-3
+- **Data Analyst** at Transsion (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-analyst-transsion/
+- **Financial and Credit Analyst** at Lions Sightfirst Eye Hospital (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/financial-credit-analyst-lions-sightfirst-eye-hospital/
+- **Artificial Intelligence Specialist** at Transsion (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/artificial-intelligence-specialist-transsion/
+- **Senior Software Engineer** at Living Goods (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-software-engineer-living-goods/
+- **Senior Software Developer** at Gap Recruitment Services Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-software-developer-gap-recruitment-services-limited/
+- **Junior Software Developer** at Gap Recruitment Services Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/junior-software-developer-gap-recruitment-services-limited/
+- **Network Engineer** at Zetech University (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/network-engineer-zetech-university-2/
+- **IT Support Associate** at Food For Education (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/support-associate-food-education/
+- **Business Development Officer** at Octagon Africa (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-octagon-africa/
