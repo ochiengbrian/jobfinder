@@ -9855,3 +9855,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/support-associate-food-education/
 - **Business Development Officer** at Octagon Africa (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/business-development-officer-octagon-africa/
+
+## 2026-10-28 07:55 UTC — 2 new job(s)
+
+- **Cloud Lead Architect** at Medecins Sans Frontieres (MSF) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/cloud-lead-architect-medecins-sans-frontieres-msf/
+- **Sound Engineer** at Azam TV Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/sound-engineer-azam-tv-kenya/
