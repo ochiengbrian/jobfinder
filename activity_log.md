@@ -9873,3 +9873,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/cloud-lead-architect-medecins-sans-frontieres-msf/
 - **Sound Engineer** at Azam TV Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/sound-engineer-azam-tv-kenya/
+
+## 2026-10-28 20:50 UTC — 6 new job(s)
+
+- **Senior Backend Engineer - Asset Sales** at M-KOPA Solar (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-backend-engineer-asset-sales-m-kopa-solar
+- **Senior Backend Engineer - Mobility** at M-KOPA Solar (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-backend-engineer-mobility-m-kopa-solar
+- **IT Infrastructure, Support & Cybersecurity Lead** at Spinners and Spinners Ltd (S&S) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/it-infrastructure-support-cybersecurity-lead-spinners-and-spinners-ltd-s-amp-s
+- **Senior Database Developer- Cigna Healthcare** at Cigna (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-database-developer-cigna-healthcare-cigna
+- **Cloud Lead Architect** at Medecins Sans Frontieres (MSF) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/cloud-lead-architect-medecins-sans-frontieres-msf/
+- **Sound Engineer** at Azam TV Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/sound-engineer-azam-tv-kenya/
