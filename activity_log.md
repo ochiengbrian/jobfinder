@@ -9888,3 +9888,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/cloud-lead-architect-medecins-sans-frontieres-msf/
 - **Sound Engineer** at Azam TV Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/sound-engineer-azam-tv-kenya/
+
+## 2026-10-29 08:00 UTC — 2 new job(s)
+
+- **Senior Project Officer MEAL - Marsabit & Turkana** at Catholic Relief (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-project-officer-meal-marsabit-turkana-catholic-relief
+- **IT Infrastructure, Support & Cybersecurity Lead** at Spinners and Spinners Ltd (S&S) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/infrastructure-support-cybersecurity-lead-spinners-spinners-ltd-ss/
