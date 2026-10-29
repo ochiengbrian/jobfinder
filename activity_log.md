@@ -9895,3 +9895,40 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/senior-project-officer-meal-marsabit-turkana-catholic-relief
 - **IT Infrastructure, Support & Cybersecurity Lead** at Spinners and Spinners Ltd (S&S) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/infrastructure-support-cybersecurity-lead-spinners-spinners-ltd-ss/
+
+## 2026-10-29 14:59 UTC — 17 new job(s)
+
+- **Software Engineer (PHP/Laravel)** at Salix Data (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-php-laravel-salix-data
+- **Artificial Intelligence Lead** at Standard Bank Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/artificial-intelligence-lead-standard-bank-group
+- **Senior Backend .NET Developer** at Tana (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-backend-net-developer-tana
+- **Senior Software Developer** at Riana Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-software-developer-riana-group
+- **Junior Software Developer** at Riana Group (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/junior-software-developer-riana-group
+- **Software Developer/Analyst** at International Rescue Committee (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-developer-analyst-international-rescue-committee-3
+- **Senior ICT Officer - AN- Scale -KMTC 6 - 3 Posts** at Kenya Medical Training College (KMTC) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-ict-officer-an-scale-kmtc-6-3-posts-kenya-medical-training-college-kmtc
+- **Senior Project Officer MEAL - Marsabit & Turkana** at Catholic Relief (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-project-officer-meal-marsabit-turkana-catholic-relief
+- **Planning, Monitoring, Evaluation, Research and Learning Officer** at Transparency International - Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/planning-monitoring-evaluation-research-and-learning-officer-transparency-international-ndash-kenya
+- **Solution Architect** at Standard Bank Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/solution-architect-standard-bank-group/
+- **Specialist, IT Platform Support Operations** at NCBA Group (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/specialist-platform-support-operations-ncba-group/
+- **Senior Specialist, Fusion Financials – FMS** at Save the Children (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-specialist-fusion-financials-fms-save-children/
+- **IT Infrastructure, Support & Cybersecurity Lead** at Spinners and Spinners Ltd (S&S) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/infrastructure-support-cybersecurity-lead-spinners-spinners-ltd-ss/
+- **Audio-Visual Specialist** at icipe – International Centre of Insect Physiology and Ecology (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/audio-visual-specialist-icipe-international-centre-insect-physiology-ecology/
+- **Senior Project Officer MEAL – Marsabit & Turkana** at Catholic Relief (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-project-officer-meal-marsabit-turkana-catholic-relief/
+- **Planning, Monitoring, Evaluation, Research and Learning Officer** at Transparency International – Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/planning-monitoring-evaluation-research-learning-officer-transparency-international-kenya/
+- **Education Specialist (Learning and Skills Assessment)** at UNICEF (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/education-specialist-learning-skills-assessment-unicef/
