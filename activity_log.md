@@ -9969,3 +9969,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/planning-monitoring-evaluation-research-learning-officer-transparency-international-kenya/
 - **Education Specialist (Learning and Skills Assessment)** at UNICEF (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/education-specialist-learning-skills-assessment-unicef/
+
+## 2026-10-30 08:03 UTC — 4 new job(s)
+
+- **Software Engineer (PHP/Laravel)** at Salix Data (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-engineer-php-laravel-salix-data/
+- **WordPress Engineer** at TheJitu.com (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/wordpress-engineer-thejitu-com/
+- **Software Developer/Analyst** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-developer-analyst-international-rescue-committee-4/
+- **Office Administrator** at Bridge Talent Management (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/office-administrator-bridge-talent-management-2/
