@@ -9980,3 +9980,24 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/software-developer-analyst-international-rescue-committee-4/
 - **Office Administrator** at Bridge Talent Management (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/office-administrator-bridge-talent-management-2/
+
+## 2026-10-30 14:58 UTC — 9 new job(s)
+
+- **Senior Data Scientist, MNO Data** at GiveDirectly (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-data-scientist-mno-data-givedirectly
+- **Assistant Manager Information Security Systems** at Postbank (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/assistant-manager-information-security-systems-postbank
+- **Field Officer (Fixed Term Contract)** at GiveDirectly (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officer-fixed-term-contract-givedirectly-2
+- **Software Engineer (PHP/Laravel)** at Salix Data (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-engineer-php-laravel-salix-data/
+- **WordPress Engineer** at TheJitu.com (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/wordpress-engineer-thejitu-com/
+- **Senior Backend .NET Developer** at Tana (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-backend-net-developer-tana/
+- **Software Developer/Analyst** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-developer-analyst-international-rescue-committee-4/
+- **B2B Sales Executive – Enterprise Software & AML Solution** at CDL Human Resource (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/b2b-sales-executive-enterprise-software-aml-solution-cdl-human-resource/
+- **Office Administrator** at Bridge Talent Management (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/office-administrator-bridge-talent-management-2/
