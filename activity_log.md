@@ -10029,3 +10029,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/field-officer-internal-audit-fixed-term-kitui-kenya-givedirectly
 - **Monitoring, Evaluation & Learning Officer - HCI** at World Wide Fund for Nature (WWF) Kenya (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/monitoring-evaluation-learning-officer-hci-world-wide-fund-for-nature-wwf-kenya
+
+## 2026-10-31 14:17 UTC — 4 new job(s)
+
+- **Field Officer – Internal Audit (Fixed-Term), Magarini, Kenya** at GiveDirectly (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officer-internal-audit-fixed-term-magarini-kenya-givedirectly
+- **Field Officer – Internal Audit (Fixed-Term), Kitui, Kenya** at GiveDirectly (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officer-internal-audit-fixed-term-kitui-kenya-givedirectly
+- **Monitoring, Evaluation & Learning Officer - HCI** at World Wide Fund for Nature (WWF) Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-evaluation-learning-officer-hci-world-wide-fund-for-nature-wwf-kenya
+- **Senior Full Stack Developer (React/Node.js)** at Salix Data (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-full-stack-developer-react-node-js-salix-data/
