@@ -10020,3 +10020,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/b2b-sales-executive-enterprise-software-aml-solution-cdl-human-resource/
 - **Office Administrator** at Bridge Talent Management (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/office-administrator-bridge-talent-management-2/
+
+## 2026-10-31 07:57 UTC — 3 new job(s)
+
+- **Field Officer – Internal Audit (Fixed-Term), Magarini, Kenya** at GiveDirectly (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officer-internal-audit-fixed-term-magarini-kenya-givedirectly
+- **Field Officer – Internal Audit (Fixed-Term), Kitui, Kenya** at GiveDirectly (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officer-internal-audit-fixed-term-kitui-kenya-givedirectly
+- **Monitoring, Evaluation & Learning Officer - HCI** at World Wide Fund for Nature (WWF) Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-evaluation-learning-officer-hci-world-wide-fund-for-nature-wwf-kenya
