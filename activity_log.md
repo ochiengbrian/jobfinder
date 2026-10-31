@@ -10040,3 +10040,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/monitoring-evaluation-learning-officer-hci-world-wide-fund-for-nature-wwf-kenya
 - **Senior Full Stack Developer (React/Node.js)** at Salix Data (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-full-stack-developer-react-node-js-salix-data/
+
+## 2026-10-31 19:45 UTC — 1 new job(s)
+
+- **Senior Full Stack Developer (React/Node.js)** at Salix Data (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-full-stack-developer-react-node-js-salix-data/
