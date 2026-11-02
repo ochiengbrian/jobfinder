@@ -10056,3 +10056,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/monitoring-evaluation-learning-officer-hci-world-wide-fund-for-nature-wwf-kenya
 - **Senior Full Stack Developer (React/Node.js)** at Salix Data (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-full-stack-developer-react-node-js-salix-data/
+
+## 2026-11-02 20:01 UTC — 4 new job(s)
+
+- **Senior Frontend Developer** at Tana (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-frontend-developer-tana
+- **Senior Business Systems Analyst** at Tana (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-business-systems-analyst-tana/
+- **Deputy Director, Information Systems Audit** at Mount Kenya University (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/deputy-director-information-systems-audit-mount-kenya-university/
+- **Senior Officer – Transaction Monitoring and Payment Screening** at DIB Bank Kenya Limited (DIBBKE) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-officer-transaction-monitoring-payment-screening-dib-bank-kenya-limited-dibbke/
