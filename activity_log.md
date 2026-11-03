@@ -10078,3 +10078,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/monitoring-evaluation-and-learning-officer-snv-netherlands-development-organisation-1
 - **Software QA Intern** at BURN (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/software-qa-intern-burn/
+
+## 2026-11-03 17:34 UTC — 5 new job(s)
+
+- **Assistant Manager, Data Scientist** at I&M Bank (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/assistant-manager-data-scientist-i-m-bank
+- **Data Analyst, Shopper Insights** at Mondelez International (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-shopper-insights-mondelez-international
+- **AI Engineers** at Craft Silicon (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-engineers-craft-silicon
+- **Monitoring Evaluation and Learning Officer** at SNV Netherlands Development Organisation (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-evaluation-and-learning-officer-snv-netherlands-development-organisation-1
+- **Software QA Intern** at BURN (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-qa-intern-burn/
