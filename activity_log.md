@@ -10067,3 +10067,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/deputy-director-information-systems-audit-mount-kenya-university/
 - **Senior Officer – Transaction Monitoring and Payment Screening** at DIB Bank Kenya Limited (DIBBKE) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-officer-transaction-monitoring-payment-screening-dib-bank-kenya-limited-dibbke/
+
+## 2026-11-03 09:10 UTC — 4 new job(s)
+
+- **Data Analyst, Shopper Insights** at Mondelez International (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-shopper-insights-mondelez-international
+- **AI Engineers** at Craft Silicon (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ai-engineers-craft-silicon
+- **Monitoring Evaluation and Learning Officer** at SNV Netherlands Development Organisation (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-evaluation-and-learning-officer-snv-netherlands-development-organisation-1
+- **Software QA Intern** at BURN (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-qa-intern-burn/
