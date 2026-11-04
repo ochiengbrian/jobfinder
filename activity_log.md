@@ -10106,3 +10106,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/tutorial-fellows-software-engineering-zetech-university
 - **Software QA Intern** at BURN (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/software-qa-intern-burn/
+
+## 2026-11-04 13:45 UTC — 2 new job(s)
+
+- **Assistant Manager, Data Scientist** at I&M Bank (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/assistant-manager-data-scientist-im-bank/
+- **Solar Inverter Activation and Audit Officer** at Sun King (Formerly Greenlight Planet) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/solar-inverter-activation-audit-officer-sun-king-formerly-greenlight-planet/
