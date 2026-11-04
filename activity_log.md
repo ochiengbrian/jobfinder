@@ -10113,3 +10113,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/assistant-manager-data-scientist-im-bank/
 - **Solar Inverter Activation and Audit Officer** at Sun King (Formerly Greenlight Planet) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/solar-inverter-activation-audit-officer-sun-king-formerly-greenlight-planet/
+
+## 2026-11-04 20:44 UTC — 7 new job(s)
+
+- **Junior Software Engineer (50k)** at Sheer Logic (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/junior-software-engineer-50k-sheer-logistics
+- **Consultant – Software Engineer** at Living Goods (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/consultant-software-engineer-living-goods
+- **Project Officer - Isiolo (ASCEND Project)** at Village Enterprise (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officer-isiolo-ascend-project-village-enterprise
+- **Project Officer - Kakuma (ASCEND Project)** at Village Enterprise (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officer-kakuma-ascend-project-village-enterprise
+- **Assistant Manager, Data Scientist** at I&M Bank (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/assistant-manager-data-scientist-im-bank/
+- **Solar Inverter Activation and Audit Officer** at Sun King (Formerly Greenlight Planet) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/solar-inverter-activation-audit-officer-sun-king-formerly-greenlight-planet/
+- **Business Development Officer** at Adjacent Possible Finance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-adjacent-possible-finance/
