@@ -10156,3 +10156,16 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/monitoring-evaluation-learning-officer-hci-world-wide-fund-nature-wwf-kenya/
 - **Financial Operations & Accounting Administrator** at Kiva (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/financial-operations-accounting-administrator-kiva-2/
+
+## 2026-11-05 23:14 UTC — 5 new job(s)
+
+- **Software Developer** at Jumba (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-developer-jumba
+- **Cloud Engineer** at APA Life Assurance Company Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/cloud-engineer-apa-life-assurance-company-ltd
+- **Junior Software Engineer (50k)** at Sheer Logic (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/junior-software-engineer-50k-sheer-logic/
+- **Monitoring, Evaluation & Learning Officer – HCI** at World Wide Fund for Nature (WWF) Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/monitoring-evaluation-learning-officer-hci-world-wide-fund-nature-wwf-kenya/
+- **Financial Operations & Accounting Administrator** at Kiva (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/financial-operations-accounting-administrator-kiva-2/
