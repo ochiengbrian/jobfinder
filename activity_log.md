@@ -10188,3 +10188,28 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/monitoring-evaluation-accountability-and-learning-meal-officer-catholic-archdiocese-of-mombasa
 - **Junior NOC Engineer** at CIC Insurance (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/junior-noc-engineer-cic-insurance/
+
+## 2026-11-06 20:18 UTC — 11 new job(s)
+
+- **Junior Data Scientist** at Pezesha (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/junior-data-scientist-pezesha-3
+- **Project Analyst - Data Visualization** at Catholic Relief (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-analyst-data-visualization-catholic-relief
+- **Programme Development Officer (SHIFT Africa) (P)** at International Organization for Migration (IOM) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/programme-development-officer-shift-africa-p-international-organization-for-migration-iom
+- **Project Officer** at Catholic Archdiocese Of Mombasa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officer-catholic-archdiocese-of-mombasa
+- **Observability & Automation Engineer** at CIC Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/observability-automation-engineer-cic-insurance/
+- **Senior NOC Engineer** at CIC Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-noc-engineer-cic-insurance/
+- **Junior NOC Engineer** at CIC Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/junior-noc-engineer-cic-insurance-2/
+- **Customer Success Engineer (Network Security)** at Tana (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/customer-success-engineer-network-security-tana/
+- **Customer Success Engineering Team Lead (Network Security)** at Tana (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/customer-success-engineering-team-lead-network-security-tana/
+- **Project Analyst – Data Visualization** at Catholic Relief (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/project-analyst-data-visualization-catholic-relief/
+- **Information Management Analyst** at Catholic Relief (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-management-analyst-catholic-relief/
