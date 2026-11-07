@@ -10213,3 +10213,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/project-analyst-data-visualization-catholic-relief/
 - **Information Management Analyst** at Catholic Relief (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/information-management-analyst-catholic-relief/
+
+## 2026-11-07 08:14 UTC — 1 new job(s)
+
+- **Global Humanitarian Director** at Plan International (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/global-humanitarian-director-plan-international
