@@ -10218,3 +10218,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Global Humanitarian Director** at Plan International (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/global-humanitarian-director-plan-international
+
+## 2026-11-07 16:07 UTC — 1 new job(s)
+
+- **Data Centre Engineer** at PAIX Data Centres (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-centre-engineer-paix-data-centres
