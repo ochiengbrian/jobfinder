@@ -10223,3 +10223,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Data Centre Engineer** at PAIX Data Centres (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/data-centre-engineer-paix-data-centres
+
+## 2026-11-07 21:25 UTC — 1 new job(s)
+
+- **Data Centre Engineer** at PAIX Data Centres (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-centre-engineer-paix-data-centres
