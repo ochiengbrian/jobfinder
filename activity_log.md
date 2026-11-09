@@ -10233,3 +10233,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Global Humanitarian Director** at Plan International (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/global-humanitarian-director-plan-international/
+
+## 2026-11-09 20:27 UTC — 6 new job(s)
+
+- **Senior Azure Data Engineering Expert** at Andishi (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-azure-data-engineering-expert-andishi
+- **Public Health and Humanitarian Medicine Director** at Medecins Sans Frontieres (MSF) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/public-health-and-humanitarian-medicine-director-medecins-sans-frontieres-msf
+- **Data Centre Engineer** at PAIX Data Centres (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-centre-engineer-paix-data-centres/
+- **Branch Administrator (Nakuru Branch)** at Jubilee Insurance (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/branch-administrator-nakuru-branch-jubilee-insurance/
+- **EBKL: Business Development Manager/ Specialist – Creative Economy** at Equity Bank Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ebkl-business-development-manager-specialist-creative-economy-equity-bank-kenya/
+- **Global Humanitarian Director** at Plan International (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/global-humanitarian-director-plan-international/
