@@ -10248,3 +10248,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/ebkl-business-development-manager-specialist-creative-economy-equity-bank-kenya/
 - **Global Humanitarian Director** at Plan International (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/global-humanitarian-director-plan-international/
+
+## 2026-11-10 12:07 UTC — 2 new job(s)
+
+- **Data Analyst** at Vermi-Farm Initiative (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-vermi-farm-initiative
+- **IT Systems Support & Developer** at AMCCO Properties (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/systems-support-developer-amcco-properties/
