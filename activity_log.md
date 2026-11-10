@@ -10255,3 +10255,24 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/data-analyst-vermi-farm-initiative
 - **IT Systems Support & Developer** at AMCCO Properties (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/systems-support-developer-amcco-properties/
+
+## 2026-11-10 20:47 UTC — 9 new job(s)
+
+- **Data Analyst** at Vermi-Farm Initiative (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-vermi-farm-initiative
+- **Software Engineer and Artificial Intelligence Lead** at Center for Global Health and Pandemic Intelligence (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-and-artificial-intelligence-lead-center-for-global-health-and-pandemic-intelligence
+- **Senior Software Developer** at Bridge Talent Management (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-software-developer-bridge-talent
+- **Junior Software Developer** at Bridge Talent Management (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/junior-software-developer-bridge-talent
+- **Digital Communication and Cybersecurity Specialist** at Center for Global Health and Pandemic Intelligence (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/digital-communication-and-cybersecurity-specialist-center-for-global-health-and-pandemic-intelligence
+- **Field Officer** at BM Security (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officer-bm-security
+- **Senior Azure Data Engineering Expert** at Andishi (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-azure-data-engineering-expert-andishi/
+- **IT Systems Support & Developer** at AMCCO Properties (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/systems-support-developer-amcco-properties/
+- **Marketing Administrator & Operations Officer** at Knight Frank Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/marketing-administrator-operations-officer-knight-frank-kenya/
