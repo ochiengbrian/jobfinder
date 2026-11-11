@@ -10276,3 +10276,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/systems-support-developer-amcco-properties/
 - **Marketing Administrator & Operations Officer** at Knight Frank Kenya (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/marketing-administrator-operations-officer-knight-frank-kenya/
+
+## 2026-11-11 08:50 UTC — 3 new job(s)
+
+- **Senior Backend Engineer II & III (.NET)** at M-KOPA Solar (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-backend-engineer-ii-iii-net-m-kopa-solar
+- **Senior Evaluation Officer, P5** at United Nations Environment Programme (UNEP) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-evaluation-officer-p5-united-nations-environment-programme-unep
+- **Field Officer - Sourcing** at TakaTaka Solutions (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officer-sourcing-takataka-solutions-2
