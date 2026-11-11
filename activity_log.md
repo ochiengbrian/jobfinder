@@ -10285,3 +10285,50 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/senior-evaluation-officer-p5-united-nations-environment-programme-unep
 - **Field Officer - Sourcing** at TakaTaka Solutions (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/field-officer-sourcing-takataka-solutions-2
+
+## 2026-11-11 17:44 UTC — 22 new job(s)
+
+- **Data Analyst** at Ideon Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-ideon-limited-1
+- **Senior Backend Engineer II & III (.NET)** at M-KOPA Solar (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-backend-engineer-ii-iii-net-m-kopa-solar
+- **DevOps Engineer** at Onfon Media (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/devops-engineer-onfon-media
+- **ICT Officer II, Cybersecurity** at Digital Health Agency (DHA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-ii-cybersecurity-digital-health-agency-dha
+- **ICT Officer I, Cybersecurity** at Digital Health Agency (DHA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-i-cybersecurity-digital-health-agency-dha
+- **ICT Officer I, Enterprise Infrastructure** at Digital Health Agency (DHA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-i-enterprise-infrastructure-digital-health-agency-dha
+- **ICT Officer II, Software Development** at Digital Health Agency (DHA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-ii-software-development-digital-health-agency-dha
+- **ICT Officer II, Enterprise Infrastructure** at Digital Health Agency (DHA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-ii-enterprise-infrastructure-digital-health-agency-dha
+- **IT Officer** at International Rescue Committee (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/it-officer-international-rescue-committee-2
+- **Senior Evaluation Officer, P5** at United Nations Environment Programme (UNEP) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-evaluation-officer-p5-united-nations-environment-programme-unep
+- **Field Officer** at CDL Human Resource (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officer-cdl-human-resouce
+- **Field Officer - Sourcing** at TakaTaka Solutions (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officer-sourcing-takataka-solutions-2
+- **Monitoring & Evaluation Officer - Africa Rural Climate Adaptation Finance Mechanism -** at Equity Bank Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-evaluation-officer-africa-rural-climate-adaptation-finance-mechanism-equity-bank-kenya
+- **Procurement Specialist & Systems Analyst** at Lake Turkana Wind Power (LTWP) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/procurement-specialist-systems-analyst-lake-turkana-wind-power-ltwp/
+- **AI and Automation Developer** at Salix Data (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ai-automation-developer-salix-data/
+- **ICT Administrator** at Kenchic Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/ict-administrator-kenchic-limited/
+- **Field Officer – Sourcing** at TakaTaka Solutions (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/field-officer-sourcing-takataka-solutions-2/
+- **Hospital Administrator** at Catholic Diocese of Kitale (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/hospital-administrator-catholic-diocese-kitale/
+- **Health Supply Chain Specialist** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/health-supply-chain-specialist-international-rescue-committee/
+- **Power Generator/Electronics Technician** at Culemen International (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/power-generator-electronics-technician-culemen-international/
+- **Surveillance Technician/Escort** at Culemen International (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/surveillance-technician-escort-culemen-international/
+- **MAAS/Heavy Mechanical Specialist** at Culemen International (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/maas-heavy-mechanical-specialist-culemen-international/
