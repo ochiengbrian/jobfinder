@@ -10381,3 +10381,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/surveillance-technician-escort-culemen-international/
 - **MAAS/Heavy Mechanical Specialist** at Culemen International (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/maas-heavy-mechanical-specialist-culemen-international/
+
+## 2026-11-12 05:48 UTC — 2 new job(s)
+
+- **Fullstack Developer (6 months Fixed Term Contract)** at Britam (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/fullstack-developer-6-months-fixed-term-contract-britam-1
+- **ICT/IT Officer** at Nanyuki Cottage Hospital (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-it-officer-nanyuki-cottage-hospital
