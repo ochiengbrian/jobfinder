@@ -10405,3 +10405,22 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/ict-it-officer-nanyuki-cottage-hospital
 - **Monitoring Evaluation Accountability &Learning (MEAL) Officer** at IsraAID (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/monitoring-evaluation-accountability-learning-meal-officer-israaid
+
+## 2026-11-12 22:05 UTC — 8 new job(s)
+
+- **GIS Data Analyst** at Genesis Analytics (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/gis-data-analyst-genesis-analytics
+- **Fullstack Developer (6 months Fixed Term Contract)** at Britam (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/fullstack-developer-6-months-fixed-term-contract-britam-1
+- **Deputy Director, Cybersecurity** at Digital Health Agency (DHA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/deputy-director-cybersecurity-digital-health-agency-dha
+- **ICT Officer I, Software Development** at Digital Health Agency (DHA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-i-software-development-digital-health-agency-dha
+- **Senior ICT Officer, Network and Connectivity** at Digital Health Agency (DHA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-ict-officer-network-and-connectivity-digital-health-agency-dha
+- **ICT/IT Officer** at Nanyuki Cottage Hospital (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-it-officer-nanyuki-cottage-hospital
+- **Monitoring Evaluation Accountability &Learning (MEAL) Officer** at IsraAID (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-evaluation-accountability-learning-meal-officer-israaid
+- **Lead, Humanitarian Advocacy** at Save the Children (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/lead-humanitarian-advocacy-save-the-children
