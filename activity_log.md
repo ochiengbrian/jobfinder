@@ -10443,3 +10443,30 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/property-administrator-icolo-digital-realty-company/
 - **Lead, Humanitarian Advocacy** at Save the Children (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/lead-humanitarian-advocacy-save-children/
+
+## 2026-11-13 19:10 UTC — 12 new job(s)
+
+- **Forensic Technology & Data Analyst** at Onfon Mobile (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/forensic-technology-data-analyst-onfon-mobile
+- **DevOps Engineer** at Onfon Mobile (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/devops-engineer-onfon-mobile
+- **Assistant ICT Officer (Instructional Designer)** at University of Embu (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/assistant-ict-officer-instructional-designer-university-of-embu
+- **IT Officer** at Ignite Energy Access (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/it-officer-ignite-energy-access
+- **Program Officer – Democratic Governance** at Haki Yetu Charitable Trust (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/program-officer-democratic-governance-haki-yetu-charitable-trust
+- **Assistant Program Officer – Climate Justice** at Haki Yetu Charitable Trust (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/assistant-program-officer-climate-justice-haki-yetu-charitable-trust
+- **Senior Monitoring, Evaluation, Research and Learning (MERL) Officer** at World University Service of Canada (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-monitoring-evaluation-research-and-learning-merl-officer-world-university-service-of-canada
+- **Trainers - Social Work & Community Development - 6 Posts** at Kabete National Polytechnic (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/trainers-social-work-community-development-6-posts-kabete-national-polytechnic
+- **Manager – Transaction Monitoring** at Equity Bank Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/manager-transaction-monitoring-equity-bank-kenya/
+- **Senior AML Manager – Transaction Monitoring** at Equity Bank Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-aml-manager-transaction-monitoring-equity-bank-kenya/
+- **Property Administrator** at iColo: A Digital Realty Company (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/property-administrator-icolo-digital-realty-company/
+- **Lead, Humanitarian Advocacy** at Save the Children (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/lead-humanitarian-advocacy-save-children/
