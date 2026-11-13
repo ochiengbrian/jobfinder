@@ -10424,3 +10424,22 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/monitoring-evaluation-accountability-learning-meal-officer-israaid
 - **Lead, Humanitarian Advocacy** at Save the Children (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/lead-humanitarian-advocacy-save-the-children
+
+## 2026-11-13 11:53 UTC — 8 new job(s)
+
+- **Forensic Technology & Data Analyst** at Onfon Mobile (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/forensic-technology-data-analyst-onfon-mobile
+- **DevOps Engineer** at Onfon Mobile (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/devops-engineer-onfon-mobile
+- **Program Officer – Democratic Governance** at Haki Yetu Charitable Trust (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/program-officer-democratic-governance-haki-yetu-charitable-trust
+- **Assistant Program Officer – Climate Justice** at Haki Yetu Charitable Trust (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/assistant-program-officer-climate-justice-haki-yetu-charitable-trust
+- **Senior Monitoring, Evaluation, Research and Learning (MERL) Officer** at World University Service of Canada (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-monitoring-evaluation-research-and-learning-merl-officer-world-university-service-of-canada
+- **Trainers - Social Work & Community Development - 6 Posts** at Kabete National Polytechnic (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/trainers-social-work-community-development-6-posts-kabete-national-polytechnic
+- **Property Administrator** at iColo: A Digital Realty Company (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/property-administrator-icolo-digital-realty-company/
+- **Lead, Humanitarian Advocacy** at Save the Children (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/lead-humanitarian-advocacy-save-children/
