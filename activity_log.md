@@ -10470,3 +10470,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/property-administrator-icolo-digital-realty-company/
 - **Lead, Humanitarian Advocacy** at Save the Children (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/lead-humanitarian-advocacy-save-children/
+
+## 2026-11-14 08:32 UTC — 3 new job(s)
+
+- **Lead Software Developer, Corporate Development Portal** at Hugo Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/lead-software-developer-corporate-development-portal-hugo-kenya
+- **Sales Specialist** at AMEX Healthcare (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/sales-specialist-amex-healthcare/
+- **Operations Specialist** at AMEX Healthcare (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/operations-specialist-amex-healthcare/
