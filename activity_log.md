@@ -10501,3 +10501,22 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/sales-specialist-amex-healthcare/
 - **Operations Specialist** at AMEX Healthcare (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/operations-specialist-amex-healthcare/
+
+## 2026-11-16 14:38 UTC — 8 new job(s)
+
+- **Data Analyst** at African Management Institute (AMI) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-african-management-institute-ami-1
+- **Senior Data Engineer** at African Management Institute (AMI) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-data-engineer-african-management-institute-ami
+- **Hardware & Embedded Systems Engineer** at Data Integrated Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/hardware-embedded-systems-engineer-data-integrated-limited
+- **Digital Marketing & IT Officer** at Powervision Consultancy (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/digital-marketing-it-officer-powervision-consultancy
+- **Field Officer** at Talent Grid Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officer-talent-grid-africa
+- **Senior Analytics Engineer** at African Management Institute (AMI) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-analytics-engineer-african-management-institute-ami/
+- **Solutions Engineer – Kenya** at Cisco (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/solutions-engineer-kenya-cisco/
+- **Internet Protocol Engineer** at Liquid Intelligent Technologies (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/internet-protocol-engineer-liquid-intelligent-technologies/
