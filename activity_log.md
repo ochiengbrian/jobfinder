@@ -10541,3 +10541,8 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/solutions-engineer-kenya-cisco/
 - **Internet Protocol Engineer** at Liquid Intelligent Technologies (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/internet-protocol-engineer-liquid-intelligent-technologies/
+
+## 2026-11-17 06:32 UTC — 1 new job(s)
+
+- **Monitoring and Evaluation Officer (Anticipatory Action), SC9** at World Food Programme (WFP) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-and-evaluation-officer-anticipatory-action-sc9-world-food-programme-wfp-1
