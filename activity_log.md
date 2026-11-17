@@ -10520,3 +10520,24 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/solutions-engineer-kenya-cisco/
 - **Internet Protocol Engineer** at Liquid Intelligent Technologies (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/internet-protocol-engineer-liquid-intelligent-technologies/
+
+## 2026-11-17 00:03 UTC — 9 new job(s)
+
+- **Data Analyst** at African Management Institute (AMI) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-african-management-institute-ami-1
+- **Senior Data Engineer** at African Management Institute (AMI) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-data-engineer-african-management-institute-ami
+- **Hardware & Embedded Systems Engineer** at Data Integrated Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/hardware-embedded-systems-engineer-data-integrated-limited
+- **Lecturer/ Assistant Professor in Machine Learning and Big Data/ Data Science** at United States International University - USIU Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/lecturer-assistant-professor-in-machine-learning-and-big-data-data-science-united-states-international-university-usiu-africa
+- **Digital Marketing & IT Officer** at Powervision Consultancy (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/digital-marketing-it-officer-powervision-consultancy
+- **Field Officer** at Talent Grid Africa (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officer-talent-grid-africa
+- **Senior Analytics Engineer** at African Management Institute (AMI) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-analytics-engineer-african-management-institute-ami/
+- **Solutions Engineer – Kenya** at Cisco (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/solutions-engineer-kenya-cisco/
+- **Internet Protocol Engineer** at Liquid Intelligent Technologies (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/internet-protocol-engineer-liquid-intelligent-technologies/
