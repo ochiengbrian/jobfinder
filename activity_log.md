@@ -10546,3 +10546,20 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
 
 - **Monitoring and Evaluation Officer (Anticipatory Action), SC9** at World Food Programme (WFP) (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/monitoring-and-evaluation-officer-anticipatory-action-sc9-world-food-programme-wfp-1
+
+## 2026-11-17 17:24 UTC — 7 new job(s)
+
+- **Group Chief Information Security Officer** at Old Mutual Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/group-chief-information-security-officer-old-mutual-kenya
+- **Monitoring and Evaluation Officer (Anticipatory Action), SC9** at World Food Programme (WFP) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-and-evaluation-officer-anticipatory-action-sc9-world-food-programme-wfp-1
+- **Lecturer – Computer Science** at The East African University (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/lecturer-computer-science-east-african-university/
+- **Bid Manager & Tender Specialist** at West Indian Ocean Cable Company (WIOCC) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/bid-manager-tender-specialist-west-indian-ocean-cable-company-wiocc/
+- **Business Development Officer, Broker** at Liberty Life (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-broker-liberty-life/
+- **Credit Officer** at Siraji Sacco (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/credit-officer-siraji-sacco/
+- **Business Development Officer (Voi)** at Equity Afia (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officer-voi-equity-afia/
