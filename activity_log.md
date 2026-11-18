@@ -10570,3 +10570,22 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/ict-officer-ii-the-public-procurement-regulatory-authority-ppra
 - **Social Work / Community Development Trainer – 2 Posts** at Machakos Institute of Technology (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/social-work-community-development-trainer-2-posts-machakos-institute-of-technology
+
+## 2026-11-18 18:44 UTC — 8 new job(s)
+
+- **Data Acquisition Engineer** at Spiro (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-acquisition-engineer-spiro-1
+- **ICT Officer II** at The Public Procurement Regulatory Authority (PPRA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-ii-the-public-procurement-regulatory-authority-ppra
+- **System Administrator I** at Bomet University College (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/system-administrator-i-bomet-university-college
+- **Technical Sales & Project Officer -Roofing Solutions (Dealers Of Roofing Solutions)** at Skills Geographic Kenya (SGK) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/technical-sales-and-project-officer-roofing-solutions-dealers-of-roofing-solutions-skills-geographic-kenya-sgk
+- **Social Work / Community Development Trainer – 2 Posts** at Machakos Institute of Technology (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/social-work-community-development-trainer-2-posts-machakos-institute-of-technology
+- **Employee Relations and Governance Specialist** at The Coca-Cola Company (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/employee-relations-governance-specialist-coca-cola-company/
+- **Group Chief Information Security Officer** at Old Mutual Kenya (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/group-chief-information-security-officer-old-mutual-kenya/
+- **Information Technology Supervisor** at Twyford Tile (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/information-technology-supervisor-twyford-tile/
