@@ -10563,3 +10563,10 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/credit-officer-siraji-sacco/
 - **Business Development Officer (Voi)** at Equity Afia (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/business-development-officer-voi-equity-afia/
+
+## 2026-11-18 09:43 UTC — 2 new job(s)
+
+- **ICT Officer II** at The Public Procurement Regulatory Authority (PPRA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-officer-ii-the-public-procurement-regulatory-authority-ppra
+- **Social Work / Community Development Trainer – 2 Posts** at Machakos Institute of Technology (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/social-work-community-development-trainer-2-posts-machakos-institute-of-technology
