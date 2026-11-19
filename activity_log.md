@@ -10600,3 +10600,18 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/data-acquisition-engineer-spiro/
 - **Business Development Officers** at SMEP Microfinance Bank (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/business-development-officers-smep-microfinance-bank-5/
+
+## 2026-11-19 18:53 UTC — 6 new job(s)
+
+- **ICT Risk & Cyber Security Officer** at PACIS Insurance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-risk-and-cyber-security-officer-pacis-insurance
+- **Monitoring, Evaluation, and Learning Lead** at African Population And Health Research Center (APHRC) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-evaluation-and-learning-lead-african-population-and-health-research-center-aphrc
+- **Data Acquisition Engineer** at Spiro (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-acquisition-engineer-spiro/
+- **Head of Workplace Engineering** at M-KOPA Solar (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/head-workplace-engineering-m-kopa-solar/
+- **Regional Business Development Officer** at Bridge Talent Management (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/regional-business-development-officer-bridge-talent-management/
+- **Business Development Officers** at SMEP Microfinance Bank (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officers-smep-microfinance-bank-5/
