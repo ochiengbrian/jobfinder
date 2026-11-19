@@ -10589,3 +10589,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/group-chief-information-security-officer-old-mutual-kenya/
 - **Information Technology Supervisor** at Twyford Tile (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/information-technology-supervisor-twyford-tile/
+
+## 2026-11-19 09:54 UTC — 4 new job(s)
+
+- **ICT Risk & Cyber Security Officer** at PACIS Insurance (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/ict-risk-and-cyber-security-officer-pacis-insurance
+- **Monitoring, Evaluation, and Learning Lead** at African Population And Health Research Center (APHRC) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-evaluation-and-learning-lead-african-population-and-health-research-center-aphrc
+- **Data Acquisition Engineer** at Spiro (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-acquisition-engineer-spiro/
+- **Business Development Officers** at SMEP Microfinance Bank (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-officers-smep-microfinance-bank-5/
