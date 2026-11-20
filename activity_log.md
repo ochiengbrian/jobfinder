@@ -10615,3 +10615,22 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/regional-business-development-officer-bridge-talent-management/
 - **Business Development Officers** at SMEP Microfinance Bank (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/business-development-officers-smep-microfinance-bank-5/
+
+## 2026-11-20 09:38 UTC — 8 new job(s)
+
+- **Operations Admin & Canteen Data Analyst** at BURN (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/operations-admin-and-canteen-data-analyst-burn
+- **Software Engineer & Applications Officer** at Caritas MFB (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-engineer-and-applications-officer-caritas-mfb
+- **Senior Software Developer** at Palladium International (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-software-developer-palladium-international-2
+- **Project Officer-Food Assistance** at World Vision Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officer-food-assistance-world-vision-kenya
+- **Project Officer-Humanitarian Information and Reporting** at World Vision Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officer-humanitarian-information-and-reporting-world-vision-kenya-1
+- **Junior AI Product Development Specialist** at KiliMax Software (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/junior-ai-product-development-specialist-kilimax-software/
+- **P&C Design and Change Management Specialist** at International Rescue Committee (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/pc-design-change-management-specialist-international-rescue-committee-2/
+- **MERL and AAP Specialist. OPT** at Plan International (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/merl-aap-specialist-opt-plan-international/
