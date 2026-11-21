@@ -10670,3 +10670,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/infrastructure-security-engineer-kopo-kopo-inc/
 - **Broadcast Engineer** at Mediamax Network Limited (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/broadcast-engineer-mediamax-network-limited-2/
+
+## 2026-11-21 17:09 UTC — 4 new job(s)
+
+- **IT Support Officer – Systems & Network Administration** at Nutrawell Africa Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/it-support-officer-systems-and-network-administration
+- **Software Engineer & Applications Officer** at Caritas MFB (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/software-engineer-applications-officer-caritas-mfb/
+- **Infrastructure & Security Engineer** at Kopo Kopo Inc (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/infrastructure-security-engineer-kopo-kopo-inc/
+- **Broadcast Engineer** at Mediamax Network Limited (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/broadcast-engineer-mediamax-network-limited-2/
