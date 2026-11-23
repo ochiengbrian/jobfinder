@@ -10692,3 +10692,22 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/infrastructure-security-engineer-kopo-kopo-inc/
 - **Broadcast Engineer** at Mediamax Network Limited (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/broadcast-engineer-mediamax-network-limited-2/
+
+## 2026-11-23 14:03 UTC — 8 new job(s)
+
+- **Data Engineer** at APA Life Assurance Company Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-engineer-apa-life-assurance-company-ltd
+- **IT Support Officer** at Women's Empowerment Link (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/it-support-officer-women-rsquo-s-empowerment-link-1
+- **IT Officer Systems & Technical Support** at Kikwetu Flowers (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/it-officer-systems-and-technical-support-kikwetu-flowers
+- **Project Officer-Humanitarian Information and Reporting** at World Vision Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officer-humanitarian-information-and-reporting-world-vision-kenya-2
+- **Assistant Project Officer (Clerk of Works) -Water & Construction (Open to Local Residents of Turkana County)** at World Vision Kenya (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/assistant-project-officer-clerk-of-works-water-and-construction-open-to-local-residents-of-turkana-county-world-vision-kenya
+- **Senior Research Scientist** at Microsoft (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-research-scientist-microsoft/
+- **Business Development Specialist II, Business Development Pricer** at Catholic Relief (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/business-development-specialist-ii-business-development-pricer-catholic-relief/
+- **Senior Security Solution Architect – Enterprise Business** at Airtel (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-security-solution-architect-enterprise-business-airtel/
