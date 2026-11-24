@@ -10734,3 +10734,14 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/assistant-office-administrator-ii-africa-management-solutions-limited-amsol/
 - **Senior Business Analyst – Cost Optimization Initiative** at Save the Children (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-business-analyst-cost-optimization-initiative-save-children/
+
+## 2026-11-24 21:56 UTC — 4 new job(s)
+
+- **Assistant Manager, Data Engineer** at I&M Bank (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/assistant-manager-data-engineer-i-m-bank
+- **Database Developer** at Cigna (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/database-developer-cigna-2
+- **Field Officer** at Excelon Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-officer-excelon-limited
+- **Attachment/ Internship- Monitoring & Evaluation** at Kenya Revenue Authority (KRA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/attachment-monitoring-and-evaluation-kenya-revenue-authority-kra
