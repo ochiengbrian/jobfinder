@@ -10711,3 +10711,26 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/business-development-specialist-ii-business-development-pricer-catholic-relief/
 - **Senior Security Solution Architect – Enterprise Business** at Airtel (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/senior-security-solution-architect-enterprise-business-airtel/
+
+## 2026-11-24 12:01 UTC — 10 new job(s)
+
+- **Database Developer** at Cigna (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/database-developer-cigna-2
+- **Attachment/ Internship- Monitoring & Evaluation** at Kenya Revenue Authority (KRA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/attachment-monitoring-and-evaluation-kenya-revenue-authority-kra
+- **Data Engineer** at APA Life Assurance Company Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/data-engineer-apa-life-assurance-company-ltd/
+- **Lead Analyst – Data Operations** at Sun King (Formerly Greenlight Planet) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/lead-analyst-data-operations-sun-king-formerly-greenlight-planet-3/
+- **Investigation Specialist (Investigator)-[Open to all Applicants]** at United Nations Development Programme (UNDP) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/investigation-specialist-investigator-open-applicants-united-nations-development-programme-undp/
+- **DevOps Engineer** at Talent Match Africa (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/devops-engineer-talent-match-africa/
+- **IT Officer Systems & Technical Support** at Kikwetu Flowers (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/officer-systems-technical-support-kikwetu-flowers/
+- **IT Support Officer** at Women’s Empowerment Link (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/support-officer-womens-empowerment-link/
+- **Assistant Office Administrator II** at Africa Management Solutions Limited (AMSOL) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/assistant-office-administrator-ii-africa-management-solutions-limited-amsol/
+- **Senior Business Analyst – Cost Optimization Initiative** at Save the Children (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-business-analyst-cost-optimization-initiative-save-children/
