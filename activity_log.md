@@ -10745,3 +10745,28 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://www.myjobmag.co.ke/job/field-officer-excelon-limited
 - **Attachment/ Internship- Monitoring & Evaluation** at Kenya Revenue Authority (KRA) (Kenya) [MyJobMag]  
   https://www.myjobmag.co.ke/job/attachment-monitoring-and-evaluation-kenya-revenue-authority-kra
+
+## 2026-11-25 16:45 UTC — 11 new job(s)
+
+- **Faculty IT, Computer Science, Software Engineering, Data Science And Mathematics-Senior Lecturers/Lecturers** at Zetech University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/faculty-it-computer-science-software-engineering-data-science-and-mathematics-senior-lecturers-lecturers-zetech-university
+- **Faculty IT, Computer Science, Software Engineering, Data Science And Mathematics-Tutorial Fellows** at Zetech University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/faculty-it-computer-science-software-engineering-data-science-and-mathematics-tutorial-fellows-zetech-university
+- **Software Developer Intern** at Softclans Technologies Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/software-developer-intern-softclans-technologies-limited-8
+- **DevOps Engineer** at Kiwami Tech Solutions Ltd (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/devops-engineer-kiwami-tech-solutions-ltd
+- **Associate Systems and Network Administrator** at Strathmore University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/associate-systems-and-network-administrator-strathmore-university
+- **Monitoring, Evaluation, and Learning Lead** at African Population And Health Research Center (APHRC) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-evaluation-and-learning-lead-african-population-and-health-research-center-aphrc-1
+- **BSc Project Planning and Management/Operations Management/Health Systems Management/Monitoring and Evaluation Internship - Nairobi** at Kenya Medical Research - KEMRI (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/bsc-project-planning-and-management-operations-management-health-systems-management-monitoring-and-evaluation-internship-nairobi-kemya-medical-research-kemri
+- **Monitoring Evaluation Accountability & Learning Officer (National Position)** at AVSI Foundation (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/monitoring-evaluation-accountability-and-learning-officer-national-position-avsi-foundation
+- **Attachment/ Internship- Monitoring & Evaluation** at Kenya Revenue Authority (KRA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/attachment-internship-monitoring-and-evaluation-kenya-revenue-authority-kra
+- **Assistant Manager, Data Engineer** at I&M Bank (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/assistant-manager-data-engineer-im-bank/
+- **Political and Digital Risk Analyst [Open to Internal and External Applicants]** at United Nations Development Programme (UNDP) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/political-digital-risk-analyst-open-internal-external-applicants-united-nations-development-programme-undp/
