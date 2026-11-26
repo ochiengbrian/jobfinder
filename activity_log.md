@@ -10779,3 +10779,22 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/hris-administrator-client-site-skillmind-software-ltd/
 - **Principal Research Scientist and Director of Health Research** at Innovations for Poverty Action (IPA) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/principal-research-scientist-director-health-research-innovations-poverty-action-ipa/
+
+## 2026-11-26 20:55 UTC — 8 new job(s)
+
+- **Application Support Engineer** at Network International (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/application-support-engineer-network-international-2
+- **Program Officer-Business Development** at Danish Refugee Council (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/program-officer-business-development-danish-refugee-council
+- **Nutrition Project Officer** at Climate and Health Connect (CHC) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/nutrition-project-officer-climate-and-health-connect-chc
+- **Senior Officer - Monitoring, Evaluation and Learning (MEL)** at African Wildlife Foundation (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/senior-officer-monitoring-evaluation-and-learning-mel-african-wildlife-foundation
+- **Social Work/Community Development Trainer** at Kenya Institute of Social Work and Community Development (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/social-work-community-development-trainer-kenya-institute-of-social-work-and-community-development
+- **Principal Research Scientist and Director of Health Research** at Innovations for Poverty Action (IPA) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/principal-research-scientist-director-health-research-innovations-poverty-action-ipa/
+- **HRIS Administrator – Client Site** at Skillmind Software Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/hris-administrator-client-site-skillmind-software-ltd/
+- **Lead Mobile Engineer** at d.light (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/lead-mobile-engineer-d-light/
