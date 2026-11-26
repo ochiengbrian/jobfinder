@@ -10770,3 +10770,12 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/assistant-manager-data-engineer-im-bank/
 - **Political and Digital Risk Analyst [Open to Internal and External Applicants]** at United Nations Development Programme (UNDP) (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/political-digital-risk-analyst-open-internal-external-applicants-united-nations-development-programme-undp/
+
+## 2026-11-26 10:28 UTC — 3 new job(s)
+
+- **Social Work/Community Development Trainer** at Kenya Institute of Social Work and Community Development (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/social-work-community-development-trainer-kenya-institute-of-social-work-and-community-development
+- **HRIS Administrator – Client Site** at Skillmind Software Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/hris-administrator-client-site-skillmind-software-ltd/
+- **Principal Research Scientist and Director of Health Research** at Innovations for Poverty Action (IPA) (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/principal-research-scientist-director-health-research-innovations-poverty-action-ipa/
