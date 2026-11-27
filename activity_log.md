@@ -10829,3 +10829,40 @@ Auto-updated by the job scraper workflow each time new jobs are written to Googl
   https://jobwebkenya.com/jobs/sales-market-development-officer-takataka-solutions/
 - **Application Support Engineer** at Network International (Kenya) [JobWebKenya]  
   https://jobwebkenya.com/jobs/application-support-engineer-network-international/
+
+## 2026-11-27 22:33 UTC — 17 new job(s)
+
+- **Data Analyst** at Mount Kenya University (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-analyst-mount-kenya-university
+- **Projects Engineer — Infrastructure Projects** at Baran Telecom Networks Kenya Limited (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/projects-engineer-infrastructure-projects-baran-telecom-networks-kenya-limited
+- **Community Development Facilitator (CDF)/ Programme Officer (PO)** at Strategies for Agro-pastoralists Development (SAPAD Kenya) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/community-development-facilitator-cdf-programme-officer-po-strategies-for-agro-pastoralists-development-sapad-kenya
+- **Project Officer - 1 Position** at Community Initiative Facilitation and Assistance (CIFA) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-officer-1-position-community-initiative-facilitation-and-assistance-cifa
+- **Team Leader Monitoring & Evaluation** at Indepth Research Services (IRES) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/team-leader-monitoring-and-evaluation-indepthresearch
+- **Field Survey Managers Monitoring & Evaluation** at Indepth Research Services (IRES) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/field-survey-managers-monitoring-and-evaluation-indepthresearch
+- **Data Managers Monitoring & Evaluation** at Indepth Research Services (IRES) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/data-managers-monitoring-and-evaluation-indepthresearch
+- **Project Experts Monitoring & Evaluation** at Indepth Research Services (IRES) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/project-experts-monitoring-and-evaluation-indepthresearch
+- **Researchers Monitoring & Evaluation** at Indepth Research Services (IRES) (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/researchers-monitoring-and-evaluation-indepthresearch
+- **Humanitarian Affairs Officer-Monitoring and Reporting (Nationals Only) (2 Positions)** at United Nations Office for the Coordination of Humanitarian Affairs (Kenya) [MyJobMag]  
+  https://www.myjobmag.co.ke/job/humanitarian-affairs-officer-monitoring-and-reporting-nationals-only-2-positions-united-nations-office-for-the-coordination-of-humanitarian-affairs
+- **Carpenter & Joinery Technician** at Megha Marketing EA Ltd (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/carpenter-joinery-technician-megha-marketing-ea-ltd/
+- **Program Officer-Business Development** at Danish Refugee Council (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/program-officer-business-development-danish-refugee-council/
+- **Senior Officer – Monitoring, Evaluation and Learning (MEL)** at African Wildlife Foundation (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/senior-officer-monitoring-evaluation-learning-mel-african-wildlife-foundation/
+- **Sales and Market Development Officer** at TakaTaka Solutions (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/sales-market-development-officer-takataka-solutions/
+- **Application Support Engineer** at Network International (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/application-support-engineer-network-international/
+- **Supervisor, Network Technologies** at SBM Bank (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/supervisor-network-technologies-sbm-bank-2/
+- **Manager, Credit Monitoring & Control (Commercial and Consumer Banking)** at SBM Bank (Kenya) [JobWebKenya]  
+  https://jobwebkenya.com/jobs/manager-credit-monitoring-control-commercial-consumer-banking-sbm-bank/
